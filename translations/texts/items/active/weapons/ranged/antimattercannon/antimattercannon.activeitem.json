@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/antimattercannon/antimattercannon.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Antimatter Cannon Mk 1"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/antimattercannon/antimattercannon.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The cannon is made with extreme caution and designed for total destruction."
+    }
+  }
+]

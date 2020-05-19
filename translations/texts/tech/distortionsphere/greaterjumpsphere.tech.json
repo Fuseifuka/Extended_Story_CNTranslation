@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/distortionsphere/greaterjumpsphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "万能球",
+      "Eng": "Omnisphere"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/distortionsphere/greaterjumpsphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "按^green;[F]^reset;变成一个多功能球体",
+      "Eng": "Turn into a sphere that has multiple abilities ^green;[F]"
+    }
+  }
+]

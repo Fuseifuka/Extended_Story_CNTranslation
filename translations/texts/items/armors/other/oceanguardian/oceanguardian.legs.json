@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/oceanguardian/oceanguardian.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extremely hard armor made of pure ocean metal.\n^cyan;Immune to suffocation and higher swimming mobility."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/oceanguardian/oceanguardian.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ocean Guardian's Greaves"
+    }
+  }
+]

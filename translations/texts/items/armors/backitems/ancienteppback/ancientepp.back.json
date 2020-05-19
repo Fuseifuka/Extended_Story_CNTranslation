@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/ancienteppback/ancientepp.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient EPP"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/ancienteppback/ancientepp.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prevents any low or high temperatures, neutralizes high levels of radiation, and provides oxygen to the wearer."
+    }
+  }
+]

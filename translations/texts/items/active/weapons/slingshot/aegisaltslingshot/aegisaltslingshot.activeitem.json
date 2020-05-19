@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/slingshot/aegisaltslingshot/aegisaltslingshot.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slingshot forged with aegisalt and powered by a battery."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/slingshot/aegisaltslingshot/aegisaltslingshot.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aegisalt Slingshot"
+    }
+  }
+]

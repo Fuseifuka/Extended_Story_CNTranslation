@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/miniboss/mazeminiboss1/mazeminiboss1.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mutated monster that feeds on large animals."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/miniboss/mazeminiboss1/mazeminiboss1.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terrorizer"
+    }
+  }
+]

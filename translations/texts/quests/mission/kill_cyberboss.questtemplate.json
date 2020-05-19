@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/mission/kill_cyberboss.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"这^green;网络核心^reset;上面有个坐标。也许那里有什么很棒的东西。我已经把坐标输入到了SAIL上，看看这会指向哪里。",
+      "Eng": "...There...Are some coordinates on this ^green;cyber core^white;. Maybe there will be some ^orange;awesome things^white; there. I'll input the coordinates into SAIL and see where it leads to."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/mission/kill_cyberboss.questtemplate": [
+        "/scriptConfig/descriptions/gatherItem"
+      ]
+    },
+    "Texts": {
+      "Chs":"击败^orange;恐怖机器人^reset;",
+      "Eng": "Defeat the ^orange;Bot of Terror^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/mission/kill_cyberboss.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Chs":"与我战斗的那架巨型飞行物确实令人生畏。 它掉落了一个武器放大器。 也许我可以以某种方式利用它。",
+      "Eng": "The giant aircraft that I fought was truly intimidating. It dropped a weapon amplifier. Perhaps I could make use of this in some way."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/mission/kill_cyberboss.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs":"星械人设施",
+      "Eng": "^red;The Novabot Facility"
+    }
+  }
+]

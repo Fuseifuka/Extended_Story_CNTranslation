@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/prismaticcataclysm/prismaticcataclysm.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An amazingly powerful gun fueled by prisilite stars."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/prismaticcataclysm/prismaticcataclysm.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Prism^pink;atic ^green;Catac^magenta;lysm^reset;"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/abyssshard.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Naturally found deep inside of ^#666666;dark abyss^reset; planets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/abyssshard.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Umbrium Shard"
+    }
+  }
+]

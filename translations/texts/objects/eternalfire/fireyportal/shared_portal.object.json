@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfire/fireyportal/fireyportal.object": [
+        "/apexDescription"
+      ],
+      "objects/eternalfire/fireyportal/fireyreturnportal.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A firey portal that leads to a random dimension"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfire/fireyportal/fireyportal.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/eternalfire/fireyportal/fireyreturnportal.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A firey portal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfire/fireyportal/fireyportal.object": [
+        "/floranDescription"
+      ],
+      "objects/eternalfire/fireyportal/fireyreturnportal.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstrange orange portal."
+    }
+  }
+]

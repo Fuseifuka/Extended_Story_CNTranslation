@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/eternalfire.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burning"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/blinded_es/blinded_es.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"失明-你什么都看不到",
+      "Eng": "Blinded - You cannot see anything"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ultimatium/ultimatiumgun/ultimatiumgun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A machine gun that shoots explosive bouncing flames."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ultimatium/ultimatiumgun/ultimatiumgun.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rainbow Blast"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ultimatium/ultimatiumgun/ultimatiumgun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rainbow Flame Cannon"
+    }
+  }
+]

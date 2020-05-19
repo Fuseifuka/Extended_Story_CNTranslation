@@ -1,0 +1,103 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/annihilatorteleporter/annihilatorteleporter.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A complicated transmitter. It transmits signals that only its intended receiver will understand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/annihilatorteleporter/annihilatorteleporter.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mysterious transmitter. Teleports you to a strange place."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/annihilatorteleporter/annihilatorteleporter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"在歼灭者无人机上找到的奇怪的信号发射器。^red;歼灭团^reset;",
+      "Eng": "A strange transmitter found on Annihilator Drones. ^red;Annihilator Mission."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/annihilatorteleporter/annihilatorteleporter.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strangely-colored transmitter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/annihilatorteleporter/annihilatorteleporter.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A transmitter that has unknown purposes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/annihilatorteleporter/annihilatorteleporter.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A transmitter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/annihilatorteleporter/annihilatorteleporter.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An strange-lookin' transmitter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/annihilatorteleporter/annihilatorteleporter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"信号发射器",
+      "Eng": "Signal Transmitter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/annihilatorteleporter/annihilatorteleporter.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstrange rod with bulb on top."
+    }
+  }
+]

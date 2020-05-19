@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/spawner/microspawngate/ancientmicrogate/ancientmicrogate.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An extremely efficient robot-producing machine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/spawner/microspawngate/ancientmicrogate/ancientmicrogate.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Microgate Energy"
+    }
+  }
+]

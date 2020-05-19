@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/core/permafrostcore.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "corepermafrost"
+    }
+  }
+]

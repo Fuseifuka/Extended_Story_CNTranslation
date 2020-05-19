@@ -1,0 +1,31 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssportal/abyssreturnportal.object": [
+        "/shortdescription"
+      ],
+      "objects/voltage/electricportal/electricreturnportal.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"深渊返回传送门",
+      "Eng": "Abyss Return Portal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssportal/abyssreturnportal.object": [
+        "/apexDescription"
+      ],
+      "objects/voltage/electricportal/electricreturnportal.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An abyss portal that leads to a random dimension"
+    }
+  }
+]

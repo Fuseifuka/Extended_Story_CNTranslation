@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/biomeplutonium/biomeplutonium.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"虚幻辐射-辐射会在60秒内杀死你",
+      "Eng": "Unreal Radiation - The radiation will kill you in 60 seconds"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/iceplatform_es.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"看起来很花哨的冰制平台。",
+      "Eng": "Some fancy lookin' ice platforms."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/iceplatform_es.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"光光光滑的冰平平平台！",
+      "Eng": "Ssmooth ice platformsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/iceplatform_es.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Chs":"这种光滑的冰平台既美观又坚固。",
+      "Eng": "This smooth ice platform is attractive and sturdy."
+    }
+  }
+]

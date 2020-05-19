@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/miningrelic2.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/miningrelic2.tooltip": [
+        "/speedTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rate of Fire:"
+    }
+  }
+]

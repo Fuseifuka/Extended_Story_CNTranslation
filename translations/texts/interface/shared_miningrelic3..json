@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/miningrelic3.itemdescription": [
+        "/beamLengthTitleLabel/value"
+      ],
+      "interface/tooltips/miningrelic3.tooltip": [
+        "/beamLengthTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beam Length:"
+    }
+  }
+]

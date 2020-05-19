@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnpearlswitch/frostburnpearlswitch.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stand with a large frostburn ball on top of it. It must activate something."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnpearlswitch/frostburnpearlswitch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stand with a pearl on the top. Touching it will activate it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnpearlswitch/frostburnpearlswitch.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An important-lookin' pearl that turns on if I touch it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnpearlswitch/frostburnpearlswitch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frostburn Pearl Switch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnpearlswitch/frostburnpearlswitch.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm tempted to touch the pearl on the stand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnpearlswitch/frostburnpearlswitch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny ball. Floran wantss to touch it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnpearlswitch/frostburnpearlswitch.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tapping the ball on this activates something."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnpearlswitch/frostburnpearlswitch.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This frostburn ball is meant to activate something."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnpearlswitch/frostburnpearlswitch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What does touching this pearl do if it does anything?"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/forgotten.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forgotten"
+    }
+  }
+]

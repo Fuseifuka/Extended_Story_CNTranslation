@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/umbralmatter.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fragment of umbral matter. Its writhing appendages make it too unstable for crafting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/umbralmatter.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Umbral Matter"
+    }
+  }
+]

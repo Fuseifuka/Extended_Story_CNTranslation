@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/unique/forgeblade_es/forgeblade_es.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forge Caster"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/unique/forgeblade_es/forgeblade_es.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The superheated blade forged inside a volcano."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/unique/forgeblade_es/forgeblade_es.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Forgeblade^reset;"
+    }
+  }
+]

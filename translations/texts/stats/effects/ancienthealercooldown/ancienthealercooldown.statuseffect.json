@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/ancienthealercooldown/ancienthealercooldown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"古代精华中毒-古代回复剂无法使用",
+      "Eng": "Essence Poisoning - Ancient Healer is unusable"
+    }
+  }
+]

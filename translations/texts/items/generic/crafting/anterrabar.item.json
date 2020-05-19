@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/anterrabar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metallic alloy recently discovered by mixing Novium with green Erchius crystals."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/anterrabar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anterra Bar"
+    }
+  }
+]

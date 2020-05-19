@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/fireytrailer/fireytrailer.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Firey Trailer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/fireytrailer/fireytrailer.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Made with the ability to shoot special fireballs."
+    }
+  }
+]

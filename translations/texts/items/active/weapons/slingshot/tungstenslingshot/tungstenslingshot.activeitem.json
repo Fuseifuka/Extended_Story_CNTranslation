@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/slingshot/tungstenslingshot/tungstenslingshot.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slingshot forged with tungsten and copper."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/slingshot/tungstenslingshot/tungstenslingshot.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten Slingshot"
+    }
+  }
+]

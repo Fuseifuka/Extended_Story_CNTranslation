@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/testresults/testresults1.codex": [
+        "/description"
+      ],
+      "codex/testresults/testresults2.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A test results paper."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/flamethrowerturret/flamethrowerturret.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A flamethrower turret."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/flamethrowerturret/flamethrowerturret.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flamethrower Turret"
+    }
+  }
+]

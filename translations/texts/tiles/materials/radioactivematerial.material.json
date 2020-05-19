@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/radioactivematerial.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Waste from nuclear factories."
+    }
+  }
+]

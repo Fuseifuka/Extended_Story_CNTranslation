@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/radioactivematerial.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/radioactivematerial.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pile of deadly waste."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/radioactivematerial.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/radioactivematerial.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can't get near glowing green stuff."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/radioactivematerial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/radioactivematerial.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radioactive Waste"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/radioactivematerial.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/radioactivematerial.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This deadly waste is somethin' that would kill ya."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/minions/annihilatordroneminion/annihilatordroneminion.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A drone summoned by the Annihilator to help destroy its target."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/minions/annihilatordroneminion/annihilatordroneminion.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Annihilator Drone"
+    }
+  }
+]

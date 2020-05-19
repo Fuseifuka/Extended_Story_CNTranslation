@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ancient/ancientbow/ancientbow.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Best bow of all time.\n^green;Shoots heat-seeking arrows."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ancient/ancientbow/ancientbow.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chaos Arrow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ancient/ancientbow/ancientbow.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;^reset;"
+    }
+  }
+]

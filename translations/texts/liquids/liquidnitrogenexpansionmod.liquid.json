@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/liquidnitrogenexpansionmod.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An extremely cold liquid."
+    }
+  }
+]

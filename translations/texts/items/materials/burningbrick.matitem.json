@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningbrick.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Infernal Brick"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningbrick.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small bricks made from infernal stone."
+    }
+  }
+]

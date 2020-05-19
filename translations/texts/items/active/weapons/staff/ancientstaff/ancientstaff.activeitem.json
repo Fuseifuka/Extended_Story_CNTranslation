@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/ancientstaff/ancientstaff.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An extremely powerful staff that shoots laser beams."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/ancientstaff/ancientstaff.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Laser Portal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/ancientstaff/ancientstaff.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;^reset;"
+    }
+  }
+]

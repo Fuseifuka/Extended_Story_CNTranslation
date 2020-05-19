@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/darkoise/darkoise.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Darkoise"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/darkoise/darkoise.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The dark variant of the Crustoise."
+    }
+  }
+]

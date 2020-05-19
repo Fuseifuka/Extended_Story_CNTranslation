@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/eternalfire/fireelemental/fireelemental.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wandering fireball that will shoot fireballs at its target."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/eternalfire/fireelemental/fireelemental.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fire Elemental"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/rapidrl4_es/rapidrl4_es.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "RL-Rapid Mk IV"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/rapidrl4_es/rapidrl4_es.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The rocket launcher shoots small rockets at a rapid rate. ^cyan;Final Upgrade^reset;"
+    }
+  }
+]

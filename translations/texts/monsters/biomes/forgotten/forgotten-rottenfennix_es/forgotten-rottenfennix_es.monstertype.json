@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/forgotten/forgotten-rottenfennix_es/forgotten-rottenfennix_es.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Fennix that has succumbed to the pungent airs of the Forgotten world."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/forgotten/forgotten-rottenfennix_es/forgotten-rottenfennix_es.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rotting Fennix"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/lightninggunnew/lightninggunnew.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gun that shoots extremely high voltage electric bolts. ^cyan;Upgraded^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/lightninggunnew/lightninggunnew.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lightning Stream"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/lightninggunnew/lightninggunnew.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Lightning Gun^reset; ^cyan;^reset;"
+    }
+  }
+]

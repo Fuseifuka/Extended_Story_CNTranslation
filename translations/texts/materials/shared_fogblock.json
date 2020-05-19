@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fogblock.matitem": [
+        "/novakiddescription"
+      ],
+      "items/materials/fogblockpacked.matitem": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/fogblockpacked.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nobody ain't fallin' through this stuff...Don't know how."
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/halloweendirt.matitem": [
+        "/novakiddescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirty lookin' and spooky dirt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/halloweendirt.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extremely spoopy dirt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/halloweendirt.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssspooky dirt!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/halloweendirt.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is basic and spooky soil."
+    }
+  }
+]

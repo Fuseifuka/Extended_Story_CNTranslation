@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/abyssartifactdungeon/abyssartifactaltar/abyssartifactaltar.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"深渊神器祭坛",
+      "Eng": "Abyss Artifact Altar"
+    }
+  }
+]

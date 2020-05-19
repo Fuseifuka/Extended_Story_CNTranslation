@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/liquidfabric.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A measure of liquid fabric. Despite its classification as a liquid, it has a dry texture. Reacts with water and lava."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/liquidfabric.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fabric"
+    }
+  }
+]

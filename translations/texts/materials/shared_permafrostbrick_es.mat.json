@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/permafrostbrick_es.matitem": [
+        "/description"
+      ],
+      "tiles/materials/permafrostbrick_es.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A brick carved from permafrost stone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/permafrostbrick_es.matitem": [
+        "/floranDescription"
+      ],
+      "tiles/materials/permafrostbrick_es.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cold and lifelesss. Floran likess cold brick."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/permafrostbrick_es.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/permafrostbrick_es.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Permafrost Brick"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/permafrostbrick_es.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/permafrostbrick_es.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This brick looks cool."
+    }
+  }
+]

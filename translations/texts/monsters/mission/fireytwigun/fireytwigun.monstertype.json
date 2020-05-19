@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/fireytwigun/fireytwigun.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Firey Twigun"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/fireytwigun/fireytwigun.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "lol"
+    }
+  }
+]

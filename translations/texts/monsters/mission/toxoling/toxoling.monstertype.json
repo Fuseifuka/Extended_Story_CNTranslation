@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/toxoling/toxoling.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The off-spring of Toxinia that has the instinct of killing. Might become another Toxinia if it survives for 100 years."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/toxoling/toxoling.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxoling"
+    }
+  }
+]

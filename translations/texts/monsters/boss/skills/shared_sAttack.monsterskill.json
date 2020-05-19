@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/ancientboss/skills/ancientbossReinforcementsAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/destroyer/skills/destroyerMinionsAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "REINFORCEMENTS"
+    }
+  }
+]

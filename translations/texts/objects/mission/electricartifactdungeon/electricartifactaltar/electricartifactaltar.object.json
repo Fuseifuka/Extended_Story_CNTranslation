@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/electricartifactdungeon/electricartifactaltar/electricartifactaltar.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"雷霆神器祭坛",
+      "Eng": "Electric Artifact Altar"
+    }
+  }
+]

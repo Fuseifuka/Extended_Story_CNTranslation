@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/lifesteal-enemy_es/lifesteal-enemy_es.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/lifesteal-player_es/lifesteal-player_es.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"生命偷取",
+      "Eng": "Life Steal"
+    }
+  }
+]

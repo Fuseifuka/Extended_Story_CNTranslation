@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkobsidian.matitem": [
+        "/description"
+      ],
+      "tiles/materials/darkobsidian.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark blue material that is extremely hard to break."
+    }
+  }
+]

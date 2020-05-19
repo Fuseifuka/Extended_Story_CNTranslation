@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/ancientsetbonus/ancientsetbonus.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"古代力量-每次击中附近怪物时有33％几率爆炸",
+      "Eng": "Ancient Power - 33% chance of nearby monsters exploding every hit"
+    }
+  }
+]

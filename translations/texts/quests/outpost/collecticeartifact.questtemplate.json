@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/collecticeartifact.questtemplate": [
+        "/scriptConfig/descriptions/artifact"
+      ]
+    },
+    "Texts": {
+      "Chs":"在^green;霜封界^reset;中寻找^orange;神器^reset;",
+      "Eng": "Find the ^orange;artifact^reset; in ^green;the Frozen Dimension^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/collecticeartifact.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"^orange;冰霜神器^reset;位于^green;霜封界^reset;中，比起其他存放神器的地方这里会更加开放。通往那个空间的入口位于^#a6ceff;永恒冰封^reset;星球。",
+      "Eng": "The ^orange;ice artifact^reset; is found in the ^green;Frozen Dimension^reset;. It's more open than the other ones. Portals for this dimension are located in ^#a6ceff;permafrost^reset; worlds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/collecticeartifact.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs":"^#a6ceff;冰霜神器^reset;",
+      "Eng": "^#a6ceff;The Ice Artifact^reset;"
+    }
+  }
+]

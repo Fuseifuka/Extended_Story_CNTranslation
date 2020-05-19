@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/ancientmess.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Mess"
+    }
+  }
+]

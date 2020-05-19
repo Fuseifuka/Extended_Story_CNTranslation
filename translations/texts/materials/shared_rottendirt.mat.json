@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rottendirt.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rottendirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rotting Dirt"
+    }
+  }
+]

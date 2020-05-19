@@ -1,0 +1,100 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/bossvaultdoorgrind/bossvaultdoorgrind.object": [
+        "/humanDescription"
+      ],
+      "objects/ancient/superchallengedoor/superchallengedoor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mysterious doorway leading to a specific dimension. Specific loot can be found here, but it seems rather intimidating in there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/bossvaultdoorgrind/bossvaultdoorgrind.object": [
+        "/avianDescription"
+      ],
+      "objects/ancient/superchallengedoor/superchallengedoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rather familiar door that leads to...death."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/bossvaultdoorgrind/bossvaultdoorgrind.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ancient/superchallengedoor/superchallengedoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An enigmatic doorway that seems familiar...Entering the place could be lethal!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/bossvaultdoorgrind/bossvaultdoorgrind.object": [
+        "/novakidDescription"
+      ],
+      "objects/ancient/superchallengedoor/superchallengedoor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seems like there ain't much danger...Actually, don't think so."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/bossvaultdoorgrind/bossvaultdoorgrind.object": [
+        "/floranDescription"
+      ],
+      "objects/ancient/superchallengedoor/superchallengedoor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstrange door with danger. Floran likess danger."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/bossvaultdoorgrind/bossvaultdoorgrind.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ancient/superchallengedoor/superchallengedoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door contains something I would rather not face."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/bossvaultdoorgrind/bossvaultdoorgrind.object": [
+        "/apexDescription"
+      ],
+      "objects/ancient/superchallengedoor/superchallengedoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door seems like a challenge door; whatever lurks in there is dangerous."
+    }
+  }
+]

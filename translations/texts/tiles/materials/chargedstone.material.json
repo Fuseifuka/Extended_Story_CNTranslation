@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/chargedstone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A glowin' electric rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/chargedstone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glowing ssstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/chargedstone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cobble block is electrically charged."
+    }
+  }
+]

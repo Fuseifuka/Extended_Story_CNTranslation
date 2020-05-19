@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/infernium/infernium.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chestplate made of fire and infernal rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/infernium/infernium.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Infernium Chestplate"
+    }
+  }
+]

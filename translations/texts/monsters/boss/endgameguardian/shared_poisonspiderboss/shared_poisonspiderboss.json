@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/endgameguardian/poisonspiderboss/poisonspiderboss.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/boss/endgameguardian/poisonspiderbossphase2/poisonspiderbossphase2.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxinia"
+    }
+  }
+]

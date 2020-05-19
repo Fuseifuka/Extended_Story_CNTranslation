@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/oceanguardian/oceanguardian.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ocean Guardian's Breastplate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/oceanguardian/oceanguardian.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Really strong breastplate designed for higher mobility underwater.\n^cyan;Immune to suffocation and higher swimming mobility."
+    }
+  }
+]

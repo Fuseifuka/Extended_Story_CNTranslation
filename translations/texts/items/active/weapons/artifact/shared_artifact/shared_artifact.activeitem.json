@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/artifact/abyssartifact/abyssartifact.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/artifact/fireartifact/fireartifact.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/artifact/iceartifact/iceartifact.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/artifact/poisonartifact/poisonartifact.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A weapon created by the ancients for extreme situations."
+    }
+  }
+]

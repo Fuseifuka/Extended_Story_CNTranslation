@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/darkignome/darkignome.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Ignome"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/darkignome/darkignome.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The dark variant of the Ignome."
+    }
+  }
+]

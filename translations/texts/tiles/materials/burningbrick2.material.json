@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/burningbrick2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slabs made from eternally burning stone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/burningbrick2.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slabs made outta really hot stone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/burningbrick2.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmooth and glowing ssstone slabsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/burningbrick2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These slabs are made from extremely hot stone."
+    }
+  }
+]

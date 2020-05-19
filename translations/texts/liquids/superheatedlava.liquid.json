@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/superheatedlava.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extremely hot lava."
+    }
+  }
+]

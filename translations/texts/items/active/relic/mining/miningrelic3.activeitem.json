@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/relic/mining/miningrelic3.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange tool that ejects a tentacle with an acidic tip."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/relic/mining/miningrelic3.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Biosteel Tentacle Drill"
+    }
+  }
+]

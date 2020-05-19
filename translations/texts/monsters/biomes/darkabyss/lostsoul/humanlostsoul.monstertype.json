@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/lostsoul/humanlostsoul.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Human Lost Soul"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/lostsoul/humanlostsoul.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The spirit of a ^green;Human^reset; wandering the ^#666666;dark abyss^reset; for eternity. Call it a ghost!"
+    }
+  }
+]

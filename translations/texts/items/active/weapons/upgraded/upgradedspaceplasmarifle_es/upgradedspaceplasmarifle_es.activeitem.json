@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/upgraded/upgradedspaceplasmarifle_es/upgradedspaceplasmarifle_es.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Because in this universe, everything is about space! ^cyan;Upgraded"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/upgraded/upgradedspaceplasmarifle_es/upgradedspaceplasmarifle_es.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasma Assault Rifle ^cyan;^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/upgraded/upgradedspaceplasmarifle_es/upgradedspaceplasmarifle_es.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sticky Plasma Mines"
+    }
+  }
+]

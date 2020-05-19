@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/darkmatterbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Matter Bar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/darkmatterbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ore for dark matter bars can be found deeply in any planet(most common in tier 6)."
+    }
+  }
+]

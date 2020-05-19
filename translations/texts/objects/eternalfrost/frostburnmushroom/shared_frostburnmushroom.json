@@ -1,0 +1,209 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom1.object": [
+        "/apexDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom2.object": [
+        "/apexDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom3.object": [
+        "/apexDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom4.object": [
+        "/apexDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom5.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beautifully glowing frostburn mushrooms that are harmful to consume."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom1.object": [
+        "/shortdescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom2.object": [
+        "/shortdescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom3.object": [
+        "/shortdescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom4.object": [
+        "/shortdescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frostburn Mushrooms"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom1.object": [
+        "/novakidDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom2.object": [
+        "/novakidDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom3.object": [
+        "/novakidDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom4.object": [
+        "/novakidDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom5.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interesting lil' guys."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom5.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mushrooms like these are a rare sight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom1.object": [
+        "/description"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom2.object": [
+        "/description"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom3.object": [
+        "/description"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom4.object": [
+        "/description"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom5.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mushrooms with frostburn energy in its cap."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom4.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom5.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These glowing mushrooms provide much welcome natural light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom1.object": [
+        "/floranDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom2.object": [
+        "/floranDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom3.object": [
+        "/floranDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom4.object": [
+        "/floranDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom5.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These look tasssty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom1.object": [
+        "/avianDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom2.object": [
+        "/avianDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom3.object": [
+        "/avianDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom4.object": [
+        "/avianDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom5.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These mushrooms are pretty tiny, but consuming one can be dangerous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom1.object": [
+        "/humanDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom2.object": [
+        "/humanDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom3.object": [
+        "/humanDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom4.object": [
+        "/humanDescription"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom5.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These mushrooms are very bizarre. I wouldn't want to eat them anyways."
+    }
+  }
+]

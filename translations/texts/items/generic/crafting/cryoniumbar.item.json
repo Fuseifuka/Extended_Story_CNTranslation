@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/cryoniumbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cryonium Bar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/cryoniumbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This piece of metal manages to remain at temperatures near absolute zero.^green; Used for crafting permafrost weapons^reset;."
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/decayingair/rotaura2.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"腐朽-你正在腐朽光环的影响下腐烂",
+      "Eng": "Decay - You're decaying from the rot aura's effects"
+    }
+  }
+]

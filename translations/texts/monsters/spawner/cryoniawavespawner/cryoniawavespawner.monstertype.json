@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/spawner/cryoniawavespawner/cryoniawavespawner.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A machine that spawns lots of combat machines. P R A I S E  T H E  C O O L  O N E ."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/spawner/cryoniawavespawner/cryoniawavespawner.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen Spawngate Energy"
+    }
+  }
+]

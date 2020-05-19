@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/sandstonebrick_es.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A brick of sandstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/sandstonebrick_es.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compressed brick of sandstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/sandstonebrick_es.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Really hard bricks of sandstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/sandstonebrick_es.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandstone Brick"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/sandstonebrick_es.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssandstone brickss."
+    }
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/supervoidblock.matitem": [
+        "/florandescription",
+        "/glitchdescription"
+      ],
+      "monsters/boss/zombienox/zombienox.monstertype": [
+        "/baseParameters/dialog/intro/default/default/0"
+      ],
+      "objects/generic/directionalforceregion_es/directionalforceregiondown_es.object": [
+        "/description"
+      ],
+      "objects/generic/directionalforceregion_es/directionalforceregionleft_es.object": [
+        "/description"
+      ],
+      "objects/generic/directionalforceregion_es/directionalforceregionright_es.object": [
+        "/description"
+      ],
+      "objects/generic/directionalforceregion_es/directionalforceregionup_es.object": [
+        "/description"
+      ],
+      "objects/spawner/ims_threatlevel_es.object": [
+        "/description"
+      ],
+      "quests/outpost/collectabyssartifact.questtemplate": [
+        "/completionText"
+      ],
+      "quests/outpost/collectelectricartifact.questtemplate": [
+        "/completionText"
+      ],
+      "quests/outpost/collectfireartifact.questtemplate": [
+        "/completionText"
+      ],
+      "quests/outpost/collecticeartifact.questtemplate": [
+        "/completionText"
+      ],
+      "quests/outpost/collectpoisonartifact.questtemplate": [
+        "/completionText"
+      ],
+      "tiles/materials/supervoidblock.material": [
+        "/description",
+        "/floranDescription",
+        "/glitchDescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"黑得不能再黑的方块，超虚空特产。也许可以拿来做背景？",
+      "Eng": "..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/truedestroyer/truedestroyer.monstertype": [
+        "/shortdescription"
+      ],
+      "radiomessages/extendedstory.radiomessages": [
+        "/isolatedvault07/senderName"
+      ]
+    },
+    "Texts": {
+      "Chs":"量子哨兵Omega",
+      "Eng": "Omega the Quantum Sentry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/holestone.matitem": [
+        "/shortdescription"
+      ],
+      "objects/forgotten/forgotten-breakable1_es/forgotten-breakable1_es.object": [
+        "/shortdescription"
+      ],
+      "objects/forgotten/forgotten-breakable2_es/forgotten-breakable2_es.object": [
+        "/shortdescription"
+      ],
+      "tiles/materials/holestone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"腐朽物质",
+      "Eng": "Rotting Substance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/supervoid.biome": [
+        "/friendlyName"
+      ],
+      "interface/warping/teleporttobossworld2.config": [
+        "/destinations/0/planetName"
+      ]
+    },
+    "Texts": {
+      "Chs":"超虚空",
+      "Eng": "Supervoid"
+    }
+  }
+]

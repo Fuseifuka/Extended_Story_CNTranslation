@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/radyitebar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radyite Bar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/radyitebar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radyite ore can be found in nuclear wastelands. ^green;Can be used to craft Irradiated weapons^reset;."
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssswarmurnsmall1_es/abyssswarmurnsmall1_es.object": [
+        "/description"
+      ],
+      "objects/abyss/abyssswarmurnsmall2_es/abyssswarmurnsmall2_es.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small, dark vase. Looks like it's infested with something."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssswarmurnsmall1_es/abyssswarmurnsmall1_es.object": [
+        "/shortdescription"
+      ],
+      "objects/abyss/abyssswarmurnsmall2_es/abyssswarmurnsmall2_es.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Infested Shadow Urn"
+    }
+  }
+]

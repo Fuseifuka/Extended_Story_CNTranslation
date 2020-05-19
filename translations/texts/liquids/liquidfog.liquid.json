@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/liquidfog.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The core of the abyss biome."
+    }
+  }
+]

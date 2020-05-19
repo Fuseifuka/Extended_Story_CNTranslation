@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/oceanguardian/oceanguardian.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A helm that was forged in the ocean!\n^cyan;Immune to suffocation and higher swimming mobility."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/oceanguardian/oceanguardian.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ocean Guardian's Helm"
+    }
+  }
+]

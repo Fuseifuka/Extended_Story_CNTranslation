@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/beamcannon/rarebeamcannon.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/beamcannon/uncommonbeamcannon.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fully functional laser shooting cannon."
+    }
+  }
+]

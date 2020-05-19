@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedportal/irradiatedportal.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"辐照界入口",
+      "Eng": "Irradiated Portal"
+    }
+  }
+]

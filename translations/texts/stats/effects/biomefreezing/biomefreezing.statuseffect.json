@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/biomefreezing/biomefreezing.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"极度寒冷-你正在经历剧烈的体温过低。掏出鸡儿尿一个试试看？",
+      "Eng": "Extreme Cold - You experience extreme hypothermia"
+    }
+  }
+]

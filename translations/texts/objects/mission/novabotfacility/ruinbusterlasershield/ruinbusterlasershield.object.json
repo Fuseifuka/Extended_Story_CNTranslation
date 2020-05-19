@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/novabotfacility/ruinbusterlasershield/ruinbusterlasershield.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"祸爆发射线护盾",
+      "Eng": "RuinbusterLaserShield"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/novabotfacility/ruinbusterlasershield/ruinbusterlasershield.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"描述",
+      "Eng": "description"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/lostsoul/avianlostsoul.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avian Lost Soul"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/lostsoul/avianlostsoul.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The spirit of an ^green;Avian^reset; wandering the ^#666666;dark abyss^reset; for eternity."
+    }
+  }
+]

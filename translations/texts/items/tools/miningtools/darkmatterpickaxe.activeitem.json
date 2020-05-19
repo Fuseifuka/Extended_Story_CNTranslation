@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/miningtools/darkmatterpickaxe.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mining tool that is very strong and effective.\n^green;Consumes energy instead of durability"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/miningtools/darkmatterpickaxe.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Dark Matter Pickaxe^reset;"
+    }
+  }
+]

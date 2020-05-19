@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/ionized/ionized.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"电离-电离辐射病正在摧残你",
+      "Eng": "Ionized - Ionizing radiation sickness"
+    }
+  }
+]

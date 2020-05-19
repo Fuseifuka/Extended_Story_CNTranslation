@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/ancienthealing2.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Converts ancient energy into repair material. Passively regenerates health for 2 minutes."
+    }
+  }
+]

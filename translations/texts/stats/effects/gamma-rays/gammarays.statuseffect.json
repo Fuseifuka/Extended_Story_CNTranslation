@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/gamma-rays/gammarays.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"古代之火-你正被古代能量灼烧",
+      "Eng": "Ancient Fire - You are burning away due to ancient energy"
+    }
+  }
+]

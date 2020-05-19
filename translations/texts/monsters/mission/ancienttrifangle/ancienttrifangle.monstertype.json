@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/ancienttrifangle/ancienttrifangle.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Trifangle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/ancienttrifangle/ancienttrifangle.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weird floaty trifangle thingy."
+    }
+  }
+]

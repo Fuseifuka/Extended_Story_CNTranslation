@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/radioactivewalls1.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/radioactivewalls1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irradiated Stone Slab"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/radioactivewalls1.matitem": [
+        "/description"
+      ],
+      "tiles/materials/radioactivewalls1.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irradiated stone slabs. These could keep invaders away, or cause mutations."
+    }
+  }
+]

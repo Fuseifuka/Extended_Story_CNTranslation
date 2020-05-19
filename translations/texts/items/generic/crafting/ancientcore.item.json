@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ancientcore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A purple gem made of ancient essence. Used for crafting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ancientcore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Gem"
+    }
+  }
+]

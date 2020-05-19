@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/supervoidblock.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block found in the Supervoid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/supervoidblock.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Supervoid Block"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/essencedrain/essencedrain.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"精华流失-你的活力精华在虚空中流失。",
+      "Eng": "Essence Drain - Your vitality essence is being drained by the void."
+    }
+  }
+]

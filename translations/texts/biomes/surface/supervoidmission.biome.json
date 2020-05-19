@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/supervoidmission.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Supervoid Mission"
+    }
+  }
+]

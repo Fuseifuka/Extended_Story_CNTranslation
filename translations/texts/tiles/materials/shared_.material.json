@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/holestone.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/rottendirt.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssmells nassty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/sandbricklightning.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/supercompressedsand.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssuper sstrong sssand!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/sandbricklightning.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/supercompressedsand.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprisingly hard sand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/sandbricklightning.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/supercompressedsand.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sand is extremely compressed."
+    }
+  }
+]

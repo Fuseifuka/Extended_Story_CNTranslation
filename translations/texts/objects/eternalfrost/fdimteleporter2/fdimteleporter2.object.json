@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter2/fdimteleporter2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door to the Cryonia Temple."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter2/fdimteleporter2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A primitively-made door that has a design of an open mouth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter2/fdimteleporter2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An interesting design for a door to an ancient temple. It's intimidating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter2/fdimteleporter2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giant mouth isss entrance to temple."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter2/fdimteleporter2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Temple Entrance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter2/fdimteleporter2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Them ancients made a menacin' door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter2/fdimteleporter2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door looks menacing!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter2/fdimteleporter2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What lies in this temple?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter2/fdimteleporter2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What surprises will I find in this temple?"
+    }
+  }
+]

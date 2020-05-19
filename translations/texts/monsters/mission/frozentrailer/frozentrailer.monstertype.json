@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/frozentrailer/frozentrailer.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen Trailer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/frozentrailer/frozentrailer.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let it go lelelelel! Description doesn't really matter!"
+    }
+  }
+]

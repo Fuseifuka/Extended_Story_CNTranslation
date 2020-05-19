@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/melting2_es/melting2_es.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"蒸发-你正在从岩浆的热量中蒸发",
+      "Eng": "Vaporizing - You are vaporizing from the heat of the super-heated lava"
+    }
+  }
+]

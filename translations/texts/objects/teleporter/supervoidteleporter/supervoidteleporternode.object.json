@@ -1,0 +1,82 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporternode.object": [
+        "/apexDescription",
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"一个超虚空节点。",
+      "Eng": "A supervoid node!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporternode.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty void."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporternode.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unknown blank space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporternode.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unstable portal to a void of death and chaos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporternode.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks t'me like a purple glowin' thing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporternode.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"超虚空节点",
+      "Eng": "Supervoid Node"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporternode.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What the heck is this anomaly? When I look into it my head spins."
+    }
+  }
+]

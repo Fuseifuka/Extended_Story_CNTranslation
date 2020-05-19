@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/burningstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cobble block that is on fire!"
+    }
+  }
+]

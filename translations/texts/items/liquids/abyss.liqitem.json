@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/abyss.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A measure of void-like liquid that kills."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/abyss.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abyss"
+    }
+  }
+]

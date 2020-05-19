@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/bacteriaore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large bacterium. It causes nearby materials to rot. Used for crafting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/bacteriaore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bacterium Ore"
+    }
+  }
+]

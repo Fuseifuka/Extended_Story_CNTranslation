@@ -1,0 +1,103 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/miningrelicbluetrap/miningrelicbluetrap.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A globe trap, definitely one to avoid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/miningrelicbluetrap/miningrelicbluetrap.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A trusty, reliable globe trap."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/miningrelicbluetrap/miningrelicbluetrap.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"蓝色球体陷阱",
+      "Eng": "Blue Globe Trap"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/miningrelicbluetrap/miningrelicbluetrap.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Globe trap is Floran's worssst enemy!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/miningrelicbluetrap/miningrelicbluetrap.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's just a little globe trap, nothing that can't be overcome."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/miningrelicbluetrap/miningrelicbluetrap.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ouch! Globes and feathers don't mix!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/miningrelicbluetrap/miningrelicbluetrap.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simple yet deadly. My favourite kind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/miningrelicbluetrap/miningrelicbluetrap.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The swift warrior fears not the globes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/miningrelicbluetrap/miningrelicbluetrap.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"这个陷阱发射球体来赶走入侵者。",
+      "Eng": "This trap fires globes to deter invaders."
+    }
+  }
+]

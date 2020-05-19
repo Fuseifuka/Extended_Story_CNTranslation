@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/rotaura/rotaura.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"腐朽光环-附近的怪物会腐烂。",
+      "Eng": "Aura of Decay - Nearby monsters will rot."
+    }
+  }
+]

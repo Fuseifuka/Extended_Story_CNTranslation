@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/livinglightning.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A living lightning bolt! ^cyan;Currently decorative only.^reset;"
+    }
+  }
+]

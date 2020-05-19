@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/ancient/ancient.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Greaves"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/ancient/ancient.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This object's age is beyond comprehension.\n^cyan;Elemental damage reduction and deals damage to enemies."
+    }
+  }
+]

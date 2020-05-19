@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/greenerchius.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Green Erchius Crystal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/greenerchius.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The product of a chemical reaction between Erchius crystals and core fragments."
+    }
+  }
+]

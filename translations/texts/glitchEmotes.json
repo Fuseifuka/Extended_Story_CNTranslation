@@ -1,0 +1,742 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/permafrostbrick_es.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/permafrostbrick_es.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs":"惊讶",
+      "Eng": "Amazed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fogblockpacked.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/radioactivematerial.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "objects/abyss/abyssportal/abyssportal.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/abyss/abyssportal/abyssreturnportal.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientforge/ancientforge.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/ancientfurnace/ancientfurnace.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/eternalfire/fireyportal/fireyportal.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/eternalfire/fireyportal/fireyreturnportal.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/eternalfrost/frozenportal/frozenportal.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/eternalfrost/frozenportal/frozenreturnportal.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/nuclearwasteland/irradiatedportal/irradiatedportal.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/nuclearwasteland/irradiatedportal/irradiatedreturnportal.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/voltage/electricportal/electricportal.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/voltage/electricportal/electricreturnportal.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/fogblockpacked.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/radioactivematerial.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/sandstonebrick_es.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs":"分析中",
+      "Eng": "Analysing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthgivertrap_es/healthgivertrap_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/teleporter/brokenshipteleporter/brokenshipteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs":"懊恼",
+      "Eng": "Annoyed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/voltage/sandrock1/sandrock1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/voltage/sandrock2/sandrock2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/voltage/sandrock3/sandrock3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/voltage/sandrock4/sandrock4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/voltage/sandrock5/sandrock5.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs":"无聊",
+      "Eng": "Bored."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/burningplatform_es.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs":"小心翼翼",
+      "Eng": "Cautious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssvortextrap_es/abyssvortextrap_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/relicdungeon/health/healthtransitiondoor_es/healthtransitiondoor_es.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs":"关心",
+      "Eng": "Concerned."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocket_es.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs":"确凿",
+      "Eng": "Conclusive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter2.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs":"自信",
+      "Eng": "Confident."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fogblock.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "objects/ancient/spheredeactivater/spheredeactivater.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/eternalfire/burningpressureplatform/burningpressureplatform.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/eternalfrost/permafrostpressureplatform/permafrostpressureplatform.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/chargedsand.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/fogblock.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs":"困惑",
+      "Eng": "Confused."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chargedsand.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/livinglightning.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "objects/eternalfrost/fdimteleporter2/fdimteleporter2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/eternalfrost/frostburnpearlswitch/frostburnpearlswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/relicdungeon/health/healthrelicteleporter_es/healthrelicteleporter_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/relicdungeon/mining/miningrelicteleporter/miningrelicteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs":"好奇",
+      "Eng": "Curious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable1_es/forgotten-breakable1_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/forgotten/forgotten-breakable2_es/forgotten-breakable2_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/forgotten/forgotten-breakable3_es/forgotten-breakable3_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/forgotten/forgotten-breakable4_es/forgotten-breakable4_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/forgotten/forgotten-breakable5_es/forgotten-breakable5_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/forgotten/forgottenchest/forgottenchest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/nuclearwasteland/irradiatedchest/irradiatedchest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/holestone.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/irradiatedstone.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs":"恶心",
+      "Eng": "Disgusted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedtorch/irradiatedtorch.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs":"不安",
+      "Eng": "Disturbed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/poisoncrystaltrap/poisoncrystaltrap.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs":"气死爷了",
+      "Eng": "Exasperated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/upgradestation/upgradestation.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs":"激动",
+      "Eng": "Excited."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/halloweencobblestone.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/halloweencobblestone.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs":"着迷",
+      "Eng": "Facinated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/teslaspike/teslaspikeelectricdungeon.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs":"可怕",
+      "Eng": "Fearful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/icespiketrap_es/icespiketrap_es.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frightened."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfire/fireydoor/fireydoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/relicdungeon/health/healthdeductortrap_es/healthdeductortrap_es.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guarded."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnwalllight/frostburnwalllight.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningbrick2.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/radioactivewalls1.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/radioactivewalls1.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Imtimidated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/halloweendirt.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/halloweendirt.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Indifferent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburntorch/frostburntorch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/eternalfrost/permafrostdoor/permafrostdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inquisitive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssvortex/abyssvortex.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intimidated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/darkobsidianbrick.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/darkobsidianbrick2.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssdoor/abyssdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Manipulated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/annihilatorteleporter/annihilatorteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningbrick.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/chargedbrick.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/permafrostblock_es.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/traps/fallingicicletrap_es/fallingicicletrap_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/burningbrick.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/burningbrick2.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/chargedbrick.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/permafrostblock_es.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocketinverted_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchest_es.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observative."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/cryoniastatue/cryoniastatue.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkobsidianrail.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/eternalfrost/frostburnmushroom/frostburnmushroom5.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abysstorch_es/abysstorch_es.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relaxed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthorbspawner_es/healthorbspawner_es.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relieved."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/iceplatform.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/platforms/iceplatform_es.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/bossvaultdoorgrind/bossvaultdoorgrind.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ancient/superchallengedoor/superchallengedoor.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scared."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporternode.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spooked."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkobsidian.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/darkobsidianbrick.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/darkobsidianbrick2.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/holestone.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/rottendirt.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/rottenjelly.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/sandbricklightning.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/sandstonebrick_es.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/supercompressedsand.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/sandbricklightning.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/supercompressedsand.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surpised."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningblock.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/chargedstone.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/irradiatedstone.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/radioactivewalls2.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "objects/nuclearwasteland/irradiatedwallswitch/irradiatedwallswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/burningstone.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/chargedstone.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/darkobsidian.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/livinglightning.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/radioactivewalls2.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/rottendirt.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/rails/darkobsidianrail.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssswarmurnlarge1_es/abyssswarmurnlarge1_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/abyss/abyssswarmurnlarge2_es/abyssswarmurnlarge2_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/abyss/abyssswarmurnmedium1_es/abyssswarmurnmedium1_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/abyss/abyssswarmurnmedium2_es/abyssswarmurnmedium2_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/abyss/abyssswarmurnsmall1_es/abyssswarmurnsmall1_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/abyss/abyssswarmurnsmall2_es/abyssswarmurnsmall2_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/relicdungeon/health/healthdeductorplayertrap_es/healthdeductorplayertrap_es.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/traps/miningrelicbluetrap/miningrelicbluetrap.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terrified."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/rottenjelly.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncomfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter/fdimteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchestlock_es.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upset."
+    }
+  }
+]

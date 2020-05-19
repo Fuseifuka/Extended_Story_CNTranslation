@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningbrick2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/burningbrick2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eternally Burning Slab"
+    }
+  }
+]

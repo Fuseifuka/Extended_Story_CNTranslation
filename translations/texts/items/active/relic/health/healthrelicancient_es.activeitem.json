@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/relic/health/healthrelicancient_es.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;Galactic Healing Spell^reset;"
+    }
+  }
+]

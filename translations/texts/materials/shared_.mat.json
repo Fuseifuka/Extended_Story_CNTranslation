@@ -1,0 +1,113 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningblock.matitem": [
+        "/novakidDescription"
+      ],
+      "items/materials/chargedstone.matitem": [
+        "/novakidDescription"
+      ],
+      "items/materials/irradiatedstone.matitem": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/burningstone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A burnin' rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningblock.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/chargedstone.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/irradiatedstone.matitem": [
+        "/floranDescription"
+      ],
+      "tiles/materials/burningstone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burning ssstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningbrick2.matitem": [
+        "/florandescription"
+      ],
+      "items/materials/radioactivewalls1.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/radioactivewalls1.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glowing ssstone ssslabs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningbrick2.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "items/materials/radioactivewalls1.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/radioactivewalls1.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These stone slabs have an eerie green glow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningblock.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/chargedstone.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/irradiatedstone.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/burningstone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cobble block is eternally burning!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningbrick2.matitem": [
+        "/novakiddescription"
+      ],
+      "items/materials/radioactivewalls1.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/radioactivewalls1.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Whoever touches these are gonna die."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/obliviumskull.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oblivium Skull"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/obliviumskull.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oblivium shaped into a skull. ^cyan;Can be used to make the Oblivion Katana."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/relic/health/brokenhealthrelic_es.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tome used to cast a spell. It lost its energy at some point."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/relic/health/brokenhealthrelic_es.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inert Spell Tome"
+    }
+  }
+]

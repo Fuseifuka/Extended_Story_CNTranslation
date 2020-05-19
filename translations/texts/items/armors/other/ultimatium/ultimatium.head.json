@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/ultimatium/ultimatium.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A helmet made of the strongest known material. \n^cyan;Emits a protective shield.^reset;\n^red;Not dyeable^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/ultimatium/ultimatium.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ultimatium Helmet"
+    }
+  }
+]

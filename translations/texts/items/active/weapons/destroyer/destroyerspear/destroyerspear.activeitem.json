@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/destroyer/destroyerspear/destroyerspear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A spear designed for destruction and annihilation of a target."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/destroyer/destroyerspear/destroyerspear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#cc0000;Destruction Spear^reset;"
+    }
+  }
+]

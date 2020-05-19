@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/irradiatedtrailer/irradiatedtrailer.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irradiated Trailer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/irradiatedtrailer/irradiatedtrailer.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Made with radioactive waste."
+    }
+  }
+]

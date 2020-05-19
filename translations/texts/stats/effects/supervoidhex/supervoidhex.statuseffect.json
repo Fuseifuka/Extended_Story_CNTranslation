@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/supervoidhex/supervoidhex.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"绝望眼神-降低所受伤害和治疗效果",
+      "Eng": "Ocular Despair - Damage significantly decreased and healing is less effective"
+    }
+  }
+]

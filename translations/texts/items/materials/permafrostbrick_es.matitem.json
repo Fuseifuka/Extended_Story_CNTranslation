@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/permafrostbrick_es.matitem": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A brick that needs to chill out."
+    }
+  }
+]

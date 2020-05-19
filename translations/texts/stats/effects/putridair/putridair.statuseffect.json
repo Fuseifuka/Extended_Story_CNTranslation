@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/putridair/putridair.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"腐朽空气-腐朽空气使你腐烂",
+      "Eng": "Putrid Air - The rotten air causes you to rot away"
+    }
+  }
+]

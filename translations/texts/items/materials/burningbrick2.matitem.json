@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningbrick2.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slabs made from eternally burning stone. Careful stepping on them."
+    }
+  }
+]

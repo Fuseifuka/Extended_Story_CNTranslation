@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/infernium/infernium.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pair of leggings with Blazing Essence infused into it. Also made of infernal rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/infernium/infernium.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Infernium Greaves"
+    }
+  }
+]

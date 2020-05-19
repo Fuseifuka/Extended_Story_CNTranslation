@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/supercompressedsand.matitem": [
+        "/description"
+      ],
+      "tiles/materials/supercompressedsand.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large amount of sand that has been super-compressed into a tile-sized space. This also occurs naturally..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/supercompressedsand.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/supercompressedsand.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Super-Compressed Sand"
+    }
+  }
+]

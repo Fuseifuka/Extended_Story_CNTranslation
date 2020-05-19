@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/superchallengedoor/superchallengedoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mysterious doorway leading to a specific dimension. ^red;ENTER WITH CAUTION!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/superchallengedoor/superchallengedoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bossvault Door"
+    }
+  }
+]

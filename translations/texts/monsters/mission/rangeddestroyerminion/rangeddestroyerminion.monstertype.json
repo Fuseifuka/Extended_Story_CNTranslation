@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/rangeddestroyerminion/rangeddestroyerminion.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A minion created by the Destroyer to kill you from a distance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/rangeddestroyerminion/rangeddestroyerminion.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ranged Destroyer's Minion"
+    }
+  }
+]

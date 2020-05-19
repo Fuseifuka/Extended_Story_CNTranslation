@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cyberboss/skills/cyberbossLaserAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/cyberboss/skills/cyberbossLaserAttackPhase2.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/cyberboss/skills/cyberbossLaserAttackPhase3.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "EYE LASER OF DEATH"
+    }
+  }
+]

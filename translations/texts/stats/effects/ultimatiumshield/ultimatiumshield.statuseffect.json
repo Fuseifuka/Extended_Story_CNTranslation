@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/ultimatiumshield/ultimatiumshield.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"终极护盾-在护盾破碎前完全抵抗一切",
+      "Eng": "Ultimatium Shield - Complete resistance to everything temporarily"
+    }
+  }
+]

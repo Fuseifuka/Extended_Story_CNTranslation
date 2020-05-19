@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/spheredeactivater/spheredeactivater.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"损坏的古代球-你的古代球无法正常运行",
+      "Eng": "Broken Ancient Sphere - Your ancient sphere is not functioning properly"
+    }
+  }
+]

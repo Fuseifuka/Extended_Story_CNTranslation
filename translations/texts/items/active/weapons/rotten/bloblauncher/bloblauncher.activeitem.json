@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/rotten/bloblauncher/bloblauncher.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A weapon that shoots various acidic blobs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/rotten/bloblauncher/bloblauncher.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rotten Blob Launcher"
+    }
+  }
+]

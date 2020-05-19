@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionisolatedvault.aimission": [
+        "/speciesText/default/buttonText"
+      ]
+    },
+    "Texts": {
+      "Chs": "文明星球",
+      "Eng": "Civilized Planet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionisolatedvault.aimission": [
+        "/speciesText/default/repeatButtonText"
+      ]
+    },
+    "Texts": {
+      "Chs": "重新挑战 文明星球",
+      "Eng": "Revisit the Civilized Planet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionisolatedvault.aimission": [
+        "/speciesText/default/selectSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "这颗星球已经存在了很久，足以让古代人建造一个未知结构。这里甚至不会被热量影响。",
+      "Eng": "This planet has existed long enough for the ancients to build an unknown structure; it is also barren from the heat."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/abysspod/abysspod.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abysspod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/abysspod/abysspod.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The dark variant of a pteropod. Extremely dangerous"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/livinglightning.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lightnin' bolt-shaped block."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/livinglightning.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A living lightning bolt!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/livinglightning.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Living lightning bolt!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/livinglightning.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This block is alive."
+    }
+  }
+]

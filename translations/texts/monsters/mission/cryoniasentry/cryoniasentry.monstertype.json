@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/cryoniasentry/cryoniasentry.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An animated Cryonia Statue that has forsaken its bottom half for mobility."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/cryoniasentry/cryoniasentry.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cryonia Floater"
+    }
+  }
+]

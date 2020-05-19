@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ancientfragment.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Fragment"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ancientfragment.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fragmented material from an ancient automation."
+    }
+  }
+]

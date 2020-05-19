@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/abyssore.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"深渊碎片。",
+      "Eng": "Abyss Shards."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/sandbricklightning.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sandstone brick with lightning inside of it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/sandbricklightning.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandstone Brick with Lightning"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/ancienttwigun/ancienttwigun.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient turret with two guns. It floats too..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/ancienttwigun/ancienttwigun.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Twigun"
+    }
+  }
+]

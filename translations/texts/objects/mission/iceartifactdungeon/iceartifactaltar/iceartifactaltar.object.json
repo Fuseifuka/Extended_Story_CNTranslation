@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/iceartifactdungeon/iceartifactaltar/iceartifactaltar.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"冰霜神器祭坛",
+      "Eng": "Ice Artifact Altar"
+    }
+  }
+]

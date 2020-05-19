@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/destroyerspawnblock.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An EPP module that makes you invisible to the Destroyer of Worlds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/destroyerspawnblock.augment": [
+        "/augment/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Destroyer Camo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/destroyerspawnblock.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Destroyer Camo Augment"
+    }
+  }
+]

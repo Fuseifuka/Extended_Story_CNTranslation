@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/cosmicbroadsword/cosmicbroadsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This weapon has the ability to mimic and tear the fabric of spacetime itself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/cosmicbroadsword/cosmicbroadsword.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unstable Rift"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/cosmicbroadsword/cosmicbroadsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#a600cc;Fabric Ripper^reset;"
+    }
+  }
+]

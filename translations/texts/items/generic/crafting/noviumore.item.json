@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/noviumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange substance that glows brightly like a star."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/noviumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Novium Ore"
+    }
+  }
+]

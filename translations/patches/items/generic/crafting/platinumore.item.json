@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/platinumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sort of rare ore, it can be useful for crafting."
+    }
+  }
+]

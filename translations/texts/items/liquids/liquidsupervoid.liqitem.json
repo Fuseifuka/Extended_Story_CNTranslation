@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/liquidsupervoid.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A measure of supervoid energy. Extremely deadly. Converts other liquids into this liquid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/liquidsupervoid.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Supervoid Energy"
+    }
+  }
+]

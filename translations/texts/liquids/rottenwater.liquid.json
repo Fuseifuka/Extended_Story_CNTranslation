@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/rottenwater.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A liquid with an awful odor."
+    }
+  }
+]

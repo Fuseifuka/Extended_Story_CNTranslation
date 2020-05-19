@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedportal/irradiatedportal.object": [
+        "/apexDescription"
+      ],
+      "objects/nuclearwasteland/irradiatedportal/irradiatedreturnportal.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An irradiated portal that leads to a random dimension"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedportal/irradiatedportal.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/nuclearwasteland/irradiatedportal/irradiatedreturnportal.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An irradiated portal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedportal/irradiatedportal.object": [
+        "/floranDescription"
+      ],
+      "objects/nuclearwasteland/irradiatedportal/irradiatedreturnportal.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstrange green portal."
+    }
+  }
+]

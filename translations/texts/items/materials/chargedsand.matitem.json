@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chargedsand.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pile of sand that is electrically charged. ^cyan;Currently decorative only.^reset;"
+    }
+  }
+]

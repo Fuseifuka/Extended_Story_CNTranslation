@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/halloweenundergrowth.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"在天花板上长出来的坚韧且虚幻的草。",
+      "Eng": "Hardy and spooky grass growing from the ceiling."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/radyiteore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ore that constantly emits radiation, can be smelted into radyite bars."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/radyiteore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radyite Ore"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/umbrium/umbrium.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mask that covers the facial region with an eye! Creepy!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/umbrium/umbrium.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Umbrium Mask"
+    }
+  }
+]

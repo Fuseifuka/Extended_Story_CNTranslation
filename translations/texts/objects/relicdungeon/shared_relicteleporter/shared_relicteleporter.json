@@ -1,0 +1,87 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicteleporter_es/healthrelicteleporter_es.object": [
+        "/hylotlDescription"
+      ],
+      "objects/relicdungeon/mining/miningrelicteleporter/miningrelicteleporter.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A doorway with unknown origins."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicteleporter_es/healthrelicteleporter_es.object": [
+        "/avianDescription"
+      ],
+      "objects/relicdungeon/mining/miningrelicteleporter/miningrelicteleporter.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shrine with a mysterious door. Who built it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicteleporter_es/healthrelicteleporter_es.object": [
+        "/shortdescription"
+      ],
+      "objects/relicdungeon/mining/miningrelicteleporter/miningrelicteleporter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"古老的门",
+      "Eng": "Relic Door"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicteleporter_es/healthrelicteleporter_es.object": [
+        "/floranDescription"
+      ],
+      "objects/relicdungeon/mining/miningrelicteleporter/miningrelicteleporter.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrange door. Floran mysstified."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicteleporter_es/healthrelicteleporter_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/relicdungeon/mining/miningrelicteleporter/miningrelicteleporter.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What is the destination of this mysterious door?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicteleporter_es/healthrelicteleporter_es.object": [
+        "/humanDescription"
+      ],
+      "objects/relicdungeon/mining/miningrelicteleporter/miningrelicteleporter.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where will this door take me?"
+    }
+  }
+]

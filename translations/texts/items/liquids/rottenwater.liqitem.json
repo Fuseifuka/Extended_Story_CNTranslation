@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/rottenwater.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A solution of dissolved material and water. Highly acidic!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/rottenwater.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rotten Water"
+    }
+  }
+]

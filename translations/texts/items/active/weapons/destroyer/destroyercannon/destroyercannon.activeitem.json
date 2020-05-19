@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/destroyer/destroyercannon/destroyercannon.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cannon of great power and destruction. Beware extreme power like this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/destroyer/destroyercannon/destroyercannon.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#cc0000;Cannon of Destruction^reset;"
+    }
+  }
+]

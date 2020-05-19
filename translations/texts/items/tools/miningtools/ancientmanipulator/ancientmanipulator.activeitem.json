@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/miningtools/ancientmanipulator/ancientmanipulator.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient tool used for efficient mining."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/miningtools/ancientmanipulator/ancientmanipulator.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;Ancient Manipulator^reset;"
+    }
+  }
+]

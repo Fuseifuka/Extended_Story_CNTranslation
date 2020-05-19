@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/chaingun/durasteelchaingun/durasteelchaingun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A perfectly lethal mix of rapid fire and explosives. ^yellow;Explosive Bullets!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/chaingun/durasteelchaingun/durasteelchaingun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Durasteel Chain Gun"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/chaingun/durasteelchaingun/durasteelchaingun.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grav Bombs"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/undergroundabyss.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "undergroundabyss"
+    }
+  }
+]

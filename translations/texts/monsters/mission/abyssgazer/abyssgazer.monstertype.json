@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/abyssgazer/abyssgazer.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mysterious anomaly that stares at anything that moves."
+    }
+  }
+]

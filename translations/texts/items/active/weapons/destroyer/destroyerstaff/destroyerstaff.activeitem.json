@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/destroyer/destroyerstaff/destroyerstaff.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An extremely destructive staff. ^red;WARNING! DO NOT SPAM!^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/destroyer/destroyerstaff/destroyerstaff.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#cc0000;Destructive Trident^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/destroyer/destroyerstaff/destroyerstaff.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Destroyer Wyrm"
+    }
+  }
+]

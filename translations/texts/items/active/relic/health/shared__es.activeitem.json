@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/relic/health/healthrelic3_es.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/relic/health/healthrelic4_es.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/relic/health/healthrelicancient_es.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Healing Zone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/relic/health/healthrelic1_es.activeitem": [
+        "/description"
+      ],
+      "items/active/relic/health/healthrelic2_es.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The tome teaches the user how to cast a basic healing spell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/relic/health/healthrelic3_es.activeitem": [
+        "/description"
+      ],
+      "items/active/relic/health/healthrelic4_es.activeitem": [
+        "/description"
+      ],
+      "items/active/relic/health/healthrelicancient_es.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The tome teaches the user how to cast a powerful healing spell."
+    }
+  }
+]

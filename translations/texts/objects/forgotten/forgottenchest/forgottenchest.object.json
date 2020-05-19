@@ -1,0 +1,103 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgottenchest/forgottenchest.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"用腐烂物质制作的柜子。",
+      "Eng": "A chest made of a putrid, rotten substance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgottenchest/forgottenchest.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest made outta rottin' goop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgottenchest/forgottenchest.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest with a horrible smell that can make anyone gag."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgottenchest/forgottenchest.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest with a horrible smell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgottenchest/forgottenchest.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A really disgusting way to store items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgottenchest/forgottenchest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"腐朽柜子",
+      "Eng": "Rotten Chest"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgottenchest/forgottenchest.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rotting chesst."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgottenchest/forgottenchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chest is made of sickeningly putrid material."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgottenchest/forgottenchest.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chest might be useful for pranking."
+    }
+  }
+]

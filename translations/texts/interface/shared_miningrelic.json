@@ -1,0 +1,106 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/miningrelic.itemdescription": [
+        "/burnOutTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/miningrelic2.itemdescription": [
+        "/burnOutTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/miningrelic3.itemdescription": [
+        "/burnOutTimeTitleLabel/value"
+      ],
+      "interface/tooltips/miningrelic.tooltip": [
+        "/burnOutTimeTitleLabel/value"
+      ],
+      "interface/tooltips/miningrelic2.tooltip": [
+        "/burnOutTimeTitleLabel/value"
+      ],
+      "interface/tooltips/miningrelic3.tooltip": [
+        "/burnOutTimeTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burn-out Time:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/miningrelic.itemdescription": [
+        "/cooldownTitleLabel/value"
+      ],
+      "interface/itemdescriptions/miningrelic2.itemdescription": [
+        "/cooldownTitleLabel/value"
+      ],
+      "interface/itemdescriptions/miningrelic3.itemdescription": [
+        "/cooldownTitleLabel/value"
+      ],
+      "interface/tooltips/miningrelic.tooltip": [
+        "/cooldownTitleLabel/value"
+      ],
+      "interface/tooltips/miningrelic2.tooltip": [
+        "/cooldownTitleLabel/value"
+      ],
+      "interface/tooltips/miningrelic3.tooltip": [
+        "/cooldownTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooldown:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/miningrelic.itemdescription": [
+        "/coolingRateTitleLabel/value"
+      ],
+      "interface/itemdescriptions/miningrelic2.itemdescription": [
+        "/coolingRateTitleLabel/value"
+      ],
+      "interface/itemdescriptions/miningrelic3.itemdescription": [
+        "/coolingRateTitleLabel/value"
+      ],
+      "interface/tooltips/miningrelic.tooltip": [
+        "/coolingRateTitleLabel/value"
+      ],
+      "interface/tooltips/miningrelic2.tooltip": [
+        "/coolingRateTitleLabel/value"
+      ],
+      "interface/tooltips/miningrelic3.tooltip": [
+        "/coolingRateTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooling Rate:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/miningrelic.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/miningrelic2.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/miningrelic3.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/miningrelic.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/miningrelic2.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/miningrelic3.tooltip": [
+        "/priceLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "tree"
+    }
+  }
+]

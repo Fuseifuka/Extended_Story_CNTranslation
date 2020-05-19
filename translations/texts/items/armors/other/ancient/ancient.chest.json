@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/ancient/ancient.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A piece of armor that happens to survive the test of time.\n^cyan;Elemental damage reduction and deals damage to enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/ancient/ancient.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Chestplate"
+    }
+  }
+]

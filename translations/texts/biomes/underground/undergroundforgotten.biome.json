@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/undergroundforgotten.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forgotten Caves"
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/fallingicicletrap_es/fallingicicletrap_es.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A really sharp icicle that looks like it can fall at any moment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/fallingicicletrap_es/fallingicicletrap_es.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"一根摇摇欲坠的冰柱。",
+      "Eng": "An icicle that is about to fall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/fallingicicletrap_es/fallingicicletrap_es.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An icicle. Floran doess not want to ssstand under that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/fallingicicletrap_es/fallingicicletrap_es.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Better not stand under that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/fallingicicletrap_es/fallingicicletrap_es.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"摇摇欲坠的冰柱",
+      "Eng": "Loose Icicle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/fallingicicletrap_es/fallingicicletrap_es.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shouldn't stand under that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/fallingicicletrap_es/fallingicicletrap_es.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That icicle looks loose and really sharp. I should be cautious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/fallingicicletrap_es/fallingicicletrap_es.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This icicle appears to be loose."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/fallingicicletrap_es/fallingicicletrap_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This icicle looks like it is about to fall."
+    }
+  }
+]

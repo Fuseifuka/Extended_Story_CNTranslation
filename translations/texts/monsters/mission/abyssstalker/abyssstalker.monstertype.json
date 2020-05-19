@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/abyssstalker/abyssstalker.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unknown, humanoid creature that often stalks its victims and will disappear when exposed to light."
+    }
+  }
+]

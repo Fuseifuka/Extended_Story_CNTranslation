@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/core/oblivioncore.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "oblivioncore"
+    }
+  }
+]

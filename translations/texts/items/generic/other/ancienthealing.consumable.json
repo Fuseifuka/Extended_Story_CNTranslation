@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/ancienthealing.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bottle of ancient essence. Instantly restores 150 health. 20 second cooldown."
+    }
+  }
+]

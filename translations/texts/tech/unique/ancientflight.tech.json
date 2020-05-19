@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/unique/ancientflight.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"按^green;[F]^reset;变成一个可以飞行的球体",
+      "Eng": "Turn into a sphere that allows flight! ^green;[F]"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/unique/ancientflight.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;古代球^reset;"
+    }
+  }
+]

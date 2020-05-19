@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/umbrium/umbrium.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chestplate with a sort of gem-like eye lodged into the chest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/umbrium/umbrium.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Umbrium Chestplate"
+    }
+  }
+]

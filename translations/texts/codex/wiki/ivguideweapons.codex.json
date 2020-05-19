@@ -1,0 +1,266 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\n\n\n\n\n        ^red;WARNING: SPOILERS INBOUND BEYOND THIS POINT!!! BE SURE TO COMPLETE THIS MOD BEFORE VIEWING THIS!!!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/0"
+      ]
+    },
+    "Texts": {
+      "Eng": " \n\n\n\n\n\n        You are currently looking at the        weapons section of the wiki."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "     --(TABLE OF CONTENTS)--  ^yellow;NEW!^reset;\n^cyan;Handheld Ion Cannon^reset; - Page 2\n^magenta;Little Destroyer^reset; - Page 3\n^magenta;Big Destroyer^reset; - Page 4\n^#ffffdd;Ancient Grenade^reset; - Page 5\n^orange;The Gamma-Ray Burst^reset; - Page 6\n^#151325;The ^#2c1919;F^#361e1e;a^#402424;br^#361e1e;i^#2b1919;c ^#291f40;R^#3b2c5b;i^#50446e;pp^#3b2c5b;e^#291f40;r^reset; - Page 7\n^red;Black Hole Cannon^reset; - Page 8\n^green;Super Redeemer^reset; - Page 9\n^magenta;Ancient Bow^reset; - Page 10\n^blue;Super Tesla^reset; - Page 11\n^orange;Ancient Blaze^reset; - Page 12\n^magenta;Gatling Destroyer^reset; - Page 13\n^magenta;Ancient Railgun^reset; - Page 14\n^blue;Electric Artifact^reset; - Page 15"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A book covering the weapons of the mod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extended Story - Weapons"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ffffdd;Ancient Grenade^reset;(ID - ancientgrenade)\nDamage - 40\n^blue;Changed!^reset; At Ancient Forge; Recipe -\n1 Ancient Essence\n1 Ancient Fragment\nAn Ancient Grenade is a kind of grenade that is tier 10 and can cause damage to terrain. ^magenta;Big Destroyer^reset;'s alt ability is submitted by ^green;terrathedragon^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Changed!^reset; ^#151325;The ^#2c1919;F^#361e1e;a^#402424;br^#361e1e;i^#2b1919;c ^#291f40;R^#3b2c5b;i^#50446e;pp^#3b2c5b;e^#291f40;r^reset;(ID - cosmicbroadsword)\nDamage - 68.8\nSwing Speed - 2\nAlt Ability - Unstable Rift: Summons a bunch of astral tears\nAt Separator; Recipe -\n9 Fabric Bars\n10 Refined Violium\n5 Solarium Stars\n10 Iron Bars\nThe ^#2c1919;F^#361e1e;a^#402424;br^#361e1e;i^#2b1919;c ^#291f40;R^#3b2c5b;i^#50446e;pp^#3b2c5b;e^#291f40;r^reset; is an astro-themed sword that creates an unstable rift and is tier 10."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Changed!^reset; ^blue;Super Tesla^reset;(ID - lightninggun)\nDamage - 30-270\nEnergy per Shot - 10-30\nAlt Ability - Compressed Lightning Bolt: Shoots an electric rocket that explodes into a bunch of lightning\nDropped by - Bot of Terror\nThe ^blue;Super Tesla^reset; is a chargeable gun that shoots lightning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Changed!^reset; ^cyan;Handheld Ion Cannon^reset;(ID - handheldioncannon)\nDamage - 90\nEnergy per Sec - 30\nBeam Range - 50\nAlt Ability - Ion Grenade\nAt Accelerator; Recipe - \n15 Refined Aegisalt\n4 Batteries\n15 Refined Ferozium\n5 Static Cells\n20 Solarium Stars\nThe ^cyan;Handheld Ion Cannon^reset; is a beam gun that is tier 10(might be decreased later), and it has its own element, ion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Changed!^reset; ^magenta;Big Destroyer^reset;(ID - ancientrifle)\nDamage - 11\nEnergy per Sec - 20\nFire Rate - 10\nAlt Ability - Ancient Grenade\nAt Ancient Forge; Recipe -\n40 Ancient Blocks\n80 Ancient Essence\n10 Solarium Stars\n1 Ancient Grenade\nThe ^magenta;Big Destroyer^reset; is a laser assault rifle that rapidly shoots explosive laser projectiles and is tier 10. It can also launch ancient grenades."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Changed!^reset; ^magenta;Little Destroyer^reset;(ID - ancientpistol)\nDamage - 6.6\nEnergy per Sec - 20\nFire Rate - 9\nAt Ancient Forge; Recipe -\n25 Ancient Blocks\n50 Ancient Essence\n5 Solarium Stars\nThe ^magenta;Little Destroyer^reset; is a laser pistol that rapidly shoots explosive laser projectiles and is tier 10."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Changed!^reset; ^orange;Ancient Blaze^reset;(ID - ancienthammer)\nDamage - 42.3\nAlt Ability - Wall of Fire: Upgrade to fire pillar\nDropped by - Ancient Avatar\nThe ^orange;Ancient Blaze^reset; is a hammer that is both electric and fire."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Changed!^reset;^orange;The Gamma-Ray Burst^reset;(ID - ancientstaff)\nDamage per Laser - 50\nEnergy per Sec - 62.5\nPrimary Ability - Laser Beam Shooter\nAlt Ability - Supernova: Summons a projectile that explodes into a ton of lasers\nAt Ancient Forge; Recipe -\n1 Ancient Core\n50 Ancient Blocks\n90 Ancient Essence\n20 Solarium Stars\nThe ^orange;Gamma-Ray Burst^reset; is a staff that shoots laser beams and is tier 10."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Super Redeemer^reset;(ID - nuclearrocketlauncher)\nDamage - 66\nEnergy per Shot - 36\nFire Rate - 0.7\nAlt Ability - Super Fusion Shot\nAt Accelerator; Recipe -\n20 Refined Aegisalt\n1 Fusion Core\n20 Solarium Stars\n50 Iron Bars\n20 Volatile Powder\nThe ^green;Super Redeemer^reset; is a rocket launcher that shoots fusion bubbles and is tier 10. Can create a mini-nuke."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;Ancient Bow^reset;(ID - ancientbow)\nHighest Base Damage - 140.9\nEnergy per Shot - 30\n^blue;Changed!^reset; At Ancient Forge; Recipe -\n25 Ancient Blocks\n10 Solarium Stars\n1 Aegisalt Bow\n100 Ancient Essence\nThe ^magenta;Ancient Bow^reset; is an aimbot bow that essentially shoots homing arrows. 'Cause what else would an aimbot bow do? Weapon is mostly submitted by ^green;hylotl chef^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Fire Artifact^reset; - Page 16\n^cyan;Ice Artifact^reset; - Page 17"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Black Hole Cannon^reset;(ID - blackholegun)\nDamage - 124\nEnergy per Shot - 200\nFire Rate - 0.2\nAlt Ability - Super Black Hole\nAt Accelerator; Recipe -\n20 Refined Aegisalt\n1 Dark Matter Core\n15 Solarium Stars\n20 Iron Bars\nThe ^red;Black Hole Cannon^reset; is a destructive black hole shooter that is tier 10. The alt ability shoots a bouncing black hole that eventually explodes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;NEW! ^reset;^magenta;Ancient Railgun^reset;(ID - ancientrailgun)\nDamage - 42\nEnergy per Shot - 30\nFire Rate - 0.7\nAlt Ability - Homing Shot\nAt Ancient Forge; Recipe - \n40 Ancient Blocks\n10 Solarium Stars\n100 Ancient Essence\nThe ^magenta;Ancient Railgun^reset; is a sniper rifle that shoots lasers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;NEW!^reset; ^blue;Electric Artifact^reset;(ID - electricartifact)\nRewarded from Quest - ^#896bb3;The Electric Artifact^reset;\nPrimary Ability - Electrocution: Summons an orb that rapidly shoots lightning bolts\nAlt Ability - Thunder Beam: Summons an orb that charges up a deadly laser beam\nThe ^blue;Electric Artifact^reset; is a powerful staff that is based off of the electric element."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;NEW!^reset; ^cyan;Ice Artifact^reset;(ID - iceartifact)\nRewarded from Quest - ^#a6ceff;The Ice Artifact^reset;\nThe ^cyan;Ice Artifact^reset; is a chargeable gun that shoots ice blocks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;NEW!^reset; ^green;Poison Artifact^reset;(ID - poisonartifact)\nRewarded from Quest - ^green;The Poison Artifact^reset;\nCombo - Down, Down Shortsword, Stab, Up, Down, Up, Up, Charge, Explosion\nAlt Ability - Poison Shower: Summons a poisonous thunder storm to mess up your foes.\nThe ^green;Poison Artifact^reset; is a sword that is poison themed, and it is very powerful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;NEW!^reset; ^magenta;Gatling Destroyer^reset;(ID - ancientchaingun)\nDamage - 0.7\nEnergy per Shot - 0.5\nFire Rate - 100\nAlt Ability - Ancient Beam\nAt Ancient Forge; Recipe - \n50 Ancient Blocks\n12 Solarium Stars\n100 Ancient Essence\nThe ^magenta;Gatling Destroyer^reset; is a rapid firing chain gun that is tier 10. It also shoots a laser."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;NEW!^reset; ^magenta;The Obliterator^reset;(ID - supervoidobliterator)\nRewarded from Quest - The ^magenta;Supervoid ^#333333;Eye ^reset;\nCharge Times -\nInstant: Supervoid Shot\n0.33 Seconds: Supervoid Zot Orb\n0.66 Seconds: Supervoid Shot Orb\n1 Second: Supervoid Calamity Shot\nAlt Ability - Singularity Grenade\nThe ^magenta;Obliterator^reset; is the most powerful weapon in this mod. If you ever wanted to call this thing the bane of the Supervoid Eye, you absolutely can!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideweapons.codex": [
+        "/contentPages/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;NEW!^reset; ^orange;Fire Artifact^reset;(ID - fireartifact)\nRewarded from Quest - ^orange;The Fire Artifact^reset;\nCombo - Up, Down, Down Shortsword, Orange Explosion, Ignite Ground\nAlt Ability - Volcanic Eruption\nThe ^orange;Fire Artifact^reset; is a broadsword that can cause an area to essentially become a volcano."
+    }
+  }
+]

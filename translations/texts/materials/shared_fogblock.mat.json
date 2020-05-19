@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fogblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/fogblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fog Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fogblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/fogblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fog blocks. These blocks somehow just won't allow anyone to fall through."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fogblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/fogblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "How can you walk on this stuff?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fogblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/fogblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssssee through thingss that can be walked on."
+    }
+  }
+]

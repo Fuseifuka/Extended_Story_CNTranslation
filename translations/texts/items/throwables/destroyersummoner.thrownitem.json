@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/destroyersummoner.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Destruction Orb"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/destroyersummoner.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This orb emits a destructive aura. ^yellow;Summons the destroyer^reset;"
+    }
+  }
+]

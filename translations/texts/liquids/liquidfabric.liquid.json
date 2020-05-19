@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/liquidfabric.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fabric of the universe."
+    }
+  }
+]

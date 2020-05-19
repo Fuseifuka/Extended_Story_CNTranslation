@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/explosivedestroyerminion/explosivedestroyerminion.monstertype": [
+        "/description"
+      ],
+      "monsters/mission/explosivedestroyerminion/explosivedestroyerminion2.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A minion created by the Destroyer to blow you up."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/explosivedestroyerminion/explosivedestroyerminion.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/mission/explosivedestroyerminion/explosivedestroyerminion2.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explosive Destroyer's Minion"
+    }
+  }
+]

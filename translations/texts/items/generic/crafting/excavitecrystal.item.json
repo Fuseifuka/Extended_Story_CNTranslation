@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/excavitecrystal.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crystal fragment infused with mining energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/excavitecrystal.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excavite Crystal"
+    }
+  }
+]

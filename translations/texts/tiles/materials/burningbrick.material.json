@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/burningbrick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eternally Burning Brick"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/burningbrick.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small bricks made from eternally burning stone."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/halloween/hoppingpumpkin/hoppingpumpkin2.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jack O' Lantern"
+    }
+  }
+]

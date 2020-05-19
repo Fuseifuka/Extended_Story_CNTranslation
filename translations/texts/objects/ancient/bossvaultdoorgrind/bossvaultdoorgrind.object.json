@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/bossvaultdoorgrind/bossvaultdoorgrind.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mysterious doorway leading to a specific dimension. ^green;Made for grinding^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/bossvaultdoorgrind/bossvaultdoorgrind.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bossvault Door - ^green;Grinding^reset;"
+    }
+  }
+]

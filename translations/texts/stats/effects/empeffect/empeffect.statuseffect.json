@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/empeffect/empeffect.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"电磁脉冲-能量？那是啥玩意？",
+      "Eng": "EMP Stun - Total energy drainage!"
+    }
+  }
+]

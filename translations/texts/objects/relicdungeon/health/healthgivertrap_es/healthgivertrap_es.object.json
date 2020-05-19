@@ -1,0 +1,91 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthgivertrap_es/healthgivertrap_es.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A trap that does the opposite of that other one, but it is still useless in this given situation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthgivertrap_es/healthgivertrap_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Another one of those traps? Still unhelpful!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthgivertrap_es/healthgivertrap_es.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hatesss trap. It does oppossite of other trap."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthgivertrap_es/healthgivertrap_es.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"治疗陷阱",
+      "Eng": "Health Giver"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthgivertrap_es/healthgivertrap_es.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's like that previous trap, but the exact opposite."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthgivertrap_es/healthgivertrap_es.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This could be helpful in a dangerous situation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthgivertrap_es/healthgivertrap_es.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This trap does the opposite of the previous trap, but it still ain't helpin'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthgivertrap_es/healthgivertrap_es.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This trap does the opposite with the same goal in mind."
+    }
+  }
+]

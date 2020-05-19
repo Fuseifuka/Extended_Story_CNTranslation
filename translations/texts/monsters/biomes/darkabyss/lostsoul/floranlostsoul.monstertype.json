@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/lostsoul/floranlostsoul.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran Lost Soul"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/lostsoul/floranlostsoul.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The spirit of a ^green;Floran^reset; wandering the ^#666666;dark abyss^reset; for eternity."
+    }
+  }
+]

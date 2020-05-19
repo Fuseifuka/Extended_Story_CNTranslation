@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cybermini/cybermini.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A smaller clone used by the Bot of Terror as a weapon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cybermini/cybermini.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drone of Terror"
+    }
+  }
+]

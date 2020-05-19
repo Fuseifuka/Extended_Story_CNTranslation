@@ -1,0 +1,103 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/icespiketrap_es/icespiketrap_es.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A giant ice spike. That's a gnarly-lookin' trap."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/icespiketrap_es/icespiketrap_es.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An interesting way of keeping out intruders."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/icespiketrap_es/icespiketrap_es.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"冰刺陷阱",
+      "Eng": "Ice Spike Trap"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/icespiketrap_es/icespiketrap_es.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sharp sspikes come from trap."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/icespiketrap_es/icespiketrap_es.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such defenses are primitive but effective."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/icespiketrap_es/icespiketrap_es.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fact that ice can be so deadly is startling."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/icespiketrap_es/icespiketrap_es.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"这个陷阱发射冰碎片来赶走入侵者。",
+      "Eng": "This trap fires ice spikes to deter invaders."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/icespiketrap_es/icespiketrap_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This trap shoots out icicles that can easily kill."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/icespiketrap_es/icespiketrap_es.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yikes! A giant icicle!"
+    }
+  }
+]

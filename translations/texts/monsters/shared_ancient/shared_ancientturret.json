@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/friendlyspawned/ancientturretfriendly_es/ancientturretfriendly_es.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/minibiomes/ancientmess/ancientturret_es/ancientturret_es.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Turret"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/darkobsidian.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Obsidian"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/darkobsidian.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrong ssuper dark rockss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/darkobsidian.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ol' chunk o' rock is very hard to break."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/darkobsidian.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stone is extremely hard to break."
+    }
+  }
+]

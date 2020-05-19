@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidegettingstarted.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A book that gives you basic directions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidegettingstarted.codex": [
+        "/contentPages/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explore the universe. You may discover something new."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidegettingstarted.codex": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guide Book"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidegettingstarted.codex": [
+        "/contentPages/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;After the Ruinbuster^white;: Go to the outpost and talk to the Mysterious Trader(a person in a red robe). He will give you a series of quests to collect the elemental artifacts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidegettingstarted.codex": [
+        "/contentPages/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Starting the new story-line^white;: Defeat any Vault Guardian. You should be given an item that is essential to crafting the Ancient Forge. It will have a crafting recipe for the Bossvault Door. Proceed through the world that you enter through that door."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/platinumbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ore for platinum bars can be found deep in dangerous or higher planets."
+    }
+  }
+]

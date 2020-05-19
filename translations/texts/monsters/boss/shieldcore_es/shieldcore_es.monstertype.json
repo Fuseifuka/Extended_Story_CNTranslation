@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/shieldcore_es/shieldcore_es.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A core that protects Teslunder from incoming attacks by forming an unbreakable shell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/shieldcore_es/shieldcore_es.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shield Core"
+    }
+  }
+]

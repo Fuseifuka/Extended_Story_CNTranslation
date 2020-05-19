@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/quickblink.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "快闪",
+      "Eng": "Quick Blink"
+      
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/quickblink.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "在不同区域快速闪烁。 能量消耗：50  冷却时间：0.8秒",
+      "Eng": "Quickly blink across different areas! Energy Cost: 50. Cooldown: 0.8s"
+    }
+  }
+]

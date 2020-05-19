@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sandbricklightning.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compressed sandstone brick with living lightning engraved into it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sandbricklightning.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lightning-engraved Sandbrick"
+    }
+  }
+]

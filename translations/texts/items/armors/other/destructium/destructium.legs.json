@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/destructium/destructium.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pair of destructium leggings.\n^cyan;Lower defense, higher damage!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/destructium/destructium.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Destructium Leggings"
+    }
+  }
+]

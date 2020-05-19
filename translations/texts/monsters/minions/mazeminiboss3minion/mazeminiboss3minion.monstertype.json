@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/minions/mazeminiboss3minion/mazeminiboss3minion.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "mazeminiboss3minion"
+    }
+  }
+]

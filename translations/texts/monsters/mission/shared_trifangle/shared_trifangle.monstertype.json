@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/fireytrifangle/fireytrifangle.monstertype": [
+        "/description"
+      ],
+      "monsters/mission/frozentrifangle/frozentrifangle.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A really C O O L machine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/fireytrifangle/fireytrifangle.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/mission/frozentrifangle/frozentrifangle.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen Trifangle"
+    }
+  }
+]

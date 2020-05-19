@@ -1,0 +1,56 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningbrick.matitem": [
+        "/novakidDescription"
+      ],
+      "items/materials/chargedbrick.matitem": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/burningbrick.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bricks made outta really hot stone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningbrick.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/chargedbrick.matitem": [
+        "/floranDescription"
+      ],
+      "tiles/materials/burningbrick.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/chargedbrick.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmooth and glowing ssstone brickss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/burningbrick.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/chargedbrick.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/burningbrick.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bricks are made from extremely hot stone."
+    }
+  }
+]

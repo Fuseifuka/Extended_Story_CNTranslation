@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/darkmatterore.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"暗物质矿。",
+      "Eng": "Dark Matter Ore."
+    }
+  }
+]

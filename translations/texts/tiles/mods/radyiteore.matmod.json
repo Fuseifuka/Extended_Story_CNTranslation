@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/radyiteore.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"红闪石矿",
+      "Eng": "Radyite Ore."
+    }
+  }
+]

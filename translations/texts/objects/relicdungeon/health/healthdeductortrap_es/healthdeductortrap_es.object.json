@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductortrap_es/healthdeductortrap_es.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A trap meant to reset a Health Orb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductortrap_es/healthdeductortrap_es.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A trap that resets the health of an orb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductortrap_es/healthdeductortrap_es.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hatess sssabotage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductortrap_es/healthdeductortrap_es.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Health Deductor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductortrap_es/healthdeductortrap_es.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I better be careful not to activate this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductortrap_es/healthdeductortrap_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should prevent this mechanism from firing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductortrap_es/healthdeductortrap_es.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This trap is not cool. It sabotages the orbs!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductortrap_es/healthdeductortrap_es.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This trap resets the health of a Health Orb."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/fogblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nobody ain't fallin' through this stuff...I don't know how."
+    }
+  }
+]

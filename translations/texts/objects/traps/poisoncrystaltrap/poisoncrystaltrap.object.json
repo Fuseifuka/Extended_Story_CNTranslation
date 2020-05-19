@@ -1,0 +1,102 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/poisoncrystaltrap/poisoncrystaltrap.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crystal that projects deadly beams of light! Now I have seen everything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/poisoncrystaltrap/poisoncrystaltrap.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crystal trap designed to deter invaders."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/poisoncrystaltrap/poisoncrystaltrap.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crazy crystal shootin' light right at me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/poisoncrystaltrap/poisoncrystaltrap.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal beam hurtsss Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/poisoncrystaltrap/poisoncrystaltrap.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wouldn't want to get caught in it's beam."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/poisoncrystaltrap/poisoncrystaltrap.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I memorise the pattern of the crystal's beam I can act accordingly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/poisoncrystaltrap/poisoncrystaltrap.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"毒晶陷阱",
+      "Eng": "Poison Crystal Trap"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/poisoncrystaltrap/poisoncrystaltrap.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That beam looks like it would hurt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/poisoncrystaltrap/poisoncrystaltrap.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This crystal forms a deadly light beam."
+    }
+  }
+]

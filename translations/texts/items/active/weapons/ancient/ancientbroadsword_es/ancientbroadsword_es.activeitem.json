@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ancient/ancientbroadsword_es/ancientbroadsword_es.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient hilt that creates crystals as lethal cutters."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ancient/ancientbroadsword_es/ancientbroadsword_es.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;^reset;"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/relic/mining/brokenminingrelic.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An artifact lost to the test of time. It no longer works."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/relic/mining/brokenminingrelic.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken Relic"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ancient/ancientrifle/ancientrifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard-issue rifle commonly used by ancient soldiers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ancient/ancientrifle/ancientrifle.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;^reset;"
+    }
+  }
+]

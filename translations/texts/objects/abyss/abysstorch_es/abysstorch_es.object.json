@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abysstorch_es/abysstorch_es.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A comforting, blue light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abysstorch_es/abysstorch_es.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nice lil' torch that gives off a blue light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abysstorch_es/abysstorch_es.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stand for a floating orb that gives off blue light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abysstorch_es/abysstorch_es.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A torch that emits a calming blue light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abysstorch_es/abysstorch_es.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Being around this torch is comforting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abysstorch_es/abysstorch_es.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran feelss safe near torch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abysstorch_es/abysstorch_es.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This blue light makes me feel safe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abysstorch_es/abysstorch_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This torch emits a calming blue light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abysstorch_es/abysstorch_es.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Umbra Torch"
+    }
+  }
+]

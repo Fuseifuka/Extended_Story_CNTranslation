@@ -1,0 +1,103 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/brokenshipteleporter/brokenshipteleporter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"一个已经损坏的飞船传送器。",
+      "Eng": "A ship teleporter that is broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/brokenshipteleporter/brokenshipteleporter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"损坏的飞船传送器",
+      "Eng": "Broken Ship Teleporter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/brokenshipteleporter/brokenshipteleporter.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship teleporter isss no longer working."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/brokenshipteleporter/brokenshipteleporter.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The main Novabot Facility teleporter; it has unfortunately broken beyond function."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/brokenshipteleporter/brokenshipteleporter.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The original teleporter for the Novabot Facility. Its neglect resulted in a total breakdown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/brokenshipteleporter/brokenshipteleporter.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The teleporter for the Novabot Facility. It has seen better days."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/brokenshipteleporter/brokenshipteleporter.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter ain't goin' to send me nowhere."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/brokenshipteleporter/brokenshipteleporter.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter has completely stopped working."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/brokenshipteleporter/brokenshipteleporter.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter has, at one point, been working."
+    }
+  }
+]

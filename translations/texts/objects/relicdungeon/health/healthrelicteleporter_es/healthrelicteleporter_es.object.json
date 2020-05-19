@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicteleporter_es/healthrelicteleporter_es.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door with a heart-shaped light fixed to it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicteleporter_es/healthrelicteleporter_es.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like this door is related to healing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicteleporter_es/healthrelicteleporter_es.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mysterious door has a heart on it. I wonder where this leads me to."
+    }
+  }
+]

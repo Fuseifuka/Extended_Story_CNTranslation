@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/supervoid/supervoidbackground/supervoidbackground.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"Boss二阶段战斗的背景。",
+      "Eng": "Background of phase 2 boss fight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/supervoid/supervoidbackground/supervoidbackground.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"超虚空背景",
+      "Eng": "Supervoid Background"
+    }
+  }
+]

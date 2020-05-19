@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/mining/miningrelicteleporter/miningrelicteleporter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door with a pickaxe-shaped light fixed to it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/mining/miningrelicteleporter/miningrelicteleporter.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like this door is related to mining."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/mining/miningrelicteleporter/miningrelicteleporter.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mysterious door has a pickaxe on it. I wonder where this leads me to."
+    }
+  }
+]

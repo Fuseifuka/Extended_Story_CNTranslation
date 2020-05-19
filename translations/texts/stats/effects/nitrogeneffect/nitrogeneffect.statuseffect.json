@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/nitrogeneffect/nitrogeneffect.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"极度冻伤-你正因极低的温度而丧命",
+      "Eng": "Extreme Frostbite - You are dying from extremely low temperatures"
+    }
+  }
+]

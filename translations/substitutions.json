@@ -1,0 +1,1473 @@
+{
+  "ai/missionoutpost.aimission": {
+    "/speciesText/default/buttonText": "texts/ai/shared_outpost.aimission.json",
+    "/speciesText/default/repeatButtonText": "texts/ai/shared_outpost.aimission.json",
+    "/speciesText/default/selectSpeech/text": "texts/ai/shared_outpost.aimission.json"
+  },
+  "ai/novakidoutpost.aimission": {
+    "/speciesText/default/buttonText": "texts/ai/shared_outpost.aimission.json",
+    "/speciesText/default/repeatButtonText": "texts/ai/shared_outpost.aimission.json",
+    "/speciesText/default/selectSpeech/text": "texts/ai/shared_outpost.aimission.json"
+  },
+  "biomes/surface_detached/livinglightning.biome": {
+    "/friendlyName": "texts/shared_livinglightning..json"
+  },
+  "biomes/surface_detached/supervoid.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "codex/lore/theancientone.codex": {
+    "/title": "texts/shared_ancient.json"
+  },
+  "codex/testresults/testresults1.codex": {
+    "/description": "texts/codex/testresults/shared_testresults.json"
+  },
+  "codex/testresults/testresults2.codex": {
+    "/description": "texts/codex/testresults/shared_testresults.json"
+  },
+  "interface/itemdescriptions/miningrelic.itemdescription": {
+    "/burnOutTimeTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/cooldownTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/coolingRateTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/drillRangeTitleLabel/value": "texts/interface/shared_miningrelic..json",
+    "/priceLabel/value": "texts/interface/shared_miningrelic.json"
+  },
+  "interface/itemdescriptions/miningrelic2.itemdescription": {
+    "/burnOutTimeTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/cooldownTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/coolingRateTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/priceLabel/value": "texts/interface/shared_miningrelic.json",
+    "/speedTitleLabel/value": "texts/interface/shared_miningrelic2..json"
+  },
+  "interface/itemdescriptions/miningrelic3.itemdescription": {
+    "/beamLengthTitleLabel/value": "texts/interface/shared_miningrelic3..json",
+    "/burnOutTimeTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/cooldownTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/coolingRateTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/priceLabel/value": "texts/interface/shared_miningrelic.json"
+  },
+  "interface/tooltips/miningrelic.tooltip": {
+    "/burnOutTimeTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/cooldownTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/coolingRateTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/drillRangeTitleLabel/value": "texts/interface/shared_miningrelic..json",
+    "/priceLabel/value": "texts/interface/shared_miningrelic.json"
+  },
+  "interface/tooltips/miningrelic2.tooltip": {
+    "/burnOutTimeTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/cooldownTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/coolingRateTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/priceLabel/value": "texts/interface/shared_miningrelic.json",
+    "/speedTitleLabel/value": "texts/interface/shared_miningrelic2..json"
+  },
+  "interface/tooltips/miningrelic3.tooltip": {
+    "/beamLengthTitleLabel/value": "texts/interface/shared_miningrelic3..json",
+    "/burnOutTimeTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/cooldownTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/coolingRateTitleLabel/value": "texts/interface/shared_miningrelic.json",
+    "/priceLabel/value": "texts/interface/shared_miningrelic.json"
+  },
+  "interface/warping/annihilatormission.config": {
+    "/destinations/0/name": "texts/shared_ter/shared_annihilator.json",
+    "/destinations/0/planetName": "texts/shared_ter/shared_annihilator.json"
+  },
+  "interface/warping/teleporttoboss.config": {
+    "/destinations/0/name": "texts/shared_ter/shared_boss.json"
+  },
+  "interface/warping/teleporttobossworld2.config": {
+    "/destinations/0/name": "texts/shared_ter/shared_boss.json",
+    "/destinations/0/planetName": "texts/wide_spread_fields.json"
+  },
+  "interface/windowconfig/ancientforge.config": {
+    "/paneLayout/btnCraft/caption": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/btnStopCraft/caption": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/filter/hint": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/lblProduct/value": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/lblProducttitle/value": "texts/interface/windowconfig/shared_ancientf.json",
+    "/paneLayout/lblSchematics/value": "texts/interface/windowconfig/shared_ancientf.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/windowconfig/shared_.config.json"
+  },
+  "interface/windowconfig/ancientfurnace.config": {
+    "/paneLayout/btnStopCraft/caption": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/filter/hint": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/lblProduct/value": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/lblProducttitle/value": "texts/interface/windowconfig/shared_ancientf.json",
+    "/paneLayout/lblSchematics/value": "texts/interface/windowconfig/shared_ancientf.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/windowtitle/subtitle": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/windowtitle/title": "texts/interface/windowconfig/shared_.config.json"
+  },
+  "interface/windowconfig/upgradestation.config": {
+    "/paneLayout/btnCraft/caption": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/btnStopCraft/caption": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/filter/hint": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/lblProduct/value": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/tbSpinCount/regex": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/windowtitle/subtitle": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/windowtitle/title": "texts/interface/windowconfig/shared_.config.json"
+  },
+  "items/active/relic/health/healthrelic1_es.activeitem": {
+    "/description": "texts/items/active/relic/health/shared__es.activeitem.json"
+  },
+  "items/active/relic/health/healthrelic2_es.activeitem": {
+    "/description": "texts/items/active/relic/health/shared__es.activeitem.json"
+  },
+  "items/active/relic/health/healthrelic3_es.activeitem": {
+    "/altAbility/name": "texts/items/active/relic/health/shared__es.activeitem.json",
+    "/description": "texts/items/active/relic/health/shared__es.activeitem.json"
+  },
+  "items/active/relic/health/healthrelic4_es.activeitem": {
+    "/altAbility/name": "texts/items/active/relic/health/shared__es.activeitem.json",
+    "/description": "texts/items/active/relic/health/shared__es.activeitem.json"
+  },
+  "items/active/relic/health/healthrelicancient_es.activeitem": {
+    "/altAbility/name": "texts/items/active/relic/health/shared__es.activeitem.json",
+    "/description": "texts/items/active/relic/health/shared__es.activeitem.json"
+  },
+  "items/active/relic/mining/miningrelic4.activeitem": {
+    "/description": "texts/items/active/relic/mining/shared_miningrelic.json"
+  },
+  "items/active/relic/mining/miningrelic5.activeitem": {
+    "/description": "texts/items/active/relic/mining/shared_miningrelic.json"
+  },
+  "items/active/relic/mining/miningrelicancient.activeitem": {
+    "/description": "texts/items/active/relic/mining/shared_miningrelic.json"
+  },
+  "items/active/weapons/ancient/ancientrocketlauncher/ancientrocketlauncher.activeitem": {
+    "/shortdescription": "texts/items/active/weapons/ancient/shared_ancientrocketlauncher/shared_ancientrocketlauncher.json"
+  },
+  "items/active/weapons/ancient/ancientrocketlauncherbak/ancientrocketlauncherbak.activeitem": {
+    "/shortdescription": "texts/items/active/weapons/ancient/shared_ancientrocketlauncher/shared_ancientrocketlauncher.json"
+  },
+  "items/active/weapons/artifact/abyssartifact/abyssartifact.activeitem": {
+    "/description": "texts/items/active/weapons/artifact/shared_artifact/shared_artifact.activeitem.json"
+  },
+  "items/active/weapons/artifact/fireartifact/fireartifact.activeitem": {
+    "/description": "texts/items/active/weapons/artifact/shared_artifact/shared_artifact.activeitem.json"
+  },
+  "items/active/weapons/artifact/iceartifact/iceartifact.activeitem": {
+    "/description": "texts/items/active/weapons/artifact/shared_artifact/shared_artifact.activeitem.json"
+  },
+  "items/active/weapons/artifact/poisonartifact/poisonartifact.activeitem": {
+    "/description": "texts/items/active/weapons/artifact/shared_artifact/shared_artifact.activeitem.json"
+  },
+  "items/active/weapons/ranged/beamcannon/rarebeamcannon.activeitem": {
+    "/description": "texts/items/active/weapons/ranged/beamcannon/shared_beamcannon.activeitem.json"
+  },
+  "items/active/weapons/ranged/beamcannon/uncommonbeamcannon.activeitem": {
+    "/description": "texts/items/active/weapons/ranged/beamcannon/shared_beamcannon.activeitem.json"
+  },
+  "items/generic/other/ancienthealing.consumable": {
+    "/shortdescription": "texts/items/generic/other/shared_ancienthealing.json"
+  },
+  "items/generic/other/ancienthealing2.consumable": {
+    "/shortdescription": "texts/items/generic/other/shared_ancienthealing.json"
+  },
+  "items/materials/burningblock.matitem": {
+    "/description": "texts/materials/shared_burning.json",
+    "/floranDescription": "texts/materials/shared_.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_.mat.json",
+    "/novakidDescription": "texts/materials/shared_.mat.json"
+  },
+  "items/materials/burningbrick.matitem": {
+    "/floranDescription": "texts/materials/shared_brick.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_brick.mat.json",
+    "/novakidDescription": "texts/materials/shared_brick.mat.json"
+  },
+  "items/materials/burningbrick2.matitem": {
+    "/florandescription": "texts/materials/shared_.mat.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/materials/shared_.mat.json",
+    "/novakiddescription": "texts/materials/shared_.mat.json",
+    "/shortdescription": "texts/materials/shared_burningbrick2.mat.json"
+  },
+  "items/materials/chargedbrick.matitem": {
+    "/description": "texts/materials/shared_chargedbrick.mat.json",
+    "/floranDescription": "texts/materials/shared_brick.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_brick.mat.json",
+    "/novakidDescription": "texts/materials/shared_brick.mat.json",
+    "/shortdescription": "texts/materials/shared_chargedbrick.mat.json"
+  },
+  "items/materials/chargedsand.matitem": {
+    "/florandescription": "texts/items/materials/shared_.matitem.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/items/materials/shared_.matitem.json",
+    "/novakiddescription": "texts/items/materials/shared_.matitem.json",
+    "/shortdescription": "texts/materials/shared_chargedsand.mat.json"
+  },
+  "items/materials/chargedstone.matitem": {
+    "/description": "texts/materials/shared_chargedstone.mat.json",
+    "/floranDescription": "texts/materials/shared_.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_.mat.json",
+    "/novakidDescription": "texts/materials/shared_.mat.json",
+    "/shortdescription": "texts/materials/shared_chargedstone.mat.json"
+  },
+  "items/materials/darkobsidian.matitem": {
+    "/description": "texts/materials/shared_darkobsidian.mat.json",
+    "/florandescription": "texts/items/materials/shared_.matitem.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/items/materials/shared_.matitem.json",
+    "/novakiddescription": "texts/items/materials/shared_.matitem.json"
+  },
+  "items/materials/darkobsidianbrick.matitem": {
+    "/florandescription": "texts/items/materials/shared_.matitem.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/items/materials/shared_.matitem.json",
+    "/novakiddescription": "texts/items/materials/shared_.matitem.json",
+    "/shortdescription": "texts/materials/shared_darkobsidianbrick.mat.json"
+  },
+  "items/materials/darkobsidianbrick2.matitem": {
+    "/florandescription": "texts/items/materials/shared_.matitem.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/items/materials/shared_.matitem.json",
+    "/novakiddescription": "texts/items/materials/shared_.matitem.json"
+  },
+  "items/materials/darkobsidianrail.matitem": {
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/items/materials/darkobsidianrail.matitem.json",
+    "/shortdescription": "texts/shared_darkobsidianrail.mat.json"
+  },
+  "items/materials/fogblock.matitem": {
+    "/description": "texts/materials/shared_fogblock.mat.json",
+    "/florandescription": "texts/materials/shared_fogblock.mat.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/materials/shared_fogblock.mat.json",
+    "/novakiddescription": "texts/materials/shared_fogblock.json",
+    "/shortdescription": "texts/materials/shared_fogblock.mat.json"
+  },
+  "items/materials/fogblockpacked.matitem": {
+    "/description": "texts/materials/shared_fogblockpacked.mat.json",
+    "/floranDescription": "texts/materials/shared_fogblockpacked.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_fogblockpacked.mat.json",
+    "/novakidDescription": "texts/materials/shared_fogblock.json",
+    "/shortdescription": "texts/materials/shared_fogblockpacked.mat.json"
+  },
+  "items/materials/halloweencobblestone.matitem": {
+    "/floranDescription": "texts/materials/shared_halloweencobblestone.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_halloweencobblestone.mat.json",
+    "/novakidDescription": "texts/materials/shared_halloweencobblestone.mat.json"
+  },
+  "items/materials/halloweendirt.matitem": {
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/items/materials/halloweendirt.matitem.json",
+    "/shortdescription": "texts/materials/shared_halloweendirt.mat.json"
+  },
+  "items/materials/holestone.matitem": {
+    "/florandescription": "texts/items/materials/shared_.matitem.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/items/materials/shared_.matitem.json",
+    "/novakiddescription": "texts/items/materials/shared_.matitem.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/materials/iceplatform.matitem": {
+    "/description": "texts/shared_iceplatform.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/items/materials/iceplatform.matitem.json",
+    "/shortdescription": "texts/shared_iceplatform.json"
+  },
+  "items/materials/irradiatedstone.matitem": {
+    "/description": "texts/materials/shared_irradiatedstone.mat.json",
+    "/floranDescription": "texts/materials/shared_.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_.mat.json",
+    "/novakidDescription": "texts/materials/shared_.mat.json",
+    "/shortdescription": "texts/materials/shared_irradiatedstone.mat.json"
+  },
+  "items/materials/livinglightning.matitem": {
+    "/florandescription": "texts/items/materials/shared_.matitem.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/items/materials/shared_.matitem.json",
+    "/novakiddescription": "texts/items/materials/shared_.matitem.json",
+    "/shortdescription": "texts/shared_livinglightning..json"
+  },
+  "items/materials/permafrostblock_es.matitem": {
+    "/description": "texts/materials/shared_permafrostblock_es.mat.json",
+    "/floranDescription": "texts/materials/shared_permafrostblock_es.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_permafrostblock_es.mat.json",
+    "/novakidDescription": "texts/materials/shared_permafrostblock_es.mat.json",
+    "/shortdescription": "texts/materials/shared_permafrostblock_es.mat.json"
+  },
+  "items/materials/permafrostbrick_es.matitem": {
+    "/description": "texts/materials/shared_permafrostbrick_es.mat.json",
+    "/floranDescription": "texts/materials/shared_permafrostbrick_es.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_permafrostbrick_es.mat.json",
+    "/shortdescription": "texts/materials/shared_permafrostbrick_es.mat.json"
+  },
+  "items/materials/radioactivematerial.matitem": {
+    "/florandescription": "texts/materials/shared_radioactivematerial.mat.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/materials/shared_radioactivematerial.mat.json",
+    "/novakiddescription": "texts/materials/shared_radioactivematerial.mat.json",
+    "/shortdescription": "texts/materials/shared_radioactivematerial.mat.json"
+  },
+  "items/materials/radioactivewalls1.matitem": {
+    "/description": "texts/materials/shared_radioactivewalls1.mat.json",
+    "/florandescription": "texts/materials/shared_.mat.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/materials/shared_.mat.json",
+    "/novakiddescription": "texts/materials/shared_.mat.json",
+    "/shortdescription": "texts/materials/shared_radioactivewalls1.mat.json"
+  },
+  "items/materials/radioactivewalls2.matitem": {
+    "/description": "texts/materials/shared_radioactivewalls2.mat.json",
+    "/florandescription": "texts/materials/shared_radioactivewalls2.mat.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/materials/shared_radioactivewalls2.mat.json",
+    "/novakiddescription": "texts/materials/shared_radioactivewalls2.mat.json",
+    "/shortdescription": "texts/materials/shared_radioactivewalls2.mat.json"
+  },
+  "items/materials/rottendirt.matitem": {
+    "/florandescription": "texts/items/materials/shared_.matitem.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/items/materials/shared_.matitem.json",
+    "/novakiddescription": "texts/items/materials/shared_.matitem.json",
+    "/shortdescription": "texts/materials/shared_rottendirt.mat.json"
+  },
+  "items/materials/rottenjelly.matitem": {
+    "/florandescription": "texts/items/materials/shared_.matitem.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/items/materials/shared_.matitem.json",
+    "/novakiddescription": "texts/items/materials/shared_.matitem.json"
+  },
+  "items/materials/sandbricklightning.matitem": {
+    "/florandescription": "texts/items/materials/shared_.matitem.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/items/materials/shared_.matitem.json",
+    "/novakiddescription": "texts/items/materials/shared_.matitem.json"
+  },
+  "items/materials/sandstonebrick_es.matitem": {
+    "/florandescription": "texts/items/materials/shared_.matitem.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/items/materials/shared_.matitem.json",
+    "/novakiddescription": "texts/items/materials/shared_.matitem.json"
+  },
+  "items/materials/supercompressedsand.matitem": {
+    "/description": "texts/materials/shared_supercompressedsand.mat.json",
+    "/florandescription": "texts/items/materials/shared_.matitem.json",
+    "/glitchdescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchdescription/glitchEmotedText": "texts/items/materials/shared_.matitem.json",
+    "/novakiddescription": "texts/items/materials/shared_.matitem.json",
+    "/shortdescription": "texts/materials/shared_supercompressedsand.mat.json"
+  },
+  "items/materials/supervoidblock.matitem": {
+    "/florandescription": "texts/wide_spread_fields.json",
+    "/glitchdescription": "texts/wide_spread_fields.json"
+  },
+  "monsters/biomes/forgotten/forgotten-eyecreature_es/forgotten-evileyeparts/forgotten-evileyepart1.monstertype": {
+    "/description": "texts/monsters/biomes/forgotten/forgotten-eyecreature_es/forgotten-evileyeparts/shared_.monstertype.json",
+    "/shortdescription": "texts/monsters/biomes.json"
+  },
+  "monsters/biomes/forgotten/forgotten-eyecreature_es/forgotten-evileyeparts/forgotten-evileyepart2.monstertype": {
+    "/description": "texts/monsters/biomes/forgotten/forgotten-eyecreature_es/forgotten-evileyeparts/shared_.monstertype.json",
+    "/shortdescription": "texts/monsters/biomes.json"
+  },
+  "monsters/biomes/forgotten/forgotten-eyecreature_es/forgotten-evileyeparts/forgotten-eyecreature2_es.monstertype": {
+    "/description": "texts/monsters/biomes/forgotten/forgotten-eyecreature_es/forgotten-evileyeparts/shared_.monstertype.json",
+    "/shortdescription": "texts/monsters/biomes.json"
+  },
+  "monsters/biomes/halloween/hoppingpumpkin/hoppingpumpkin.monstertype": {
+    "/description": "texts/monsters/biomes/halloween/hoppingpumpkin/shared_hoppingpumpkin.json"
+  },
+  "monsters/biomes/halloween/hoppingpumpkin/hoppingpumpkin2.monstertype": {
+    "/description": "texts/monsters/biomes/halloween/hoppingpumpkin/shared_hoppingpumpkin.json"
+  },
+  "monsters/biomes/supervoid/supervoidtrailer/supervoidtrailer.monstertype": {
+    "/shortdescription": "texts/monsters/biomes.json"
+  },
+  "monsters/biomes/supervoid/supervoidvortex/supervoidvortex.monstertype": {
+    "/shortdescription": "texts/monsters/biomes.json"
+  },
+  "monsters/biomes/supervoid/supervoidworm/supervoidworm.monstertype": {
+    "/shortdescription": "texts/monsters/biomes.json"
+  },
+  "monsters/boss/ancientavatar/ancientavatar.monstertype": {
+    "/shortdescription": "texts/monsters/boss/shared_ancientavatar/shared_ancientavatar.json"
+  },
+  "monsters/boss/ancientavatarstatue/ancientavatarstatue.monstertype": {
+    "/shortdescription": "texts/monsters/boss/shared_ancientavatar/shared_ancientavatar.json"
+  },
+  "monsters/boss/ancientboss/ancientboss.monstertype": {
+    "/shortdescription": "texts/shared_ancient.json"
+  },
+  "monsters/boss/ancientboss/skills/ancientbossDoubleBeamAttack.monsterskill": {
+    "/label": "texts/monsters/boss/ancientboss/skills/shared_leBeamAttack.monsterskill.json"
+  },
+  "monsters/boss/ancientboss/skills/ancientbossLaserAttack.monsterskill": {
+    "/label": "texts/monsters/boss/ancientboss/skills/shared_Attack.monsterskill.json"
+  },
+  "monsters/boss/ancientboss/skills/ancientbossMoveFireAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_.monsterskill.json"
+  },
+  "monsters/boss/ancientboss/skills/ancientbossPulseCannonAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_Attack.monsterskill.json"
+  },
+  "monsters/boss/ancientboss/skills/ancientbossReinforcementsAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_sAttack.monsterskill.json"
+  },
+  "monsters/boss/ancientboss/skills/ancientbossReinforcementsAttack2.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_.monsterskill.json"
+  },
+  "monsters/boss/ancientboss/skills/ancientbossSineBeamAttack.monsterskill": {
+    "/label": "texts/monsters/boss/ancientboss/skills/shared_Attack.monsterskill.json"
+  },
+  "monsters/boss/ancientboss/skills/ancientbossSingleBeamAttack.monsterskill": {
+    "/label": "texts/monsters/boss/ancientboss/skills/shared_leBeamAttack.monsterskill.json"
+  },
+  "monsters/boss/ancientboss/skills/ancientbossSprayNPrayAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_.monsterskill.json"
+  },
+  "monsters/boss/ancientboss/skills/ancientbossSprayNPrayAttack2.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_.monsterskill.json"
+  },
+  "monsters/boss/ancientboss/skills/ancientbossSuperBarrageAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_.monsterskill.json"
+  },
+  "monsters/boss/ancientboss/skills/ancientbossSwoopAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_SwoopAttack.monsterskill.json"
+  },
+  "monsters/boss/ancientboss/skills/ancientbossTeleportAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_Attack.monsterskill.json"
+  },
+  "monsters/boss/ancientboss2/ancientboss2.monstertype": {
+    "/shortdescription": "texts/monsters/boss/ancientboss2.json"
+  },
+  "monsters/boss/ancientboss2/leftfist/leftfist.monstertype": {
+    "/shortdescription": "texts/monsters/boss/ancientboss2.json"
+  },
+  "monsters/boss/ancientboss2/rightfist/rightfist.monstertype": {
+    "/shortdescription": "texts/monsters/boss/ancientboss2.json"
+  },
+  "monsters/boss/annihilator/annihilator.monstertype": {
+    "/shortdescription": "texts/shared_ter/shared_annihilator.json"
+  },
+  "monsters/boss/cyberboss/skills/cyberbossLaserAttack.monsterskill": {
+    "/label": "texts/monsters/boss/cyberboss/skills/shared_cyberbossLaserAttack.json"
+  },
+  "monsters/boss/cyberboss/skills/cyberbossLaserAttackPhase2.monsterskill": {
+    "/label": "texts/monsters/boss/cyberboss/skills/shared_cyberbossLaserAttack.json"
+  },
+  "monsters/boss/cyberboss/skills/cyberbossLaserAttackPhase3.monsterskill": {
+    "/label": "texts/monsters/boss/cyberboss/skills/shared_cyberbossLaserAttack.json"
+  },
+  "monsters/boss/cyberboss/skills/cyberbossTeslaAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_.monsterskill.json"
+  },
+  "monsters/boss/destroyer/skills/destroyerBulletCirclesAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_.monsterskill.json"
+  },
+  "monsters/boss/destroyer/skills/destroyerDestructionShowerAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_.monsterskill.json"
+  },
+  "monsters/boss/destroyer/skills/destroyerGiantLaserShotAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_.monsterskill.json"
+  },
+  "monsters/boss/destroyer/skills/destroyerLaserShotsAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_.monsterskill.json"
+  },
+  "monsters/boss/destroyer/skills/destroyerMegaLaserAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_Attack.monsterskill.json"
+  },
+  "monsters/boss/destroyer/skills/destroyerMinionsAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_sAttack.monsterskill.json"
+  },
+  "monsters/boss/destroyer/skills/destroyerScatterAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_Attack.monsterskill.json"
+  },
+  "monsters/boss/destroyer/skills/destroyerSkyGapAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_.monsterskill.json"
+  },
+  "monsters/boss/destroyer/skills/destroyerSkyMegaLaserAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_.monsterskill.json"
+  },
+  "monsters/boss/destroyer/skills/destroyerSprayNPrayAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_.monsterskill.json"
+  },
+  "monsters/boss/destroyer/skills/destroyerSwoopAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_SwoopAttack.monsterskill.json"
+  },
+  "monsters/boss/destroyer/skills/quantumsentryDestructionAttack.monsterskill": {
+    "/label": "texts/monsters/boss/skills/shared_.monsterskill.json"
+  },
+  "monsters/boss/endgameguardian/frostguardianboss/frostguardianboss_es.monstertype": {
+    "/shortdescription": "texts/monsters/boss/endgameguardian/shared_boss/shared__es.monstertype.json"
+  },
+  "monsters/boss/endgameguardian/iceartifactbossnew_es/iceartifactbossnew_es.monstertype": {
+    "/shortdescription": "texts/monsters/boss/endgameguardian/shared_boss/shared__es.monstertype.json"
+  },
+  "monsters/boss/endgameguardian/poisonspiderboss/poisonspiderboss.monstertype": {
+    "/shortdescription": "texts/monsters/boss/endgameguardian/shared_poisonspiderboss/shared_poisonspiderboss.json"
+  },
+  "monsters/boss/endgameguardian/poisonspiderbossphase2/poisonspiderbossphase2.monstertype": {
+    "/shortdescription": "texts/monsters/boss/endgameguardian/shared_poisonspiderboss/shared_poisonspiderboss.json"
+  },
+  "monsters/boss/supervoidboss/supervoidboss.monstertype": {
+    "/shortdescription": "texts/shared_ter/shared_boss.json"
+  },
+  "monsters/boss/supervoidbossphase2/supervoidbossphase2.monstertype": {
+    "/shortdescription": "texts/shared_ter/shared_boss.json"
+  },
+  "monsters/boss/truedestroyer/truedestroyer.monstertype": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "monsters/boss/zombienox/zombienox.monstertype": {
+    "/baseParameters/dialog/intro/default/default/0": "texts/wide_spread_fields.json"
+  },
+  "monsters/friendlyspawned/ancientturretfriendly_es/ancientturretfriendly_es.monstertype": {
+    "/shortdescription": "texts/monsters/shared_ancient/shared_ancientturret.json"
+  },
+  "monsters/minibiomes/ancientmess/ancientturret_es/ancientturret_es.monstertype": {
+    "/shortdescription": "texts/monsters/shared_ancient/shared_ancientturret.json"
+  },
+  "monsters/miniboss/cryoniatotem/cryoniatotem.monstertype": {
+    "/description": "texts/monsters/shared_cryoniatotem/shared_cryoniatotem.json",
+    "/shortdescription": "texts/shared_cryonia/shared_cryonia.json"
+  },
+  "monsters/minions/mazeminiboss3minion/mazeminiboss3minion.monstertype": {
+    "/description": "texts/monsters/minions/shared_.monstertype.json"
+  },
+  "monsters/minions/supervoidorbshield1/supervoidorbshield1.monstertype": {
+    "/description": "texts/monsters/minions/shared_supervoidorbshield/shared_supervoidorbshield.json",
+    "/shortdescription": "texts/monsters/minions/shared_supervoidorbshield/shared_supervoidorbshield.json"
+  },
+  "monsters/minions/supervoidorbshield2/supervoidorbshield2.monstertype": {
+    "/description": "texts/monsters/minions/shared_supervoidorbshield/shared_supervoidorbshield.json",
+    "/shortdescription": "texts/monsters/minions/shared_supervoidorbshield/shared_supervoidorbshield.json"
+  },
+  "monsters/minions/supervoidorbshield3/supervoidorbshield3.monstertype": {
+    "/description": "texts/monsters/minions/shared_supervoidorbshield/shared_supervoidorbshield.json",
+    "/shortdescription": "texts/monsters/minions/shared_supervoidorbshield/shared_supervoidorbshield.json"
+  },
+  "monsters/minions/supervoidorbshield4/supervoidorbshield4.monstertype": {
+    "/description": "texts/monsters/minions/shared_supervoidorbshield/shared_supervoidorbshield.json",
+    "/shortdescription": "texts/monsters/minions/shared_supervoidorbshield/shared_supervoidorbshield.json"
+  },
+  "monsters/minions/supervoidorbshield5/supervoidorbshield5.monstertype": {
+    "/description": "texts/monsters/minions/shared_supervoidorbshield/shared_supervoidorbshield.json",
+    "/shortdescription": "texts/monsters/minions/shared_supervoidorbshield/shared_supervoidorbshield.json"
+  },
+  "monsters/minions/supervoidorbshield6/supervoidorbshield6.monstertype": {
+    "/description": "texts/monsters/minions/shared_supervoidorbshield/shared_supervoidorbshield.json",
+    "/shortdescription": "texts/monsters/minions/shared_supervoidorbshield/shared_supervoidorbshield.json"
+  },
+  "monsters/minions/tentaclespawner_es/tentaclespawner2_es.monstertype": {
+    "/description": "texts/monsters/minions/shared_.monstertype.json",
+    "/shortdescription": "texts/monsters/minions/tentaclespawner_es/shared_tentaclespawner.json"
+  },
+  "monsters/minions/tentaclespawner_es/tentaclespawner_es.monstertype": {
+    "/description": "texts/monsters/minions/shared_.monstertype.json",
+    "/shortdescription": "texts/monsters/minions/tentaclespawner_es/shared_tentaclespawner.json"
+  },
+  "monsters/mission/abyssgazer/abyssgazer.monstertype": {
+    "/shortdescription": "texts/monsters/mission/shared_abyss/shared_er.monstertype.json"
+  },
+  "monsters/mission/abyssstalker/abyssstalker.monstertype": {
+    "/shortdescription": "texts/monsters/mission/shared_abyss/shared_er.monstertype.json"
+  },
+  "monsters/mission/cryoniatotemlesser/cryoniatotemlesser.monstertype": {
+    "/description": "texts/monsters/shared_cryoniatotem/shared_cryoniatotem.json",
+    "/shortdescription": "texts/shared_cryonia/shared_cryonia.json"
+  },
+  "monsters/mission/cryoniatotempuzzle/cryoniatotempuzzle.monstertype": {
+    "/shortdescription": "texts/shared_cryonia/shared_cryonia.json"
+  },
+  "monsters/mission/explosivedestroyerminion/explosivedestroyerminion.monstertype": {
+    "/description": "texts/monsters/mission/explosivedestroyerminion/shared_explosivedestroyerminion.json",
+    "/shortdescription": "texts/monsters/mission/explosivedestroyerminion/shared_explosivedestroyerminion.json"
+  },
+  "monsters/mission/explosivedestroyerminion/explosivedestroyerminion2.monstertype": {
+    "/description": "texts/monsters/mission/explosivedestroyerminion/shared_explosivedestroyerminion.json",
+    "/shortdescription": "texts/monsters/mission/explosivedestroyerminion/shared_explosivedestroyerminion.json"
+  },
+  "monsters/mission/fireytrifangle/fireytrifangle.monstertype": {
+    "/description": "texts/monsters/mission/shared_trifangle/shared_trifangle.monstertype.json",
+    "/shortdescription": "texts/monsters/mission/shared_trifangle/shared_trifangle.monstertype.json"
+  },
+  "monsters/mission/frozentrifangle/frozentrifangle.monstertype": {
+    "/description": "texts/monsters/mission/shared_trifangle/shared_trifangle.monstertype.json",
+    "/shortdescription": "texts/monsters/mission/shared_trifangle/shared_trifangle.monstertype.json"
+  },
+  "monsters/spawner/microspawngate/fireymicrogate/fireymicrogate.monstertype": {
+    "/description": "texts/monsters/spawner/microspawngate/shared_microgate/shared_.monstertype.json",
+    "/shortdescription": "texts/monsters/spawner/microspawngate/fireymicrogate/shared_fireymicrogate.json"
+  },
+  "monsters/spawner/microspawngate/fireymicrogate/fireymicrogate2.monstertype": {
+    "/description": "texts/monsters/spawner/microspawngate/shared_microgate/shared_.monstertype.json",
+    "/shortdescription": "texts/monsters/spawner/microspawngate/fireymicrogate/shared_fireymicrogate.json"
+  },
+  "monsters/spawner/microspawngate/irradiatedmicrogate/irradiatedmicrogate.monstertype": {
+    "/description": "texts/monsters/spawner/microspawngate/shared_microgate/shared_.monstertype.json"
+  },
+  "objects/abyss/abyssdoor/abyssdoor.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/abyss/abyssdoor/abyssdoor.object.json"
+  },
+  "objects/abyss/abyssportal/abyssportal.object": {
+    "/avianDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/description": "texts/objects/shared_portal/shared_portal.object.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/shared_portal/shared_portal.object.json",
+    "/humanDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/hylotlDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/novakidDescription": "texts/objects/shared_portal/shared_portal.object.json"
+  },
+  "objects/abyss/abyssportal/abyssreturnportal.object": {
+    "/apexDescription": "texts/objects/shared_portal/shared_returnportal.object.json",
+    "/avianDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/description": "texts/objects/shared_portal/shared_portal.object.json",
+    "/floranDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/shared_portal/shared_portal.object.json",
+    "/humanDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/hylotlDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/novakidDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/shortdescription": "texts/objects/shared_portal/shared_returnportal.object.json"
+  },
+  "objects/abyss/abyssswarmurnlarge1_es/abyssswarmurnlarge1_es.object": {
+    "/apexDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/avianDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/description": "texts/objects/abyss/shared_abyssswarmurnlarge/shared_abyssswarmurnlarge.json",
+    "/floranDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/humanDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/hylotlDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/novakidDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/shortdescription": "texts/objects/abyss/shared_abyssswarmurnlarge/shared_abyssswarmurnlarge.json"
+  },
+  "objects/abyss/abyssswarmurnlarge2_es/abyssswarmurnlarge2_es.object": {
+    "/apexDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/avianDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/description": "texts/objects/abyss/shared_abyssswarmurnlarge/shared_abyssswarmurnlarge.json",
+    "/floranDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/humanDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/hylotlDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/novakidDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/shortdescription": "texts/objects/abyss/shared_abyssswarmurnlarge/shared_abyssswarmurnlarge.json"
+  },
+  "objects/abyss/abyssswarmurnmedium1_es/abyssswarmurnmedium1_es.object": {
+    "/apexDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/avianDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/description": "texts/objects/abyss/shared_abyssswarmurnmedium/shared_abyssswarmurnmedium.json",
+    "/floranDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/humanDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/hylotlDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/novakidDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/shortdescription": "texts/objects/abyss/shared_abyssswarmurnmedium/shared_abyssswarmurnmedium.json"
+  },
+  "objects/abyss/abyssswarmurnmedium2_es/abyssswarmurnmedium2_es.object": {
+    "/apexDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/avianDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/description": "texts/objects/abyss/shared_abyssswarmurnmedium/shared_abyssswarmurnmedium.json",
+    "/floranDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/humanDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/hylotlDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/novakidDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/shortdescription": "texts/objects/abyss/shared_abyssswarmurnmedium/shared_abyssswarmurnmedium.json"
+  },
+  "objects/abyss/abyssswarmurnsmall1_es/abyssswarmurnsmall1_es.object": {
+    "/apexDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/avianDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/description": "texts/objects/abyss/shared_abyssswarmurnsmall/shared_abyssswarmurnsmall.json",
+    "/floranDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/humanDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/hylotlDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/novakidDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/shortdescription": "texts/objects/abyss/shared_abyssswarmurnsmall/shared_abyssswarmurnsmall.json"
+  },
+  "objects/abyss/abyssswarmurnsmall2_es/abyssswarmurnsmall2_es.object": {
+    "/apexDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/avianDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/description": "texts/objects/abyss/shared_abyssswarmurnsmall/shared_abyssswarmurnsmall.json",
+    "/floranDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/humanDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/hylotlDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/novakidDescription": "texts/objects/abyss/shared_abyssswarmurn/shared_abyssswarmurn.json",
+    "/shortdescription": "texts/objects/abyss/shared_abyssswarmurnsmall/shared_abyssswarmurnsmall.json"
+  },
+  "objects/abyss/abysstorch_es/abysstorch_es.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/abyss/abysstorch_es/abysstorch_es.object.json"
+  },
+  "objects/abyss/abyssvortex/abyssvortex.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/abyss/abyssvortex/abyssvortex.object.json"
+  },
+  "objects/abyss/abyssvortextrap_es/abyssvortextrap_es.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/abyss/abyssvortextrap_es/abyssvortextrap_es.object.json"
+  },
+  "objects/ancient/ancientforge/ancientforge.object": {
+    "/floranDescription": "texts/objects/ancient/shared_ancientf/shared_ancientf.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/ancient/ancientforge/ancientforge.object.json",
+    "/novakidDescription": "texts/objects/ancient/shared_ancientf/shared_ancientf.json"
+  },
+  "objects/ancient/ancientfurnace/ancientfurnace.object": {
+    "/floranDescription": "texts/objects/ancient/shared_ancientf/shared_ancientf.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/ancient/ancientfurnace/ancientfurnace.object.json",
+    "/novakidDescription": "texts/objects/ancient/shared_ancientf/shared_ancientf.json"
+  },
+  "objects/ancient/bossvaultdoorgrind/bossvaultdoorgrind.object": {
+    "/apexDescription": "texts/objects/ancient/shared_door/shared_.object.json",
+    "/avianDescription": "texts/objects/ancient/shared_door/shared_.object.json",
+    "/floranDescription": "texts/objects/ancient/shared_door/shared_.object.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/ancient/shared_door/shared_.object.json",
+    "/humanDescription": "texts/objects/ancient/shared_door/shared_.object.json",
+    "/hylotlDescription": "texts/objects/ancient/shared_door/shared_.object.json",
+    "/novakidDescription": "texts/objects/ancient/shared_door/shared_.object.json"
+  },
+  "objects/ancient/spheredeactivater/spheredeactivater.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/ancient/spheredeactivater/spheredeactivater.object.json"
+  },
+  "objects/ancient/superchallengedoor/superchallengedoor.object": {
+    "/apexDescription": "texts/objects/ancient/shared_door/shared_.object.json",
+    "/avianDescription": "texts/objects/ancient/shared_door/shared_.object.json",
+    "/floranDescription": "texts/objects/ancient/shared_door/shared_.object.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/ancient/shared_door/shared_.object.json",
+    "/humanDescription": "texts/objects/ancient/shared_door/shared_.object.json",
+    "/hylotlDescription": "texts/objects/ancient/shared_door/shared_.object.json",
+    "/novakidDescription": "texts/objects/ancient/shared_door/shared_.object.json"
+  },
+  "objects/apex/teslaspike/teslaspikeelectricdungeon.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/apex/teslaspike/teslaspikeelectricdungeon.object.json"
+  },
+  "objects/eternalfire/burningpressureplatform/burningpressureplatform.object": {
+    "/apexDescription": "texts/objects/shared_eternalf/shared_pressureplatform/shared_pressureplatform.object.json",
+    "/avianDescription": "texts/objects/shared_eternalf/shared_pressureplatform/shared_pressureplatform.object.json",
+    "/description": "texts/objects/shared_eternalf/shared_pressureplatform/shared_pressureplatform.object.json",
+    "/floranDescription": "texts/objects/shared_eternalf/shared_pressureplatform/shared_pressureplatform.object.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/shared_eternalf/shared_pressureplatform/shared_pressureplatform.object.json",
+    "/humanDescription": "texts/objects/shared_eternalf/shared_pressureplatform/shared_pressureplatform.object.json",
+    "/hylotlDescription": "texts/objects/shared_eternalf/shared_pressureplatform/shared_pressureplatform.object.json",
+    "/novakidDescription": "texts/objects/shared_eternalf/shared_pressureplatform/shared_pressureplatform.object.json"
+  },
+  "objects/eternalfire/fireydoor/fireydoor.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfire/fireydoor/fireydoor.object.json"
+  },
+  "objects/eternalfire/fireyportal/fireyportal.object": {
+    "/apexDescription": "texts/objects/eternalfire/fireyportal/shared_portal.object.json",
+    "/avianDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/description": "texts/objects/shared_portal/shared_portal.object.json",
+    "/floranDescription": "texts/objects/eternalfire/fireyportal/shared_portal.object.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfire/fireyportal/shared_portal.object.json",
+    "/humanDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/hylotlDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/novakidDescription": "texts/objects/shared_portal/shared_portal.object.json"
+  },
+  "objects/eternalfire/fireyportal/fireyreturnportal.object": {
+    "/apexDescription": "texts/objects/eternalfire/fireyportal/shared_portal.object.json",
+    "/avianDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/description": "texts/objects/shared_portal/shared_portal.object.json",
+    "/floranDescription": "texts/objects/eternalfire/fireyportal/shared_portal.object.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfire/fireyportal/shared_portal.object.json",
+    "/humanDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/hylotlDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/novakidDescription": "texts/objects/shared_portal/shared_portal.object.json"
+  },
+  "objects/eternalfrost/cryoniastatue/cryoniastatue.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfrost/cryoniastatue/cryoniastatue.object.json",
+    "/shortdescription": "texts/shared_cryonia/shared_cryonia.json"
+  },
+  "objects/eternalfrost/fdimteleporter/fdimteleporter.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfrost/fdimteleporter/fdimteleporter.object.json"
+  },
+  "objects/eternalfrost/fdimteleporter2/fdimteleporter2.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfrost/fdimteleporter2/fdimteleporter2.object.json"
+  },
+  "objects/eternalfrost/frostburnmushroom/frostburnmushroom1.object": {
+    "/apexDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/avianDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/description": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/floranDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/humanDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/hylotlDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/novakidDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/shortdescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json"
+  },
+  "objects/eternalfrost/frostburnmushroom/frostburnmushroom2.object": {
+    "/apexDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/avianDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/description": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/floranDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/humanDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/hylotlDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/novakidDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/shortdescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json"
+  },
+  "objects/eternalfrost/frostburnmushroom/frostburnmushroom3.object": {
+    "/apexDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/avianDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/description": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/floranDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/humanDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/hylotlDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/novakidDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/shortdescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json"
+  },
+  "objects/eternalfrost/frostburnmushroom/frostburnmushroom4.object": {
+    "/apexDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/avianDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/description": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/floranDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/humanDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/hylotlDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/novakidDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/shortdescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json"
+  },
+  "objects/eternalfrost/frostburnmushroom/frostburnmushroom5.object": {
+    "/apexDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/avianDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/description": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/floranDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/humanDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/hylotlDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/novakidDescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json",
+    "/shortdescription": "texts/objects/eternalfrost/frostburnmushroom/shared_frostburnmushroom.json"
+  },
+  "objects/eternalfrost/frostburnpearlswitch/frostburnpearlswitch.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfrost/frostburnpearlswitch/frostburnpearlswitch.object.json"
+  },
+  "objects/eternalfrost/frostburntorch/frostburntorch.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfrost/frostburntorch/frostburntorch.object.json"
+  },
+  "objects/eternalfrost/frostburnwalllight/frostburnwalllight.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfrost/frostburnwalllight/frostburnwalllight.object.json"
+  },
+  "objects/eternalfrost/frozenportal/frozenportal.object": {
+    "/apexDescription": "texts/objects/eternalfrost/frozenportal/shared_nportal.object.json",
+    "/avianDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/description": "texts/objects/shared_portal/shared_portal.object.json",
+    "/floranDescription": "texts/objects/eternalfrost/frozenportal/shared_nportal.object.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfrost/frozenportal/shared_nportal.object.json",
+    "/humanDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/hylotlDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/novakidDescription": "texts/objects/shared_portal/shared_portal.object.json"
+  },
+  "objects/eternalfrost/frozenportal/frozenreturnportal.object": {
+    "/apexDescription": "texts/objects/eternalfrost/frozenportal/shared_nportal.object.json",
+    "/avianDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/description": "texts/objects/shared_portal/shared_portal.object.json",
+    "/floranDescription": "texts/objects/eternalfrost/frozenportal/shared_nportal.object.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfrost/frozenportal/shared_nportal.object.json",
+    "/humanDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/hylotlDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/novakidDescription": "texts/objects/shared_portal/shared_portal.object.json"
+  },
+  "objects/eternalfrost/permafrostdoor/permafrostdoor.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/eternalfrost/permafrostdoor/permafrostdoor.object.json"
+  },
+  "objects/eternalfrost/permafrostpressureplatform/permafrostpressureplatform.object": {
+    "/apexDescription": "texts/objects/shared_eternalf/shared_pressureplatform/shared_pressureplatform.object.json",
+    "/avianDescription": "texts/objects/shared_eternalf/shared_pressureplatform/shared_pressureplatform.object.json",
+    "/description": "texts/objects/shared_eternalf/shared_pressureplatform/shared_pressureplatform.object.json",
+    "/floranDescription": "texts/objects/shared_eternalf/shared_pressureplatform/shared_pressureplatform.object.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/shared_eternalf/shared_pressureplatform/shared_pressureplatform.object.json",
+    "/humanDescription": "texts/objects/shared_eternalf/shared_pressureplatform/shared_pressureplatform.object.json",
+    "/hylotlDescription": "texts/objects/shared_eternalf/shared_pressureplatform/shared_pressureplatform.object.json",
+    "/novakidDescription": "texts/objects/shared_eternalf/shared_pressureplatform/shared_pressureplatform.object.json"
+  },
+  "objects/forgotten/forgotten-breakable1_es/forgotten-breakable1_es.object": {
+    "/apexDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/avianDescription": "texts/objects/shared_.object.json",
+    "/description": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/floranDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/humanDescription": "texts/objects/shared_.object.json",
+    "/hylotlDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/novakidDescription": "texts/objects/shared_.object.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "objects/forgotten/forgotten-breakable2_es/forgotten-breakable2_es.object": {
+    "/apexDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/avianDescription": "texts/objects/shared_.object.json",
+    "/description": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/floranDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/humanDescription": "texts/objects/shared_.object.json",
+    "/hylotlDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/novakidDescription": "texts/objects/shared_.object.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "objects/forgotten/forgotten-breakable3_es/forgotten-breakable3_es.object": {
+    "/apexDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/avianDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/description": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/floranDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/humanDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/hylotlDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/novakidDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/shortdescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json"
+  },
+  "objects/forgotten/forgotten-breakable4_es/forgotten-breakable4_es.object": {
+    "/apexDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/avianDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/description": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/floranDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/humanDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/hylotlDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/novakidDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/shortdescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json"
+  },
+  "objects/forgotten/forgotten-breakable5_es/forgotten-breakable5_es.object": {
+    "/apexDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/avianDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/description": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/floranDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/humanDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/hylotlDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/novakidDescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json",
+    "/shortdescription": "texts/objects/forgotten/shared_forgotten-breakable/shared_forgotten-breakable.json"
+  },
+  "objects/forgotten/forgottenchest/forgottenchest.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/forgotten/forgottenchest/forgottenchest.object.json"
+  },
+  "objects/generic/annihilatorteleporter/annihilatorteleporter.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/generic/annihilatorteleporter/annihilatorteleporter.object.json"
+  },
+  "objects/generic/directionalforceregion_es/directionalforceregiondown_es.object": {
+    "/description": "texts/wide_spread_fields.json"
+  },
+  "objects/generic/directionalforceregion_es/directionalforceregionleft_es.object": {
+    "/description": "texts/wide_spread_fields.json"
+  },
+  "objects/generic/directionalforceregion_es/directionalforceregionright_es.object": {
+    "/description": "texts/wide_spread_fields.json"
+  },
+  "objects/generic/directionalforceregion_es/directionalforceregionup_es.object": {
+    "/description": "texts/wide_spread_fields.json"
+  },
+  "objects/generic/upgradestation/upgradestation.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/generic/upgradestation/upgradestation.object.json"
+  },
+  "objects/mission/abyssartifactdungeon/abyssartifactaltar/abyssartifactaltar.object": {
+    "/description": "texts/objects/mission/shared_artifactdungeon/shared_artifactaltar/shared_artifactaltar.object.json"
+  },
+  "objects/mission/electricartifactdungeon/electricartifactaltar/electricartifactaltar.object": {
+    "/description": "texts/objects/mission/shared_artifactdungeon/shared_artifactaltar/shared_artifactaltar.object.json"
+  },
+  "objects/mission/fireartifactdungeon/fireartifactaltar/fireartifactaltar.object": {
+    "/description": "texts/objects/mission/shared_artifactdungeon/shared_artifactaltar/shared_artifactaltar.object.json"
+  },
+  "objects/mission/iceartifactdungeon/iceartifactaltar/iceartifactaltar.object": {
+    "/description": "texts/objects/mission/shared_artifactdungeon/shared_artifactaltar/shared_artifactaltar.object.json"
+  },
+  "objects/mission/poisonartifactdungeon/poisonartifactaltar/poisonartifactaltar.object": {
+    "/description": "texts/objects/mission/shared_artifactdungeon/shared_artifactaltar/shared_artifactaltar.object.json"
+  },
+  "objects/nuclearwasteland/irradiatedchest/irradiatedchest.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/nuclearwasteland/irradiatedchest/irradiatedchest.object.json"
+  },
+  "objects/nuclearwasteland/irradiatedportal/irradiatedportal.object": {
+    "/apexDescription": "texts/objects/nuclearwasteland/irradiatedportal/shared_portal.object.json",
+    "/avianDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/description": "texts/objects/shared_portal/shared_portal.object.json",
+    "/floranDescription": "texts/objects/nuclearwasteland/irradiatedportal/shared_portal.object.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/nuclearwasteland/irradiatedportal/shared_portal.object.json",
+    "/humanDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/hylotlDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/novakidDescription": "texts/objects/shared_portal/shared_portal.object.json"
+  },
+  "objects/nuclearwasteland/irradiatedportal/irradiatedreturnportal.object": {
+    "/apexDescription": "texts/objects/nuclearwasteland/irradiatedportal/shared_portal.object.json",
+    "/avianDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/description": "texts/objects/shared_portal/shared_portal.object.json",
+    "/floranDescription": "texts/objects/nuclearwasteland/irradiatedportal/shared_portal.object.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/nuclearwasteland/irradiatedportal/shared_portal.object.json",
+    "/humanDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/hylotlDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/novakidDescription": "texts/objects/shared_portal/shared_portal.object.json"
+  },
+  "objects/nuclearwasteland/irradiatedtorch/irradiatedtorch.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/nuclearwasteland/irradiatedtorch/irradiatedtorch.object.json"
+  },
+  "objects/nuclearwasteland/irradiatedwallswitch/irradiatedwallswitch.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/nuclearwasteland/irradiatedwallswitch/irradiatedwallswitch.object.json"
+  },
+  "objects/relicdungeon/health/healingorbsocket_es/healingorbsocket_es.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/relicdungeon/health/healingorbsocket_es/healingorbsocket_es.object.json"
+  },
+  "objects/relicdungeon/health/healingorbsocket_es/healingorbsocketinverted_es.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/relicdungeon/health/healingorbsocket_es/healingorbsocketinverted_es.object.json"
+  },
+  "objects/relicdungeon/health/healthdeductorplayertrap_es/healthdeductorplayertrap_es.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/relicdungeon/health/healthdeductorplayertrap_es/healthdeductorplayertrap_es.object.json"
+  },
+  "objects/relicdungeon/health/healthdeductortrap_es/healthdeductortrap_es.object": {
+    "/description": "texts/objects/relicdungeon/health/shared_rtrap_es/shared_rtrap_es.object.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/relicdungeon/health/healthdeductortrap_es/healthdeductortrap_es.object.json"
+  },
+  "objects/relicdungeon/health/healthgivertrap_es/healthgivertrap_es.object": {
+    "/description": "texts/objects/relicdungeon/health/shared_rtrap_es/shared_rtrap_es.object.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/relicdungeon/health/healthgivertrap_es/healthgivertrap_es.object.json"
+  },
+  "objects/relicdungeon/health/healthorbspawner_es/healthorbspawner_es.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/relicdungeon/health/healthorbspawner_es/healthorbspawner_es.object.json"
+  },
+  "objects/relicdungeon/health/healthrelicchest_es/healthrelicchest_es.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/relicdungeon/health/healthrelicchest_es/healthrelicchest_es.object.json"
+  },
+  "objects/relicdungeon/health/healthrelicchest_es/healthrelicchestlock_es.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/relicdungeon/health/healthrelicchest_es/healthrelicchestlock_es.object.json"
+  },
+  "objects/relicdungeon/health/healthrelicteleporter_es/healthrelicteleporter_es.object": {
+    "/avianDescription": "texts/objects/relicdungeon/shared_relicteleporter/shared_relicteleporter.json",
+    "/floranDescription": "texts/objects/relicdungeon/shared_relicteleporter/shared_relicteleporter.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/relicdungeon/shared_relicteleporter/shared_relicteleporter.json",
+    "/humanDescription": "texts/objects/relicdungeon/shared_relicteleporter/shared_relicteleporter.json",
+    "/hylotlDescription": "texts/objects/relicdungeon/shared_relicteleporter/shared_relicteleporter.json",
+    "/shortdescription": "texts/objects/relicdungeon/shared_relicteleporter/shared_relicteleporter.json"
+  },
+  "objects/relicdungeon/health/healthtransitiondoor_es/healthtransitiondoor_es.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/relicdungeon/health/healthtransitiondoor_es/healthtransitiondoor_es.object.json"
+  },
+  "objects/relicdungeon/mining/miningrelicteleporter/miningrelicteleporter.object": {
+    "/avianDescription": "texts/objects/relicdungeon/shared_relicteleporter/shared_relicteleporter.json",
+    "/floranDescription": "texts/objects/relicdungeon/shared_relicteleporter/shared_relicteleporter.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/relicdungeon/shared_relicteleporter/shared_relicteleporter.json",
+    "/humanDescription": "texts/objects/relicdungeon/shared_relicteleporter/shared_relicteleporter.json",
+    "/hylotlDescription": "texts/objects/relicdungeon/shared_relicteleporter/shared_relicteleporter.json",
+    "/shortdescription": "texts/objects/relicdungeon/shared_relicteleporter/shared_relicteleporter.json"
+  },
+  "objects/spawner/ims_threatlevel_es.object": {
+    "/description": "texts/wide_spread_fields.json"
+  },
+  "objects/teleporter/brokenshipteleporter/brokenshipteleporter.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/teleporter/brokenshipteleporter/brokenshipteleporter.object.json"
+  },
+  "objects/teleporter/supervoidteleporter/supervoidteleporter2.object": {
+    "/floranDescription": "texts/objects/teleporter/supervoidteleporter/shared_supervoidteleporter.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/teleporter/supervoidteleporter/supervoidteleporter2.object.json"
+  },
+  "objects/teleporter/supervoidteleporter/supervoidteleporternode.object": {
+    "/floranDescription": "texts/objects/teleporter/supervoidteleporter/shared_supervoidteleporter.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/teleporter/supervoidteleporter/supervoidteleporternode.object.json"
+  },
+  "objects/traps/fallingicicletrap_es/fallingicicletrap_es.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/traps/fallingicicletrap_es/fallingicicletrap_es.object.json"
+  },
+  "objects/traps/icespiketrap_es/icespiketrap_es.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/traps/icespiketrap_es/icespiketrap_es.object.json"
+  },
+  "objects/traps/miningrelicbluetrap/miningrelicbluetrap.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/traps/miningrelicbluetrap/miningrelicbluetrap.object.json"
+  },
+  "objects/traps/poisoncrystaltrap/poisoncrystaltrap.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/traps/poisoncrystaltrap/poisoncrystaltrap.object.json"
+  },
+  "objects/voltage/electricportal/electricportal.object": {
+    "/avianDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/description": "texts/objects/shared_portal/shared_portal.object.json",
+    "/floranDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/voltage/electricportal/electricportal.object.json",
+    "/humanDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/hylotlDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/novakidDescription": "texts/objects/shared_portal/shared_portal.object.json"
+  },
+  "objects/voltage/electricportal/electricreturnportal.object": {
+    "/apexDescription": "texts/objects/shared_portal/shared_returnportal.object.json",
+    "/avianDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/description": "texts/objects/shared_portal/shared_portal.object.json",
+    "/floranDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/shared_portal/shared_portal.object.json",
+    "/humanDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/hylotlDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/novakidDescription": "texts/objects/shared_portal/shared_portal.object.json",
+    "/shortdescription": "texts/objects/shared_portal/shared_returnportal.object.json"
+  },
+  "objects/voltage/sandrock1/sandrock1.object": {
+    "/apexDescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/avianDescription": "texts/objects/shared_.object.json",
+    "/description": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/floranDescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/humanDescription": "texts/objects/shared_.object.json",
+    "/hylotlDescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/novakidDescription": "texts/objects/shared_.object.json",
+    "/shortdescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json"
+  },
+  "objects/voltage/sandrock2/sandrock2.object": {
+    "/apexDescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/avianDescription": "texts/objects/shared_.object.json",
+    "/description": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/floranDescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/humanDescription": "texts/objects/shared_.object.json",
+    "/hylotlDescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/novakidDescription": "texts/objects/shared_.object.json",
+    "/shortdescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json"
+  },
+  "objects/voltage/sandrock3/sandrock3.object": {
+    "/apexDescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/avianDescription": "texts/objects/shared_.object.json",
+    "/description": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/floranDescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/humanDescription": "texts/objects/shared_.object.json",
+    "/hylotlDescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/novakidDescription": "texts/objects/shared_.object.json",
+    "/shortdescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json"
+  },
+  "objects/voltage/sandrock4/sandrock4.object": {
+    "/apexDescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/avianDescription": "texts/objects/shared_.object.json",
+    "/description": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/floranDescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/humanDescription": "texts/objects/shared_.object.json",
+    "/hylotlDescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/novakidDescription": "texts/objects/shared_.object.json",
+    "/shortdescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json"
+  },
+  "objects/voltage/sandrock5/sandrock5.object": {
+    "/apexDescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/avianDescription": "texts/objects/shared_.object.json",
+    "/description": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/floranDescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/humanDescription": "texts/objects/shared_.object.json",
+    "/hylotlDescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json",
+    "/novakidDescription": "texts/objects/shared_.object.json",
+    "/shortdescription": "texts/objects/voltage/shared_sandrock/shared_sandrock.json"
+  },
+  "particles/damagenumbers/abyssdamagenumber.particle": {
+    "/definition/text": "texts/particles/damagenumbers/shared_damagenumber.json"
+  },
+  "particles/damagenumbers/abyssdamagenumberstrong.particle": {
+    "/definition/text": "texts/particles/damagenumbers/shared_damagenumber.json"
+  },
+  "particles/damagenumbers/abyssdamagenumberweak.particle": {
+    "/definition/text": "texts/particles/damagenumbers/shared_damagenumber.json"
+  },
+  "particles/damagenumbers/iondamagenumber.particle": {
+    "/definition/text": "texts/particles/damagenumbers/shared_damagenumber.json"
+  },
+  "particles/damagenumbers/iondamagenumberstrong.particle": {
+    "/definition/text": "texts/particles/damagenumbers/shared_damagenumber.json"
+  },
+  "particles/damagenumbers/iondamagenumberweak.particle": {
+    "/definition/text": "texts/particles/damagenumbers/shared_damagenumber.json"
+  },
+  "quests/outpost/collectabyssartifact.questtemplate": {
+    "/completionText": "texts/wide_spread_fields.json",
+    "/scriptConfig/descriptions/turnIn": "texts/quests/outpost/shared_artifact.questtemplate.json",
+    "/scriptConfig/portraits/questComplete/title": "texts/quests/outpost/shared_artifact.questtemplate.json",
+    "/scriptConfig/portraits/questStarted/title": "texts/quests/outpost/shared_artifact.questtemplate.json"
+  },
+  "quests/outpost/collectelectricartifact.questtemplate": {
+    "/completionText": "texts/wide_spread_fields.json",
+    "/scriptConfig/portraits/questComplete/title": "texts/quests/outpost/shared_artifact.questtemplate.json",
+    "/scriptConfig/portraits/questStarted/title": "texts/quests/outpost/shared_artifact.questtemplate.json"
+  },
+  "quests/outpost/collectfireartifact.questtemplate": {
+    "/completionText": "texts/wide_spread_fields.json",
+    "/scriptConfig/descriptions/turnIn": "texts/quests/outpost/shared_artifact.questtemplate.json",
+    "/scriptConfig/portraits/questComplete/title": "texts/quests/outpost/shared_artifact.questtemplate.json",
+    "/scriptConfig/portraits/questStarted/title": "texts/quests/outpost/shared_artifact.questtemplate.json"
+  },
+  "quests/outpost/collecticeartifact.questtemplate": {
+    "/completionText": "texts/wide_spread_fields.json",
+    "/scriptConfig/descriptions/turnIn": "texts/quests/outpost/shared_artifact.questtemplate.json",
+    "/scriptConfig/portraits/questComplete/title": "texts/quests/outpost/shared_artifact.questtemplate.json",
+    "/scriptConfig/portraits/questStarted/title": "texts/quests/outpost/shared_artifact.questtemplate.json"
+  },
+  "quests/outpost/collectpoisonartifact.questtemplate": {
+    "/completionText": "texts/wide_spread_fields.json",
+    "/scriptConfig/descriptions/turnIn": "texts/quests/outpost/shared_artifact.questtemplate.json",
+    "/scriptConfig/portraits/questComplete/title": "texts/quests/outpost/shared_artifact.questtemplate.json",
+    "/scriptConfig/portraits/questStarted/title": "texts/quests/outpost/shared_artifact.questtemplate.json"
+  },
+  "radiomessages/extendedstory.radiomessages": {
+    "/isolatedvault07/senderName": "texts/wide_spread_fields.json"
+  },
+  "stats/effects/heal/ancientheal.statuseffect": {
+    "/label": "texts/stats/effects/heal/shared_.statuseffect.json"
+  },
+  "stats/effects/heal/ancientheal2.statuseffect": {
+    "/label": "texts/stats/effects/heal/shared_.statuseffect.json"
+  },
+  "stats/effects/lifesteal-enemy_es/lifesteal-enemy_es.statuseffect": {
+    "/label": "texts/stats/effects/shared_lifesteal-/shared__es.statuseffect.json"
+  },
+  "stats/effects/lifesteal-player_es/lifesteal-player_es.statuseffect": {
+    "/label": "texts/stats/effects/shared_lifesteal-/shared__es.statuseffect.json"
+  },
+  "tech/distortionsphere/jumpsphere.tech": {
+    "/description": "texts/tech/distortionsphere/shared_jumpsphere.tech.json"
+  },
+  "tech/distortionsphere/lesserjumpsphere.tech": {
+    "/description": "texts/tech/distortionsphere/shared_jumpsphere.tech.json"
+  },
+  "tiles/materials/burningbrick.material": {
+    "/floranDescription": "texts/materials/shared_brick.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_brick.mat.json",
+    "/novakidDescription": "texts/materials/shared_brick.mat.json"
+  },
+  "tiles/materials/burningbrick2.material": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/materials/burningbrick2.material.json",
+    "/shortdescription": "texts/materials/shared_burningbrick2.mat.json"
+  },
+  "tiles/materials/burningstone.material": {
+    "/description": "texts/materials/shared_burning.json",
+    "/floranDescription": "texts/materials/shared_.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_.mat.json",
+    "/novakidDescription": "texts/materials/shared_.mat.json"
+  },
+  "tiles/materials/chargedbrick.material": {
+    "/description": "texts/materials/shared_chargedbrick.mat.json",
+    "/floranDescription": "texts/materials/shared_brick.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/materials/chargedbrick.material.json",
+    "/shortdescription": "texts/materials/shared_chargedbrick.mat.json"
+  },
+  "tiles/materials/chargedsand.material": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/materials/chargedsand.material.json",
+    "/shortdescription": "texts/materials/shared_chargedsand.mat.json"
+  },
+  "tiles/materials/chargedstone.material": {
+    "/description": "texts/materials/shared_chargedstone.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/materials/chargedstone.material.json",
+    "/shortdescription": "texts/materials/shared_chargedstone.mat.json"
+  },
+  "tiles/materials/darkobsidian.material": {
+    "/description": "texts/materials/shared_darkobsidian.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/materials/darkobsidian.material.json"
+  },
+  "tiles/materials/darkobsidianbrick.material": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/materials/darkobsidianbrick.material.json",
+    "/shortdescription": "texts/materials/shared_darkobsidianbrick.mat.json"
+  },
+  "tiles/materials/darkobsidianbrick2.material": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/materials/darkobsidianbrick2.material.json"
+  },
+  "tiles/materials/fogblock.material": {
+    "/description": "texts/materials/shared_fogblock.mat.json",
+    "/floranDescription": "texts/materials/shared_fogblock.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_fogblock.mat.json",
+    "/shortdescription": "texts/materials/shared_fogblock.mat.json"
+  },
+  "tiles/materials/fogblockpacked.material": {
+    "/description": "texts/materials/shared_fogblockpacked.mat.json",
+    "/floranDescription": "texts/materials/shared_fogblockpacked.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_fogblockpacked.mat.json",
+    "/novakidDescription": "texts/materials/shared_fogblock.json",
+    "/shortdescription": "texts/materials/shared_fogblockpacked.mat.json"
+  },
+  "tiles/materials/halloweencobblestone.material": {
+    "/floranDescription": "texts/materials/shared_halloweencobblestone.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_halloweencobblestone.mat.json",
+    "/novakidDescription": "texts/materials/shared_halloweencobblestone.mat.json"
+  },
+  "tiles/materials/halloweendirt.material": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/materials/halloweendirt.material.json",
+    "/shortdescription": "texts/materials/shared_halloweendirt.mat.json"
+  },
+  "tiles/materials/holestone.material": {
+    "/floranDescription": "texts/tiles/materials/shared_.material.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/materials/holestone.material.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "tiles/materials/irradiatedstone.material": {
+    "/description": "texts/materials/shared_irradiatedstone.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/materials/irradiatedstone.material.json",
+    "/shortdescription": "texts/materials/shared_irradiatedstone.mat.json"
+  },
+  "tiles/materials/livinglightning.material": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/materials/livinglightning.material.json",
+    "/shortdescription": "texts/shared_livinglightning..json"
+  },
+  "tiles/materials/permafrostblock_es.material": {
+    "/description": "texts/materials/shared_permafrostblock_es.mat.json",
+    "/floranDescription": "texts/materials/shared_permafrostblock_es.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_permafrostblock_es.mat.json",
+    "/novakidDescription": "texts/materials/shared_permafrostblock_es.mat.json",
+    "/shortdescription": "texts/materials/shared_permafrostblock_es.mat.json"
+  },
+  "tiles/materials/permafrostbrick_es.material": {
+    "/description": "texts/materials/shared_permafrostbrick_es.mat.json",
+    "/floranDescription": "texts/materials/shared_permafrostbrick_es.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_permafrostbrick_es.mat.json",
+    "/shortdescription": "texts/materials/shared_permafrostbrick_es.mat.json"
+  },
+  "tiles/materials/radioactivematerial.material": {
+    "/floranDescription": "texts/materials/shared_radioactivematerial.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_radioactivematerial.mat.json",
+    "/novakidDescription": "texts/materials/shared_radioactivematerial.mat.json",
+    "/shortdescription": "texts/materials/shared_radioactivematerial.mat.json"
+  },
+  "tiles/materials/radioactivewalls1.material": {
+    "/description": "texts/materials/shared_radioactivewalls1.mat.json",
+    "/floranDescription": "texts/materials/shared_.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_.mat.json",
+    "/novakidDescription": "texts/materials/shared_.mat.json",
+    "/shortdescription": "texts/materials/shared_radioactivewalls1.mat.json"
+  },
+  "tiles/materials/radioactivewalls2.material": {
+    "/description": "texts/materials/shared_radioactivewalls2.mat.json",
+    "/floranDescription": "texts/materials/shared_radioactivewalls2.mat.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials/shared_radioactivewalls2.mat.json",
+    "/novakidDescription": "texts/materials/shared_radioactivewalls2.mat.json",
+    "/shortdescription": "texts/materials/shared_radioactivewalls2.mat.json"
+  },
+  "tiles/materials/rottendirt.material": {
+    "/floranDescription": "texts/tiles/materials/shared_.material.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/materials/rottendirt.material.json",
+    "/shortdescription": "texts/materials/shared_rottendirt.mat.json"
+  },
+  "tiles/materials/rottenjelly.material": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/materials/rottenjelly.material.json"
+  },
+  "tiles/materials/sandbricklightning.material": {
+    "/floranDescription": "texts/tiles/materials/shared_.material.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/materials/shared_.material.json",
+    "/novakidDescription": "texts/tiles/materials/shared_.material.json"
+  },
+  "tiles/materials/sandstonebrick_es.material": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/materials/sandstonebrick_es.material.json"
+  },
+  "tiles/materials/supercompressedsand.material": {
+    "/description": "texts/materials/shared_supercompressedsand.mat.json",
+    "/floranDescription": "texts/tiles/materials/shared_.material.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/materials/shared_.material.json",
+    "/novakidDescription": "texts/tiles/materials/shared_.material.json",
+    "/shortdescription": "texts/materials/shared_supercompressedsand.mat.json"
+  },
+  "tiles/materials/supervoidblock.material": {
+    "/description": "texts/wide_spread_fields.json",
+    "/floranDescription": "texts/wide_spread_fields.json",
+    "/glitchDescription": "texts/wide_spread_fields.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "tiles/platforms/burningplatform_es.material": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/platforms/burningplatform_es.material.json"
+  },
+  "tiles/platforms/iceplatform_es.material": {
+    "/description": "texts/shared_iceplatform.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/platforms/iceplatform_es.material.json",
+    "/shortdescription": "texts/shared_iceplatform.json"
+  },
+  "tiles/rails/darkobsidianrail.material": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/tiles/rails/darkobsidianrail.material.json",
+    "/shortdescription": "texts/shared_darkobsidianrail.mat.json"
+  }
+}

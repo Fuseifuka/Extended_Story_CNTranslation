@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/lunariteore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ore found exclusively on any lunar biome."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/lunariteore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunarite Ore"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/ancientflight/ancientflight.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"古代飞行-此效果已由古代球取代",
+      "Eng": "Ancient Flight - This effect has been replaced by the Ancient Sphere"
+    }
+  }
+]

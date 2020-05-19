@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/darkobsidianbrick2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A spiral-shaped brick made of abyss stone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/darkobsidianbrick2.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A swirlin' brick made of dark rocks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/darkobsidianbrick2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abyss Spiral Brick"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/darkobsidianbrick2.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark brickss with swirls."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/darkobsidianbrick2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tile of brick has a spiral in it."
+    }
+  }
+]

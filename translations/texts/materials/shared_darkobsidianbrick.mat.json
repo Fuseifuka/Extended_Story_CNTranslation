@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkobsidianbrick.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/darkobsidianbrick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange Brick"
+    }
+  }
+]

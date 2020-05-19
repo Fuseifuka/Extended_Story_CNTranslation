@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/annihilator/annihilator-cannonweapon/annihilator-cannonweapon.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful annihilation cannon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/annihilator/annihilator-cannonweapon/annihilator-cannonweapon.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rebounding Orbs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/annihilator/annihilator-cannonweapon/annihilator-cannonweapon.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ea6a56;Ragecannon Mk I^reset;"
+    }
+  }
+]

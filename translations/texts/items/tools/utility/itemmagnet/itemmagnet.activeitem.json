@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/utility/itemmagnet/itemmagnet.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A magnet that brings items to you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/utility/itemmagnet/itemmagnet.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Item Magnet"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/healthplague_es/healthplague_es.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"瘟疫-持续受到伤害",
+      "Eng": "Health Plague - Constantly taking damage"
+    }
+  }
+]

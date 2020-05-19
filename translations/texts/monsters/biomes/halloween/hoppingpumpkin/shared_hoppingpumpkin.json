@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/halloween/hoppingpumpkin/hoppingpumpkin.monstertype": [
+        "/description"
+      ],
+      "monsters/biomes/halloween/hoppingpumpkin/hoppingpumpkin2.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A type of monster brought to life by unknown forces."
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/decayingair/decayingair.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"腐朽的空气-恶心朽坏的空气非常强烈",
+      "Eng": "Decaying Air - The foul air is extremely strong"
+    }
+  }
+]

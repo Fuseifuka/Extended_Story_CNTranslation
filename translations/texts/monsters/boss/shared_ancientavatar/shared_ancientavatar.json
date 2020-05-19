@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/ancientavatar/ancientavatar.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/boss/ancientavatarstatue/ancientavatarstatue.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Avatar"
+    }
+  }
+]

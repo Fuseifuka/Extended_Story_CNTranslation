@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/umbralmattercontained.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contained Umbral Matter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/umbralmattercontained.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contained umbral matter. It should be stable enough for crafting. ^red;Currently no use for it."
+    }
+  }
+]

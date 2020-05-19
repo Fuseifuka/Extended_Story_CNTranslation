@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/supervoidobliterator/supervoidobliterator.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A remnant of the supervoid eye's power. It can still destroy everything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/supervoidobliterator/supervoidobliterator.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#a8009e;The Obliterator^reset;"
+    }
+  }
+]

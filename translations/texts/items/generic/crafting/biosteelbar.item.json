@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/biosteelbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Biosteel Bar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/biosteelbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Durasteel mixed with rotten goop and alien bacteria. Can be used for crafting."
+    }
+  }
+]

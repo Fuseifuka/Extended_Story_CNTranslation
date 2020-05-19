@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/ultimatium/ultimatium.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The single strongest pair of pants available. \n^cyan;Emits a protective shield.^reset;\n^red;Not dyeable^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/ultimatium/ultimatium.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ultimatium Leggings"
+    }
+  }
+]

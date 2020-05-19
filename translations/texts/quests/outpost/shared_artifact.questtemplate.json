@@ -1,0 +1,52 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/collectabyssartifact.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/outpost/collectfireartifact.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/outpost/collecticeartifact.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/outpost/collectpoisonartifact.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Chs":"回到^greeen;方舟前哨站^reset;的^orange;神秘商人^reset;那里",
+      "Eng": "Return to ^orange;the Trader^reset; at ^green;the Outpost^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/collectabyssartifact.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/collectelectricartifact.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/collectfireartifact.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/collecticeartifact.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/collectpoisonartifact.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ]
+    },
+    "Texts": {
+      "Chs":"神秘商人",
+      "Eng": "The Trader"
+    }
+  }
+]

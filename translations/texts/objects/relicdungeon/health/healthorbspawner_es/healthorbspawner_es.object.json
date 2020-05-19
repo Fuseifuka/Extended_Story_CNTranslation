@@ -1,0 +1,102 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthorbspawner_es/healthorbspawner_es.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mechanism that fires a healing orb upon activation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthorbspawner_es/healthorbspawner_es.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dying shouldn't be a concern for now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthorbspawner_es/healthorbspawner_es.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heals are always a great sight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthorbspawner_es/healthorbspawner_es.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"治疗宝珠生成器",
+      "Eng": "Health Orb Spawner"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthorbspawner_es/healthorbspawner_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can recover instantly using the orb that was emitted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthorbspawner_es/healthorbspawner_es.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I instantly recover if I touch the orb launched from this thing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthorbspawner_es/healthorbspawner_es.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Orb makess Floran ssstrong."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthorbspawner_es/healthorbspawner_es.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There ain't no worrying about dyin' now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthorbspawner_es/healthorbspawner_es.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mechanism fires orbs that provide instant recovery."
+    }
+  }
+]

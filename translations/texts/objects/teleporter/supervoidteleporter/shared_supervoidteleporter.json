@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter2.object": [
+        "/floranDescription"
+      ],
+      "objects/teleporter/supervoidteleporter/supervoidteleporternode.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"奇奇奇怪的发光的东西...",
+      "Eng": "Sstrange glowing thing..."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmancientmachinegun.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient rifle with two barrels."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmancientmachinegun.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Gun Mech Arm"
+    }
+  }
+]

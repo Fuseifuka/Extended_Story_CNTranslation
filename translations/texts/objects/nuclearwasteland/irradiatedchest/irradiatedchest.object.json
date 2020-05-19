@@ -1,0 +1,103 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedchest/irradiatedchest.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"一个用压缩过的放射性废料制作的柜子。口区...",
+      "Eng": "A chest made of compressed radioactive waste. Gross..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedchest/irradiatedchest.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest made of disgusting waste."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedchest/irradiatedchest.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest made of radioactive waste."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedchest/irradiatedchest.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Compressed toxic waste carved into a chest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedchest/irradiatedchest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"辐射柜子",
+      "Eng": "Irradiated Chest"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedchest/irradiatedchest.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seems kinda pointless to make a chest outta waste."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedchest/irradiatedchest.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chest has a built-in ability to deter invaders...probably."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedchest/irradiatedchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chest is made of compressed toxic waste."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedchest/irradiatedchest.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxic chesst."
+    }
+  }
+]

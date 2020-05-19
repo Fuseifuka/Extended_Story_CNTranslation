@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/endgameguardian/phoenixboss_es/phoenixboss_es.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Phoenix Guardian"
+    }
+  }
+]

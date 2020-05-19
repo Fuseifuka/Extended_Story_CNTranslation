@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/lore/supervoideyeorigin.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一本讲述超虚空之眼是从何而来的书。",
+      "Eng": "A book that shows how the Supervoid Eye came to be."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/lore/supervoideyeorigin.codex": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "超虚空之眼",
+      "Eng": "The Supervoid Eye"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/lore/supervoideyeorigin.codex": [
+        "/contentPages/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "Emm……这就尴尬了。你要知道，这是你不应该有的东西。这些文本会在最后一次更新中被替代。如果你认真地觉得你应该是那只早起吃虫的鸟，那你就大错特错了。远 离 我 的 财 产 ， 你 这 个 作 弊 者 ！好了，你应该一直保持你的好奇心。抱歉啦，再见。",
+      "Eng": "Umm...This is awkward. You know, this is something that you're not meant to have. This text will be replaced in the final update. If you seriously think you're going to get the worm by being the early bird, you're completely wrong. STAY OUT OF MY ASSETS YOU CHEATER!!! Okay, you might have been curious. Sorry. Bye."
+    }
+  }
+]

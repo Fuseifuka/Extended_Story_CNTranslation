@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssdoor/abyssdoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A creepy eye...that I want to stare at."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssdoor/abyssdoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door that my three eyes cannot keep off of."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssdoor/abyssdoor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door with an eye. I want to stare at it until my eyes bleed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssdoor/abyssdoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door with an unblinking eye in the center."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssdoor/abyssdoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abyss Door"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssdoor/abyssdoor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wantsss eyes to gaze at it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssdoor/abyssdoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I feel the urge to stare at the eye."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssdoor/abyssdoor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wanna stare at it forever."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssdoor/abyssdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I want to stare at the eye for eternity."
+    }
+  }
+]

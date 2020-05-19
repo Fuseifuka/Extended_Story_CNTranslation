@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/emptycell.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty cell used for crafting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/emptycell.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Empty Cell"
+    }
+  }
+]

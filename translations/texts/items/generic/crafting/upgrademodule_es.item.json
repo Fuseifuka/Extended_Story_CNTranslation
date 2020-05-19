@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/upgrademodule_es.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An item used for upgrading weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/upgrademodule_es.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapon Upgrade Module"
+    }
+  }
+]

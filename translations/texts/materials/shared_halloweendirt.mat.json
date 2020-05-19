@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/halloweendirt.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/halloweendirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Halloween Dirt"
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchest_es.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest that seems to have an essential item inside of it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchest_es.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest with glowing strips of blue light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchest_es.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A glowin' chest with something inside. Must be important."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchest_es.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chesst hass important thing inssside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchest_es.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is something important inside this chest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchest_es.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chest must contain something important."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchest_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chest must have an important tool inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchest_es.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a chest. Whatever is inside of it must be important."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchest_es.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vitalium Dungeon Chest"
+    }
+  }
+]

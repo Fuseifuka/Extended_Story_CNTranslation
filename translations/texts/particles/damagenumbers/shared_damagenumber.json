@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "particles/damagenumbers/abyssdamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/abyssdamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/abyssdamagenumberweak.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/iondamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/iondamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/iondamagenumberweak.particle": [
+        "/definition/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^shadow;$dmg$"
+    }
+  }
+]

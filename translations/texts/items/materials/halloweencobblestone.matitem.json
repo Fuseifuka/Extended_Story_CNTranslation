@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/halloweencobblestone.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Halloween Stone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/halloweencobblestone.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Very smooth and spooky cobblestone blocks."
+    }
+  }
+]

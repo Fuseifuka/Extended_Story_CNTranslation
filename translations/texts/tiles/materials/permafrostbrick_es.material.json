@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/permafrostbrick_es.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A brick made of permafrost."
+    }
+  }
+]

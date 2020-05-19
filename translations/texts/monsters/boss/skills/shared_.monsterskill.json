@@ -1,0 +1,52 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/ancientboss/skills/ancientbossMoveFireAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/ancientboss/skills/ancientbossReinforcementsAttack2.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/ancientboss/skills/ancientbossSprayNPrayAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/ancientboss/skills/ancientbossSprayNPrayAttack2.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/ancientboss/skills/ancientbossSuperBarrageAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/cyberboss/skills/cyberbossTeslaAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/destroyer/skills/destroyerBulletCirclesAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/destroyer/skills/destroyerDestructionShowerAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/destroyer/skills/destroyerGiantLaserShotAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/destroyer/skills/destroyerLaserShotsAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/destroyer/skills/destroyerSkyGapAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/destroyer/skills/destroyerSkyMegaLaserAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/destroyer/skills/destroyerSprayNPrayAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/destroyer/skills/quantumsentryDestructionAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "CIRCLE"
+    }
+  }
+]

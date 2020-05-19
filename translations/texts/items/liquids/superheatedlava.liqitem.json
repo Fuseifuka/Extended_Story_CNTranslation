@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/superheatedlava.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A measure of extremely hot lava."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/superheatedlava.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Super-heated Lava"
+    }
+  }
+]

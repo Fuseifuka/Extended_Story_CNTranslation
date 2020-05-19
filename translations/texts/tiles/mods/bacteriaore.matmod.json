@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/bacteriaore.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"细菌。呕。",
+      "Eng": "Bacteria."
+    }
+  }
+]

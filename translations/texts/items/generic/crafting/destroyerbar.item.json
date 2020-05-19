@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/destroyerbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An extremely destructive bar of destructium.^green; Used for crafting powerful equipment^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/destroyerbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Destructium Bar"
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchestlock_es.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest designed to unlock something upon inserting an item."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchestlock_es.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest with a key decorated on it. It looks like I need to put my gun into this chest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchestlock_es.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needss to put gun inside chesst to continue."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchestlock_es.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I must put my healing gun in this chest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchestlock_es.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need to put my healing gun inside of this chest in order to continue."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchestlock_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like I need to put this gun in this chest to proceed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchestlock_es.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Putting my healing gun inside of this chest unlocks something."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchestlock_es.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seriously? I need to get rid of my sweet healing gun to proceed?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthrelicchest_es/healthrelicchestlock_es.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vitalium Lock Chest"
+    }
+  }
+]

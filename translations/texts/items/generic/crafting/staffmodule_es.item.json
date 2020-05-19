@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/staffmodule_es.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slate of durasteel with a staff etched into it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/staffmodule_es.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Staff Module"
+    }
+  }
+]

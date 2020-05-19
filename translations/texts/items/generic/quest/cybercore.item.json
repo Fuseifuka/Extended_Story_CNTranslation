@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/quest/cybercore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A core component in robot super weapons. There are coordinates embedded in the shell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/quest/cybercore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cyber Core"
+    }
+  }
+]

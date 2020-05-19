@@ -1,0 +1,149 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkobsidian.matitem": [
+        "/florandescription"
+      ],
+      "items/materials/darkobsidianbrick.matitem": [
+        "/florandescription"
+      ],
+      "items/materials/darkobsidianbrick2.matitem": [
+        "/florandescription"
+      ],
+      "items/materials/holestone.matitem": [
+        "/florandescription"
+      ],
+      "items/materials/rottendirt.matitem": [
+        "/florandescription"
+      ],
+      "items/materials/rottenjelly.matitem": [
+        "/florandescription"
+      ],
+      "items/materials/sandbricklightning.matitem": [
+        "/florandescription"
+      ],
+      "items/materials/sandstonebrick_es.matitem": [
+        "/florandescription"
+      ],
+      "items/materials/supercompressedsand.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark obsssidian. Sstrong ssuper dark rockss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chargedsand.matitem": [
+        "/florandescription"
+      ],
+      "items/materials/livinglightning.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dussty sand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chargedsand.matitem": [
+        "/novakiddescription"
+      ],
+      "items/materials/livinglightning.matitem": [
+        "/novakiddescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some mighty soft lookin' sand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkobsidian.matitem": [
+        "/novakiddescription"
+      ],
+      "items/materials/darkobsidianbrick.matitem": [
+        "/novakiddescription"
+      ],
+      "items/materials/darkobsidianbrick2.matitem": [
+        "/novakiddescription"
+      ],
+      "items/materials/holestone.matitem": [
+        "/novakiddescription"
+      ],
+      "items/materials/rottendirt.matitem": [
+        "/novakiddescription"
+      ],
+      "items/materials/rottenjelly.matitem": [
+        "/novakiddescription"
+      ],
+      "items/materials/sandbricklightning.matitem": [
+        "/novakiddescription"
+      ],
+      "items/materials/sandstonebrick_es.matitem": [
+        "/novakiddescription"
+      ],
+      "items/materials/supercompressedsand.matitem": [
+        "/novakiddescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some really dark obsidian rocks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkobsidian.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "items/materials/darkobsidianbrick.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "items/materials/darkobsidianbrick2.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "items/materials/holestone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "items/materials/rottendirt.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "items/materials/rottenjelly.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "items/materials/sandbricklightning.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "items/materials/sandstonebrick_es.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "items/materials/supercompressedsand.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This obsidian is unnaturally dark."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chargedsand.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "items/materials/livinglightning.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sand is so fine it seems smooth to touch."
+    }
+  }
+]

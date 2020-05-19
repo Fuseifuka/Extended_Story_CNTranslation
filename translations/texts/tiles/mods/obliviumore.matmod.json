@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/obliviumore.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"万视矿",
+      "Eng": "Oblivium Ore."
+    }
+  }
+]

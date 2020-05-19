@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/bacterialacid/bacterialacid.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"酸性细菌-细菌正在将你消化！",
+      "Eng": "Acidic Bacteria - The bacteria is digesting you alive!"
+    }
+  }
+]

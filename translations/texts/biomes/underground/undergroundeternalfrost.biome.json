@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/undergroundeternalfrost.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Underground Permafrost"
+    }
+  }
+]

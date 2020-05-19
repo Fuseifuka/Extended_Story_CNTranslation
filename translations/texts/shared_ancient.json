@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/lore/theancientone.codex": [
+        "/title"
+      ],
+      "monsters/boss/ancientboss/ancientboss.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"古代“骇翼”",
+      "Eng": "The Ancient One"
+    }
+  }
+]

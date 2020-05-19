@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/teleporttobossworld2.config": [
+        "/destinations/0/name"
+      ],
+      "monsters/boss/supervoidbossphase2/supervoidbossphase2.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"虚空分身",
+      "Eng": "Exvoidimus"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/teleporttoboss.config": [
+        "/destinations/0/name"
+      ],
+      "monsters/boss/supervoidboss/supervoidboss.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"超虚空之眼",
+      "Eng": "Supervoid Eye"
+    }
+  }
+]

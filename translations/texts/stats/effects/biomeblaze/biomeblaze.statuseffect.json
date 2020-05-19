@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/biomeblaze/biomeblaze.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"灼烧空气-滚烫如恒星的空气正在把你煮熟！",
+      "Eng": "Burning Air - You are being cooked alive by burning air"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/iceplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/iceplatform_es.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"冰平台",
+      "Eng": "Ice Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/iceplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/iceplatform_es.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"一个完全由冰块做成的平台，不知道为什么这些平台如此坚固又不会融化。",
+      "Eng": "Platforms that are made entirely of ice. It's unknown how these are sturdy or never melt."
+    }
+  }
+]

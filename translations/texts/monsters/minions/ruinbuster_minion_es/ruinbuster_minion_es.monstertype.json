@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/minions/ruinbuster_minion_es/ruinbuster_minion_es.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy-duty drone deployed by the Ruinbuster, a pilot-controlled aircraft."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/minions/ruinbuster_minion_es/ruinbuster_minion_es.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ruinbuster Drone"
+    }
+  }
+]

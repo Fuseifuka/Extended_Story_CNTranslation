@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/chaingun/astralchaingun/astralchaingun.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Astral Burst"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/chaingun/astralchaingun/astralchaingun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The legendary chain gun of time and space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/chaingun/astralchaingun/astralchaingun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#a600cc;Astral Chain Gun^reset;"
+    }
+  }
+]

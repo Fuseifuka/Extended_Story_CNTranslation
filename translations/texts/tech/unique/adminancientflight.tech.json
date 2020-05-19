@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/unique/adminancientflight.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"按^green;[F]^reset;变成一个可以飞行的球体。^yellow;游戏管理员版",
+      "Eng": "Turn into a sphere that allows flight! ^green;[F] ^yellow;Admin Version"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/unique/adminancientflight.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"^yellow;游戏管理员版^magenta;古代球^reset;",
+      "Eng": "^yellow;Admin^magenta; Ancient Sphere^reset;"
+    }
+  }
+]

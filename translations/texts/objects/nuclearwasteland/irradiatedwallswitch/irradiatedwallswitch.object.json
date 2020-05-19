@@ -1,0 +1,103 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedwallswitch/irradiatedwallswitch.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic switch. It can be used to activate something."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedwallswitch/irradiatedwallswitch.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A switch. It activates something."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedwallswitch/irradiatedwallswitch.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "How many times can I flip this switch on and off I wonder."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedwallswitch/irradiatedwallswitch.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can flip this here switch!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedwallswitch/irradiatedwallswitch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"辐射壁式开关",
+      "Eng": "Irradiated Wall Button"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedwallswitch/irradiatedwallswitch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"尽管遭到辐射，但也就只是个开关。可切换。",
+      "Eng": "It's just a simple button, though irradiated. Toggleable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedwallswitch/irradiatedwallswitch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssswitch!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedwallswitch/irradiatedwallswitch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This small switch doesn't look that powerful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedwallswitch/irradiatedwallswitch.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This switch must activate something."
+    }
+  }
+]

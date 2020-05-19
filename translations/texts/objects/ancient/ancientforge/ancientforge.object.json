@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientforge/ancientforge.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A forge crafted out of ancient materials."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientforge/ancientforge.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very ancient forge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientforge/ancientforge.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient forge crafted out of certain materials that cannot be obtained by normal means."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientforge/ancientforge.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient forge, used for crafting ^orange;ancient gear^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientforge/ancientforge.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient forge. The material used to make this is very ancient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientforge/ancientforge.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprisingly, this forge is still fully functional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientforge/ancientforge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Ancient Forge^reset;"
+    }
+  }
+]

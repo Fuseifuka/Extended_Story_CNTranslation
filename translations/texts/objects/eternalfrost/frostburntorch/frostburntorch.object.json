@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburntorch/frostburntorch.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fairly odd torch that burns with magical energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburntorch/frostburntorch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A primitive light source made with permafrost stone and frostburn energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburntorch/frostburntorch.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A torch burnin' and freezin'. Interesting fella."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburntorch/frostburntorch.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A torch that is both hot and cold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburntorch/frostburntorch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss confussed. It'ss burning and freezing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburntorch/frostburntorch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frostburn Torch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburntorch/frostburntorch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "How did such a primitive civilization make something like this?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburntorch/frostburntorch.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This torch burns with frostburn energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburntorch/frostburntorch.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This torch emits a beautifully colored flame."
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/miniboss/cryoniatotem/cryoniatotem.monstertype": [
+        "/description"
+      ],
+      "monsters/mission/cryoniatotemlesser/cryoniatotemlesser.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A statue depicting Cryonia animated to kill on sight."
+    }
+  }
+]

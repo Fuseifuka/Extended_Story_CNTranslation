@@ -1,0 +1,92 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable1_es/forgotten-breakable1_es.object": [
+        "/avianDescription"
+      ],
+      "objects/forgotten/forgotten-breakable2_es/forgotten-breakable2_es.object": [
+        "/avianDescription"
+      ],
+      "objects/voltage/sandrock1/sandrock1.object": [
+        "/avianDescription"
+      ],
+      "objects/voltage/sandrock2/sandrock2.object": [
+        "/avianDescription"
+      ],
+      "objects/voltage/sandrock3/sandrock3.object": [
+        "/avianDescription"
+      ],
+      "objects/voltage/sandrock4/sandrock4.object": [
+        "/avianDescription"
+      ],
+      "objects/voltage/sandrock5/sandrock5.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"在这些石头附近我最好小心脚步！",
+      "Eng": "Better watch my step with these rocks around!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable1_es/forgotten-breakable1_es.object": [
+        "/novakidDescription"
+      ],
+      "objects/forgotten/forgotten-breakable2_es/forgotten-breakable2_es.object": [
+        "/novakidDescription"
+      ],
+      "objects/voltage/sandrock1/sandrock1.object": [
+        "/novakidDescription"
+      ],
+      "objects/voltage/sandrock2/sandrock2.object": [
+        "/novakidDescription"
+      ],
+      "objects/voltage/sandrock3/sandrock3.object": [
+        "/novakidDescription"
+      ],
+      "objects/voltage/sandrock4/sandrock4.object": [
+        "/novakidDescription"
+      ],
+      "objects/voltage/sandrock5/sandrock5.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"沉积岩。",
+      "Eng": "Sediment rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable1_es/forgotten-breakable1_es.object": [
+        "/humanDescription"
+      ],
+      "objects/forgotten/forgotten-breakable2_es/forgotten-breakable2_es.object": [
+        "/humanDescription"
+      ],
+      "objects/voltage/sandrock1/sandrock1.object": [
+        "/humanDescription"
+      ],
+      "objects/voltage/sandrock2/sandrock2.object": [
+        "/humanDescription"
+      ],
+      "objects/voltage/sandrock3/sandrock3.object": [
+        "/humanDescription"
+      ],
+      "objects/voltage/sandrock4/sandrock4.object": [
+        "/humanDescription"
+      ],
+      "objects/voltage/sandrock5/sandrock5.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"我可能会被绊倒。",
+      "Eng": "That's a tripping hazard right there."
+    }
+  }
+]

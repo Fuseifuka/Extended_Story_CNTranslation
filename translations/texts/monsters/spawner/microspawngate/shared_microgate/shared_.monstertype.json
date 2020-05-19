@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/spawner/microspawngate/fireymicrogate/fireymicrogate.monstertype": [
+        "/description"
+      ],
+      "monsters/spawner/microspawngate/fireymicrogate/fireymicrogate2.monstertype": [
+        "/description"
+      ],
+      "monsters/spawner/microspawngate/irradiatedmicrogate/irradiatedmicrogate.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A machine that spawns lots of combat machines. WASTED!!!"
+    }
+  }
+]

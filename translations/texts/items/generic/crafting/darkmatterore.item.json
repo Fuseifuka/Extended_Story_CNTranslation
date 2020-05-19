@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/darkmatterore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A raw fragment of a strange substance that can interfere with reality itself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/darkmatterore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Matter Ore"
+    }
+  }
+]

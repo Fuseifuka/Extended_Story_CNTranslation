@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/heal/ancientheal.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/heal/ancientheal2.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"治疗",
+      "Eng": "Healing"
+    }
+  }
+]

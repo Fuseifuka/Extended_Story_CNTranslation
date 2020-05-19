@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ancient/ancientchaingun/ancientchaingun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy-duty weapon used for stronger enemies that a standard-issue ancient rifle cannot take out."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ancient/ancientchaingun/ancientchaingun.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Laser"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ancient/ancientchaingun/ancientchaingun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta; ^reset;"
+    }
+  }
+]

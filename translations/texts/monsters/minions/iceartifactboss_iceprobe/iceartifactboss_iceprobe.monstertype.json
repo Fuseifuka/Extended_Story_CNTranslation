@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/minions/iceartifactboss_iceprobe/iceartifactboss_iceprobe.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frosted Probe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/minions/iceartifactboss_iceprobe/iceartifactboss_iceprobe.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terraria Destroyer probe clone lol."
+    }
+  }
+]

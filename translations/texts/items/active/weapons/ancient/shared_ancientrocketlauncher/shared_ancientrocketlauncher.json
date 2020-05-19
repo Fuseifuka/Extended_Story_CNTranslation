@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ancient/ancientrocketlauncher/ancientrocketlauncher.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/ancient/ancientrocketlauncherbak/ancientrocketlauncherbak.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;^reset;"
+    }
+  }
+]

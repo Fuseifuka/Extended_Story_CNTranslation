@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/upgraded/upgradeddrillspear_es/upgradeddrillspear_es.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange drill-beam hybrid of sorts. ^cyan;Upgraded"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/upgraded/upgradeddrillspear_es/upgradeddrillspear_es.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drill Spear ^cyan;^reset;"
+    }
+  }
+]

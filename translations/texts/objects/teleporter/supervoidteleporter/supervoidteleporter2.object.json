@@ -1,0 +1,92 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A checkpoint!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Destroyin' this thing will be less of a chore."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"是时候去下一关了",
+      "Eng": "Go to the second phase!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "How generous of our second deity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't have to start over."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ideal for saving time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"超虚空检查点",
+      "Eng": "Supervoid Checkpoint"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This will save me some time."
+    }
+  }
+]

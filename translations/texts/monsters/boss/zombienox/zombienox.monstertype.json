@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/zombienox/zombienox.monstertype": [
+        "/baseParameters/dialog/death/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/zombienox/zombienox.monstertype": [
+        "/baseParameters/dialog/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "*unknown gibberish*"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/zombienox/zombienox.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Void Nox"
+    }
+  }
+]

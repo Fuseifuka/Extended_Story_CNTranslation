@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/forgotten/forgotten-eyecreature_es/forgotten-eyecreature_es.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Evil Eye that is rotting away."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/forgotten/forgotten-eyecreature_es/forgotten-eyecreature_es.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rotting Evil Eye"
+    }
+  }
+]

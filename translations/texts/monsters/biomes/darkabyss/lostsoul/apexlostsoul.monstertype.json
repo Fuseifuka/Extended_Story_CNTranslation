@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/lostsoul/apexlostsoul.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apex Lost Soul"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/lostsoul/apexlostsoul.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The spirit of an ^green;Apex^reset; wandering the ^#666666;dark abyss^reset; for eternity."
+    }
+  }
+]

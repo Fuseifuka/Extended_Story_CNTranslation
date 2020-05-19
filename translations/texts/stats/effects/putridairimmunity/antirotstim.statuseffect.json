@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/putridairimmunity/antirotstim.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"防腐-愈合水可保护你免受腐朽空气的影响",
+      "Eng": "Anti-Rot - The healing water protects you from the effects of rotten air"
+    }
+  }
+]

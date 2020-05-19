@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/wandmodule_es.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slate of durasteel with a wand etched into it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/wandmodule_es.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wand Module"
+    }
+  }
+]

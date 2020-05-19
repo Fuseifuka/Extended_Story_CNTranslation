@@ -1,0 +1,102 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocket_es.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A floating orb. I think this is what the healing gun is used for."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocket_es.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A socket for an orb that can be healed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocket_es.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient orb with a socket. It must require the healing gun for proper functionality. An interesting piece of technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocket_es.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hasss healing gun. Floran thinkss it must be ussed on floating orb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocket_es.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"治愈宝珠插槽",
+      "Eng": "Healing Orb Socket"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocket_es.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The healing gun that I have must be used on this mechanism."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocket_es.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This laser-shootin' gun must be used on this floatin' orb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocket_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This orb must be what this healing gun is for."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocket_es.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This piece of technology activates when its orb is fully healed."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/minions/ancientboss2_laserbarrier/ancientboss2_laserbarrier.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automation that creates a barrier using a laser beam."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/minions/ancientboss2_laserbarrier/ancientboss2_laserbarrier.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Laser Barrier"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientforge/ancientforge.object": [
+        "/novakidDescription"
+      ],
+      "objects/ancient/ancientfurnace/ancientfurnace.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't really find somethin' like this anywhere."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientforge/ancientforge.object": [
+        "/floranDescription"
+      ],
+      "objects/ancient/ancientfurnace/ancientfurnace.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glowing object iss ancient."
+    }
+  }
+]

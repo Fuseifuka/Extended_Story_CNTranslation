@@ -1,0 +1,91 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/cryoniastatue/cryoniastatue.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"描绘克里奥尼亚神的雕像",
+      "Eng": "A statue depicting the god Cryonia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/cryoniastatue/cryoniastatue.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A statue of a god. What was its purpose?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/cryoniastatue/cryoniastatue.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A statue of an ancient god."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/cryoniastatue/cryoniastatue.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssilly sstatue made by tribesss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/cryoniastatue/cryoniastatue.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This god seems to be an interesting fella to meet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/cryoniastatue/cryoniastatue.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue appears to be constructed many eons ago."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/cryoniastatue/cryoniastatue.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue represents an ancient god. I wonder what blessings it gave its people."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/cryoniastatue/cryoniastatue.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue seems to represent a god lost to time."
+    }
+  }
+]

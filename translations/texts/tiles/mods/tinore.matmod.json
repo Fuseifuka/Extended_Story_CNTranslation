@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/tinore.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"锡矿。",
+      "Eng": "Tin Ore."
+    }
+  }
+]

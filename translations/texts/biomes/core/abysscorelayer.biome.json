@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/core/abysscorelayer.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "coredarkabyss"
+    }
+  }
+]

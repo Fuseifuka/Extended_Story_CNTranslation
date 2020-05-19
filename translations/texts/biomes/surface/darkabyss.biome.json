@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/darkabyss.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "darkabyss"
+    }
+  }
+]

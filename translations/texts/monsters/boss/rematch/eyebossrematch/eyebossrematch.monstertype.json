@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/rematch/eyebossrematch/eyebossrematch.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ff0000;Heart of Ruin"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/destroyereffect/destroyereffect.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"世界末日-倒计时结束后，你就完了",
+      "Eng": "Armageddon - You will meet your end once the timer runs out"
+    }
+  }
+]

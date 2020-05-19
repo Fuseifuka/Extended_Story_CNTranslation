@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/voltagenore.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"电压石矿",
+      "Eng": "Voltagen Ore."
+    }
+  }
+]

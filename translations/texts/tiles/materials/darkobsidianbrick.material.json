@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/darkobsidianbrick.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block of abyss stone carved into a strange-looking brick."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/darkobsidianbrick.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange-lookin' brick."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/darkobsidianbrick.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstrange bricksss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/darkobsidianbrick.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This brick has a very strange shape."
+    }
+  }
+]

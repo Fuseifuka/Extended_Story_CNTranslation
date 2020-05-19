@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/cryoniumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ore that has an extremely low temperature, can be smelted into cryonium bars."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/cryoniumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cryonium Ore"
+    }
+  }
+]

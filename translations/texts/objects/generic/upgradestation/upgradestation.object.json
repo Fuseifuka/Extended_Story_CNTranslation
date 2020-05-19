@@ -1,0 +1,127 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/upgradestation/upgradestation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran upgrade powerful weaponss. Weaponss become more powerful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/upgradestation/upgradestation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can upgrade my already powerful weapons here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/upgradestation/upgradestation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can upgrade powerful weapons here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/upgradestation/upgradestation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's upgrade powerful weapons and rule the universe, or do less evil things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/upgradestation/upgradestation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Makin' weapons even more powerful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/upgradestation/upgradestation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This will allow me to upgrade powerful weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/upgradestation/upgradestation.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Chs":"升级工作站（ES）",
+      "Eng": "Upgrade Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/upgradestation/upgradestation.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Chs":"在这里升级6到8等级的武器。",
+      "Eng": "Upgrade tier 6-8 weapons here"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/upgradestation/upgradestation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upgrading powerful weapons will make them even more powerful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/upgradestation/upgradestation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"用于对等级6，等级7或等级8的武器升级",
+      "Eng": "Used for upgrading weapons that are tier 6, tier 7, or tier 8."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/upgradestation/upgradestation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"^orange;升级工作站^white;",
+      "Eng": "^orange;Upgrade Station^white;"
+    }
+  }
+]

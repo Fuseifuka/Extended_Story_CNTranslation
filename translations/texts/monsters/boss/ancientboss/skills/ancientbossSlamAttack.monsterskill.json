@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/ancientboss/skills/ancientbossSlamAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "SLAM"
+    }
+  }
+]

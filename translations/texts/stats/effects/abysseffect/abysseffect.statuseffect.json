@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/abysseffect/abysseffect.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"沉沦~暗~ -黑暗正在侵蚀你的生命",
+      "Eng": "Dark Sap - The darkness is leaching away at your health"
+    }
+  }
+]

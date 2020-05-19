@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/plutonium.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nuclear Wasteland"
+    }
+  }
+]

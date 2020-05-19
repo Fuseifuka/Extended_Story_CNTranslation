@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/undergroundvoltage.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electrified Caves"
+    }
+  }
+]

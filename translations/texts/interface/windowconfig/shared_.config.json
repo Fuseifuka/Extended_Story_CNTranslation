@@ -1,0 +1,146 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/ancientfurnace.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/upgradestation.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  ANVIL"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/ancientfurnace.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/upgradestation.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Make sharp things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/ancientforge.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/ancientfurnace.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/upgradestation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "0"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/ancientforge.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/upgradestation.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/ancientforge.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/ancientfurnace.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/upgradestation.config": [
+        "/paneLayout/lblProduct/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "MATERIALS AVAILABLE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/ancientforge.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/ancientfurnace.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/upgradestation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Replace Me"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/ancientforge.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/ancientfurnace.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/upgradestation.config": [
+        "/paneLayout/filter/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Search"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/ancientforge.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/ancientfurnace.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/upgradestation.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/ancientforge.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/ancientfurnace.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/upgradestation.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "x?\\d{0,4}"
+    }
+  }
+]

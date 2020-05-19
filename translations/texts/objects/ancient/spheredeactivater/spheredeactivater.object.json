@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/spheredeactivater/spheredeactivater.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A piece of technology that deactivates all nearby ancient spheres."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/spheredeactivater/spheredeactivater.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient sphere will not work when near this technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/spheredeactivater/spheredeactivater.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "My ancient sphere stops working when I'm near this thing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/spheredeactivater/spheredeactivater.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some technology that looks like my ancient sphere."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/spheredeactivater/spheredeactivater.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sphere Deactivater"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/spheredeactivater/spheredeactivater.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sphere thing sstops working when near weird thing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/spheredeactivater/spheredeactivater.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This must be why my ancient sphere suddenly stopped working."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/spheredeactivater/spheredeactivater.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This technology turns off my ancient sphere."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/spheredeactivater/spheredeactivater.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This will deactivate my ancient sphere."
+    }
+  }
+]

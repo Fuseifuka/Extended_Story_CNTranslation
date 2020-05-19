@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/halloween/ghost_es/ghost_es.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A horrific apparation that terrorizes living beings during the night."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/halloween/ghost_es/ghost_es.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Ghost"
+    }
+  }
+]

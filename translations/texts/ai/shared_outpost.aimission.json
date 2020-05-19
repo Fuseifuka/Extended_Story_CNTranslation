@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionoutpost.aimission": [
+        "/speciesText/default/selectSpeech/text"
+      ],
+      "ai/novakidoutpost.aimission": [
+        "/speciesText/default/selectSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "还在做。",
+      "Eng": "-todo-."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionoutpost.aimission": [
+        "/speciesText/default/buttonText",
+        "/speciesText/default/repeatButtonText"
+      ],
+      "ai/novakidoutpost.aimission": [
+        "/speciesText/default/buttonText",
+        "/speciesText/default/repeatButtonText"
+      ]
+    },
+    "Texts": {
+      "Chs": "星之子前哨站",
+      "Eng": "Novakid Outpost"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/relic/mining/miningrelic4.activeitem": [
+        "/description"
+      ],
+      "items/active/relic/mining/miningrelic5.activeitem": [
+        "/description"
+      ],
+      "items/active/relic/mining/miningrelicancient.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An extremely energetic mining laser with basically infinite energy."
+    }
+  }
+]

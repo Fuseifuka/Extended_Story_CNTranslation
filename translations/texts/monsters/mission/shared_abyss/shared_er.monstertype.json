@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/abyssgazer/abyssgazer.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/mission/abyssstalker/abyssstalker.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abyss Gazer"
+    }
+  }
+]

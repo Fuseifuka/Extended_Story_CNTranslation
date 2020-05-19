@@ -1,0 +1,103 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"超虚空传送器",
+      "Eng": "Supervoid Teleporter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#666666;???"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ffc181;???"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;???"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^gray;???"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;???"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;???"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;???"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/supervoidteleporter/supervoidteleporter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"没有读数...?",
+      "Eng": "null"
+    }
+  }
+]

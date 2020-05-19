@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/poisonartifactdungeon/poisonartifactaltar/poisonartifactaltar.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"毒刹神器祭坛",
+      "Eng": "Poison Artifact Altar"
+    }
+  }
+]

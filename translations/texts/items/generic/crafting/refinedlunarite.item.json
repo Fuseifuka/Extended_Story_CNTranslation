@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/refinedlunarite.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunarite refined into the form of a cresent moon. Can be used for crafting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/refinedlunarite.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Refined Lunarite"
+    }
+  }
+]

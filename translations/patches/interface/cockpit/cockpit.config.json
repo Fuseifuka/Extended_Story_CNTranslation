@@ -1,0 +1,585 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/halloween/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "A world filled with orange monsters and blocks, its name is a ^orange;Halloween^white; planet, long forgotten by humans."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/supervoid/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ^red;extremely dangerous^reset; ^#a8009e;Supervoid^reset; world. Explore the surface with caution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/bacteriaore/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bacteria Ore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/batongswarm/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Batong Swarm"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/cryoniumore/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cryonium Ore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/darkabyss"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Abyss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/darkmatterore/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Matter Ore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/decayingair/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Decaying Air"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/chargedground/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electric Ground"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/forgotten"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forgotten"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/ghosthour/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ghost Hour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/halloween"
+      ]
+    },
+    "Texts": {
+      "Eng": "Halloween"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/inferniumore/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Infernium Ore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/forgotten/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Judging by the visibly large holes on the planet, this world has been ^#665429;forgotten^reset;. An alien bacteria makes the air ^red;putrid^reset; and the world uninhabitable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/forgotten/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Known as a ^#665429;forgotten^reset; world, this planet is rotting away due to an alien bacteria. ^red;Putrid air^reset; fills the atmosphere."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/nuclearwasteland/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Known to humanoids as ^#02da06;nuclear wastelands^white;, these worlds are masses of nuclear waste big enough to become a planet. Large amounts of nuclear waste clearly mean ^red;severe levels of radiation^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/lightningrain_es/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lightning Rain"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/thunderstorm/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lightning Storm"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/lunariteore/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunarite Ore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/fireshower/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magma Meteors"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/rottenrainlight/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mild Rotten Rain"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/nuclearwasteland"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nuclear Wasteland"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/eternalfrost"
+      ]
+    },
+    "Texts": {
+      "Eng": "Permafrost"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/pumpkinrain/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pumpkin Rain"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/nuclearwasteland/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radiation levels are ^red;severely high^white; on this ^#02da06;nuclear wasteland^white; planet, so you shouldn't explore it without proper protection."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/radyiteore/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radyite Ore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/eternalfire"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raging Inferno"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/rottenrain/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rotten Rain"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/supervoid/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scans of the surface have failed. This is known as a ^#a8009e;Supervoid^reset; world, as shown by its purple and black surface. It is ^red;extremely dangerous^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/voltage/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scans show a surface filled with electrified stone and sand-like material. This world is a ^#a083df;voltage^reset;; its air is ^red;electrically charged^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/forgotten/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scans show massive holes and rotten substances. This is a ^#665429;forgotten^reset; planet. Its ^red;putrid air^reset; and horrific lifeforms deter explorers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/darkabyss/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scans show that the surface of this ^#666666;dark abyss^white; is shrouded in near total darkness. I would advise you to navigate the ^red;deathly cold^white; surface carefully."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/sinkhole/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sinkholes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/supervoid/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something is blocking our scanners. However, it is clear by its purple and black surface that this is a ^#a8009e;Supervoid^reset; world. It is ^red;extremely dangerous^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/supervoid"
+      ]
+    },
+    "Texts": {
+      "Eng": "Supervoid"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/voltage/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The electrical current inside of this ^#a083df;voltage^reset; world is very high. Its surface has electrified material and ^red;electrically charged^reset; air."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/halloween/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The place is orange due to the spirit of ^orange;Halloween^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/voltage/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The surface of this ^#a083df;voltage^reset; world consists of electrified material and sand-like material. The air in its atmosphere is ^red;electrically charged^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/eternalfire/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The surface of this planet is a ^#c96c28;raging inferno^white;, and the ^red;air is also burning^white;. I would recommend some kind of protection against it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/eternalfrost/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The surface of this planet is an ^#a6ceff;eternally frozen wasteland^white;, so you shouldn't go to this world without the ^magenta;ancient set^white; due to it being ^red;deathly cold^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/darkabyss/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ^#666666;dark abyss^white; world reflects almost no light whatsoever. Be prepared for essentially boring and ^red;deathly cold^white; landscape."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/eternalfrost/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ^#a6ceff;eternal frost^white; world has been frozen over, making it a ^red;deathly cold^white; place."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/eternalfrost/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ^#a6ceff;permafrost^white; world consists of mainly frozen blocks. Its temperature is ^red;deathly cold^white;, meaning exploration is impossible without the ^magenta;ancient set^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/eternalfire/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ^#c96c28;burning^white; planet makes home to rare magma monsters, due to the ^red;burning air^white;. I would advise being very careful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/eternalfire/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ^#c96c28;infernal^white; world has ^red;burning air^white; and is essentially hell. Not a good place to spend your vacation time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/darkabyss/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is the ^#666666;dark abyss^white;, a variation of midnight where the sun never rises. The term, day, is almost useless in this ^red;deathly cold^white; world."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/halloween/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This world has orange blocks, and contains many pumpkin monsters. Be prepared to face a ^orange;Halloween^white; planet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/nuclearwasteland/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This world is a ^#02da06;nuclear wasteland^white;, making it life as we know it impossible on this planet; it is obviously ^red;severely irradiated^white; due to it being made almost entirely of nuclear waste."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/tinore/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tin Ore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/abyssshard/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Umbrium Shard"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/voltage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Voltage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/voltagenore/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Voltagen Ore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/worldrot/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "World Rot"
+    }
+  }
+]

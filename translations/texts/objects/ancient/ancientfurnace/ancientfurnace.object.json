@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientfurnace/ancientfurnace.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Ancient Furnace"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientfurnace/ancientfurnace.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;More things to smelt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientfurnace/ancientfurnace.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A furnace crafted out of ancient materials. Useful for smelting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientfurnace/ancientfurnace.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very ancient furnace."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientfurnace/ancientfurnace.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An amazingly old yet functional furnace."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientfurnace/ancientfurnace.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient furnace used for smelting key components."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientfurnace/ancientfurnace.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient furnace, used for smelting various materials."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientfurnace/ancientfurnace.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient furnace. The material used to make this is very ancient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientfurnace/ancientfurnace.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Ancient Furnace^reset;"
+    }
+  }
+]

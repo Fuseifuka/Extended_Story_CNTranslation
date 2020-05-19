@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/permanenthealthdeduction_es/permanenthealthdeduction_es.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"生命紧缩-你的最大生命值已永久降低",
+      "Eng": "Health Crunch - Your maximum health has been reduced permanently"
+    }
+  }
+]

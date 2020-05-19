@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chargedbrick.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/chargedbrick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electrically Charged Brick"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chargedbrick.matitem": [
+        "/description"
+      ],
+      "tiles/materials/chargedbrick.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small bricks made from electrically charged stone."
+    }
+  }
+]

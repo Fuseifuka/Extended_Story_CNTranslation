@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/magnetargun/magnetargun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A type of cannon that shoots extremely dense balls of light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/magnetargun/magnetargun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magnetar Cannon"
+    }
+  }
+]

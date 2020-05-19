@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/upgraded/upgradedmagnorbs_es/upgradedmagnorbs_es.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An experimental form of magnorbs that truly cripples the target. ^cyan;Upgraded"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/upgraded/upgradedmagnorbs_es/upgradedmagnorbs_es.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77e3e7;Magnorbs^reset; ^cyan;^reset;"
+    }
+  }
+]

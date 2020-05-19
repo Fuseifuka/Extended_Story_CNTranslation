@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rottenjelly.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rotten Ooze"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rottenjelly.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The residue of an alien bacteria."
+    }
+  }
+]

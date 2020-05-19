@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/darkbatong/darkbatong.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Batong"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/darkbatong/darkbatong.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The dark variant of the Batong."
+    }
+  }
+]

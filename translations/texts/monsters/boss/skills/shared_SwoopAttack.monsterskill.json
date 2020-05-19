@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/ancientboss/skills/ancientbossSwoopAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/destroyer/skills/destroyerSwoopAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "MEGA SWOOP"
+    }
+  }
+]

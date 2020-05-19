@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/supervoid/spoopyvoiddemon/supervoiddemon.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Supervoid Horror"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/supervoid/spoopyvoiddemon/supervoiddemon.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The guard-dog of the Supervoid Energy. Class is ^red;aggressive^reset;."
+    }
+  }
+]

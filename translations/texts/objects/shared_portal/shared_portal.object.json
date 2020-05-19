@@ -1,0 +1,235 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssportal/abyssportal.object": [
+        "/humanDescription"
+      ],
+      "objects/abyss/abyssportal/abyssreturnportal.object": [
+        "/humanDescription"
+      ],
+      "objects/eternalfire/fireyportal/fireyportal.object": [
+        "/humanDescription"
+      ],
+      "objects/eternalfire/fireyportal/fireyreturnportal.object": [
+        "/humanDescription"
+      ],
+      "objects/eternalfrost/frozenportal/frozenportal.object": [
+        "/humanDescription"
+      ],
+      "objects/eternalfrost/frozenportal/frozenreturnportal.object": [
+        "/humanDescription"
+      ],
+      "objects/nuclearwasteland/irradiatedportal/irradiatedportal.object": [
+        "/humanDescription"
+      ],
+      "objects/nuclearwasteland/irradiatedportal/irradiatedreturnportal.object": [
+        "/humanDescription"
+      ],
+      "objects/voltage/electricportal/electricportal.object": [
+        "/humanDescription"
+      ],
+      "objects/voltage/electricportal/electricreturnportal.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A portal that has unknown origins."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssportal/abyssportal.object": [
+        "/hylotlDescription"
+      ],
+      "objects/abyss/abyssportal/abyssreturnportal.object": [
+        "/hylotlDescription"
+      ],
+      "objects/eternalfire/fireyportal/fireyportal.object": [
+        "/hylotlDescription"
+      ],
+      "objects/eternalfire/fireyportal/fireyreturnportal.object": [
+        "/hylotlDescription"
+      ],
+      "objects/eternalfrost/frozenportal/frozenportal.object": [
+        "/hylotlDescription"
+      ],
+      "objects/eternalfrost/frozenportal/frozenreturnportal.object": [
+        "/hylotlDescription"
+      ],
+      "objects/nuclearwasteland/irradiatedportal/irradiatedportal.object": [
+        "/hylotlDescription"
+      ],
+      "objects/nuclearwasteland/irradiatedportal/irradiatedreturnportal.object": [
+        "/hylotlDescription"
+      ],
+      "objects/voltage/electricportal/electricportal.object": [
+        "/hylotlDescription"
+      ],
+      "objects/voltage/electricportal/electricreturnportal.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A portal that seems to be very ancient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssportal/abyssportal.object": [
+        "/description"
+      ],
+      "objects/abyss/abyssportal/abyssreturnportal.object": [
+        "/description"
+      ],
+      "objects/eternalfire/fireyportal/fireyportal.object": [
+        "/description"
+      ],
+      "objects/eternalfire/fireyportal/fireyreturnportal.object": [
+        "/description"
+      ],
+      "objects/eternalfrost/frozenportal/frozenportal.object": [
+        "/description"
+      ],
+      "objects/eternalfrost/frozenportal/frozenreturnportal.object": [
+        "/description"
+      ],
+      "objects/nuclearwasteland/irradiatedportal/irradiatedportal.object": [
+        "/description"
+      ],
+      "objects/nuclearwasteland/irradiatedportal/irradiatedreturnportal.object": [
+        "/description"
+      ],
+      "objects/voltage/electricportal/electricportal.object": [
+        "/description"
+      ],
+      "objects/voltage/electricportal/electricreturnportal.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"一个神秘的入口。",
+      "Eng": "A portal with mysterious properties."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssportal/abyssportal.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/abyss/abyssportal/abyssreturnportal.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/voltage/electricportal/electricreturnportal.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An abyss portal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssportal/abyssreturnportal.object": [
+        "/avianDescription"
+      ],
+      "objects/eternalfire/fireyportal/fireyportal.object": [
+        "/avianDescription"
+      ],
+      "objects/eternalfrost/frozenportal/frozenportal.object": [
+        "/avianDescription"
+      ],
+      "objects/nuclearwasteland/irradiatedportal/irradiatedportal.object": [
+        "/avianDescription"
+      ],
+      "objects/voltage/electricportal/electricreturnportal.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unstable portal to another dimension"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssportal/abyssportal.object": [
+        "/avianDescription"
+      ],
+      "objects/eternalfire/fireyportal/fireyreturnportal.object": [
+        "/avianDescription"
+      ],
+      "objects/eternalfrost/frozenportal/frozenreturnportal.object": [
+        "/avianDescription"
+      ],
+      "objects/nuclearwasteland/irradiatedportal/irradiatedreturnportal.object": [
+        "/avianDescription"
+      ],
+      "objects/voltage/electricportal/electricportal.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unstable portal to another dimension."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssportal/abyssreturnportal.object": [
+        "/floranDescription"
+      ],
+      "objects/voltage/electricportal/electricportal.object": [
+        "/floranDescription"
+      ],
+      "objects/voltage/electricportal/electricreturnportal.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstrange blue portal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssportal/abyssportal.object": [
+        "/novakidDescription"
+      ],
+      "objects/abyss/abyssportal/abyssreturnportal.object": [
+        "/novakidDescription"
+      ],
+      "objects/eternalfire/fireyportal/fireyportal.object": [
+        "/novakidDescription"
+      ],
+      "objects/eternalfire/fireyportal/fireyreturnportal.object": [
+        "/novakidDescription"
+      ],
+      "objects/eternalfrost/frozenportal/frozenportal.object": [
+        "/novakidDescription"
+      ],
+      "objects/eternalfrost/frozenportal/frozenreturnportal.object": [
+        "/novakidDescription"
+      ],
+      "objects/nuclearwasteland/irradiatedportal/irradiatedportal.object": [
+        "/novakidDescription"
+      ],
+      "objects/nuclearwasteland/irradiatedportal/irradiatedreturnportal.object": [
+        "/novakidDescription"
+      ],
+      "objects/voltage/electricportal/electricportal.object": [
+        "/novakidDescription"
+      ],
+      "objects/voltage/electricportal/electricreturnportal.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well this is somethin' mysterious."
+    }
+  }
+]

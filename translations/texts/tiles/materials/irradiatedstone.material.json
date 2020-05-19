@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/irradiatedstone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Green rockssss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/irradiatedstone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This piece of stone ain't no ordinary stone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/irradiatedstone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This piece of stone is horrifically irradiated."
+    }
+  }
+]

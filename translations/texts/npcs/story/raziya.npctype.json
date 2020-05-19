@@ -1,0 +1,299 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/novabotfacility/base/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "A destructive beast by the name of the Supervoid Eye is starting to attack our universe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/novabotfacility/base/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "During one session, however, I made a terrifying discovery. General peace in the universe has not started yet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/ancientruinsworldobserve/commanded/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Go on and fight whatever is inside. I'll meet you at the exit once the battle is over."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/novabotfacility/fleshy/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hit it! Hit it while it's fleshy!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I currently have no assigned thing to say right now..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/ancientruinsworldstart/introduction/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think it's time that we find out about this building. I've heard that there is some valuable loot in here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/ancientruinsworldstart/introduction/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll surely aid you in your mission, as I fortunately have a firearm that has only been slightly scratched by the igneotop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/ancientruinsworldobserve/leave/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll tell you when you arrive at the facility. Your SAIL should have the coordinates to it. Later!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/ancientruinsworldstart/introduction/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm...alive! I'M ALIVE! Whoever you are, thanks for stopping me from being digested by that mother igneotop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/ancientruinsworldstart/introduction/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've told you my name, so you should, in return, introduce yourself as well."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/ancientruinsworldobserve/commanded/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've...got some unfortunate news. My crew is repeatedly insisting that I observe the next battle rather than personally engage in battle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/endscene/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "In fact... Congratulations! I've just decided your trophy comess with one free Nuru!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/novabotfacility/base/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "In my spare time, I often do research regarding the ancients."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/novabotfacility/base/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is best that you destroy this creature immediately, but it's best that you prepare for this battle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/ancientruinsworldstart/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's go."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/novabotfacility/base/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Located"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/endscene/follow/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that was ssatisfying! Come on."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/ancientruinsworldstart/introduction/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now, you may be wondering about what my name is. Well, I'm ^orange;Raziya^white; - a scientist from the ^yellow;Novabot Facility^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raziya"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/ancientruinsworldstart/introduction/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "So your name is ^orange;<entityname>^white;. No comment about your name what-so-ever."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/endscene/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was the most fun I've had in ages. It felt good to have ssomeone around who can hold their own."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/startboss/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is going to be fun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/novabotfacility/base/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is our current settlement. We had to settle here due to what happened in the other place."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/startboss/intro/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This iss much bigger than last year's prey. Finally! A proper challenge!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/novabotfacility/finish/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "We've nearly defeated it. Finish it off!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/ancientruinsworldobserve/leave/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You did an amazing job there, <entityname>. I'm not quite going to hire you for anything, but there is still something I would like you to do."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/raziya.npctype": [
+        "/scriptConfig/dialog/endscene/smalltalk/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You know, that really was pretty impresssive."
+    }
+  }
+]

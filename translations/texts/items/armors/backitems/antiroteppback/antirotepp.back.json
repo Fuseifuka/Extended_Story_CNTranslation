@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/antiroteppback/antirotepp.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anti-Rot EPP"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/antiroteppback/antirotepp.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Permanent immunity to the putrid air of the forgotten biome."
+    }
+  }
+]

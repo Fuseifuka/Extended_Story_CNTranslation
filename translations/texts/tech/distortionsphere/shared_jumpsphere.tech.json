@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/distortionsphere/jumpsphere.tech": [
+        "/description"
+      ],
+      "tech/distortionsphere/lesserjumpsphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "按^green;[F]^reset;变成一个移动得更快的球体",
+      "Eng": "Turn into a sphere that has higher mobility! ^green;[F]"
+    }
+  }
+]

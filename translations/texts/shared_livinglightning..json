@@ -1,0 +1,20 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/livinglightning.biome": [
+        "/friendlyName"
+      ],
+      "items/materials/livinglightning.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/livinglightning.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"生命雷霆",
+      "Eng": "Living Lightning"
+    }
+  }
+]

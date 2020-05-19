@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/sprint2_es.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "高速冲刺",
+      "Eng": "Overdrive Sprint"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/sprint2_es.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "以更快的速度冲刺，代价是更多的能量。",
+      "Eng": "Sprinting at a much faster rate at the cost of more energy."
+    }
+  }
+]

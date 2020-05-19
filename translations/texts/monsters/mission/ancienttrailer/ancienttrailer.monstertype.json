@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/ancienttrailer/ancienttrailer.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A trailer that shoots...orbs? How odd. Or not."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/ancienttrailer/ancienttrailer.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Trailer"
+    }
+  }
+]

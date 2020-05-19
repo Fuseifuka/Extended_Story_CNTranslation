@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/annihilator/annihilator-plasmapistol/annihilator-plasmapistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful pistol used to destroy a target."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/annihilator/annihilator-plasmapistol/annihilator-plasmapistol.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ea6a56;Doom Pistol^reset;"
+    }
+  }
+]

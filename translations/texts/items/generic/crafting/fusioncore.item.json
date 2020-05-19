@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fusioncore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fusion Core"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fusioncore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This core undergoes constant fusion.\n^red;Deathly hot to the touch.^reset;"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/elementite.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alloy made of the five elemental ores. Can be used for crafting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/elementite.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elementite"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/infectedgarden.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Halloween"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/rottengoop.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shapeless blob of rotting goop. ^green;Used for crafting rotten weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/rottengoop.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rotten Goop"
+    }
+  }
+]

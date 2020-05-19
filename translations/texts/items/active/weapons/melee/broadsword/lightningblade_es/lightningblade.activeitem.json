@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/lightningblade_es/lightningblade.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hilt with a high-voltage plasma blade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/lightningblade_es/lightningblade.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Lightning Blade^reset;"
+    }
+  }
+]

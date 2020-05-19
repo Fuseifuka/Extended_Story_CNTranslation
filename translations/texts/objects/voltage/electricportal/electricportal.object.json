@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/voltage/electricportal/electricportal.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A portal made of compressed sandstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/voltage/electricportal/electricportal.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An electric portal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/voltage/electricportal/electricportal.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"雷霆界传送入口",
+      "Eng": "Electric Portal"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/voltage/electricpod/electricpod.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pteropod that has harnessed the power of electricity and developed a hardened shell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/voltage/electricpod/electricpod.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electricpod"
+    }
+  }
+]

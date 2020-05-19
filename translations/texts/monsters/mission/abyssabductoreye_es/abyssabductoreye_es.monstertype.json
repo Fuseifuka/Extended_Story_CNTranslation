@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/abyssabductoreye_es/abyssabductoreye_es.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abductor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/abyssabductoreye_es/abyssabductoreye_es.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Help me. I've been trapped...for years. Endless agony travels throughout my body. I'm nothing to anyone else. Free me from this curse. I have no voice to cry suffering."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/holestone.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sample of a rotting substance. Some think it's part of a partially digested meatball."
+    }
+  }
+]

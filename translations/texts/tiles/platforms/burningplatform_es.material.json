@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/burningplatform_es.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"永远在燃烧着的平台。",
+      "Eng": "Eternally Burning Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/burningplatform_es.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"发光的平平平平台！",
+      "Eng": "Glowing platformsss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/burningplatform_es.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Chs":"我得站在这平台上温度最低的地方。",
+      "Eng": "I have to stand on the coldest spots on this burning platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/burningplatform_es.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"用永恒燃烧的石头雕刻的平台。",
+      "Eng": "Platforms that are carved from eternally burning stone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/burningplatform_es.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"这平台真的很烫脚。",
+      "Eng": "Some really hot platforms."
+    }
+  }
+]

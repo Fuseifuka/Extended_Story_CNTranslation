@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/voltage/teslapin/teslapin.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An electrically charged pulpin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/voltage/teslapin/teslapin.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teslapin"
+    }
+  }
+]

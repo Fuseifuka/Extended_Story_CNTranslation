@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/ancientboss/skills/ancientbossPulseCannonAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/destroyer/skills/destroyerMegaLaserAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "PULSE CANNON"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/ancientboss/skills/ancientbossTeleportAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/destroyer/skills/destroyerScatterAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "TELEPORT"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/forgotten/forgotten-backgroundmimic_es/forgotten-backgroundmimic_es.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mimic that camouflages as a useless object, such as a rotten rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/forgotten/forgotten-backgroundmimic_es/forgotten-backgroundmimic_es.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forgotten Mimic"
+    }
+  }
+]

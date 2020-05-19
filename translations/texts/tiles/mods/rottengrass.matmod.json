@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/rottengrass.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"一堆烂瓜",
+      "Eng": "A bunch of rotten goop."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ancient/ancientrocketlauncher/ancientrocketlauncher.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fires globes that can be signalled to launch at high speeds."
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/endgameguardian/frostguardianboss/frostguardianboss_es.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/boss/endgameguardian/iceartifactbossnew_es/iceartifactbossnew_es.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cryonia"
+    }
+  }
+]

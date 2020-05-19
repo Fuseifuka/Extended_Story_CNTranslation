@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/radioactivematerial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Waste from extreme radiation pollution."
+    }
+  }
+]

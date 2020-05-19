@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/halloweendirt.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirty lookin' dirt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/halloweendirt.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Filthy dirt!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/halloweendirt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spoopy dirt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/halloweendirt.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is basic and orange soil."
+    }
+  }
+]

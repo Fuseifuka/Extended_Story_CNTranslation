@@ -1,0 +1,4 @@
+*.markup
+/mods
+translations/translatedlabels.json
+translations/totallabels.json

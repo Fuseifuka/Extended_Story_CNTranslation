@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/ancientboss/skills/ancientbossDoubleBeamAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/ancientboss/skills/ancientbossSingleBeamAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "BEAMS OF HURT"
+    }
+  }
+]

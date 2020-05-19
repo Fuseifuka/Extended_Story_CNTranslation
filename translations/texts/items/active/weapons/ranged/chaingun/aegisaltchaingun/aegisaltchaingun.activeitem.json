@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/chaingun/aegisaltchaingun/aegisaltchaingun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aegisalt Chain Gun"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/chaingun/aegisaltchaingun/aegisaltchaingun.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mine Layer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/chaingun/aegisaltchaingun/aegisaltchaingun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasma chain guns are boss!"
+    }
+  }
+]

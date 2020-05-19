@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ancient/ancientrocketlauncherbak/ancientrocketlauncherbak.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not your typical rocket launcher."
+    }
+  }
+]

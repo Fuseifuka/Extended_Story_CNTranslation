@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/forgotten/forgotten-eyecreature_es/forgotten-evileyeparts/forgotten-evileyepart1.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/biomes/forgotten/forgotten-eyecreature_es/forgotten-evileyeparts/forgotten-evileyepart2.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/biomes/forgotten/forgotten-eyecreature_es/forgotten-evileyeparts/forgotten-eyecreature2_es.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/biomes/supervoid/supervoidtrailer/supervoidtrailer.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/biomes/supervoid/supervoidvortex/supervoidvortex.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/biomes/supervoid/supervoidworm/supervoidworm.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "???"
+    }
+  }
+]

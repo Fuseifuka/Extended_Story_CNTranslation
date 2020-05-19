@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/multijump2_es.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "可以在空中额外跳跃两次",
+      "Eng": "3 full additional jumps."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/multijump2_es.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"空中连跳Mk II",
+      "Eng": "Multi Jump Mk II"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/fireartifactdungeon/fireartifactaltar/fireartifactaltar.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"火焱神器祭坛",
+      "Eng": "Fire Artifact Altar"
+    }
+  }
+]

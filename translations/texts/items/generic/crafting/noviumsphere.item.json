@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/noviumsphere.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sphere of novium that mirrors the night sky."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/noviumsphere.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Novium Sphere"
+    }
+  }
+]

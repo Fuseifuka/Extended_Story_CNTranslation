@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/biomeelectric/biomeelectric.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"增压空气-空气中充满会产生高电流的导电气体",
+      "Eng": "Charged Air - The air is filled with conductive gasses that cause high electrical current"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/tinbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ore for tin bars is found in the underground on most planets around all stars."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/tinbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tin Bar"
+    }
+  }
+]

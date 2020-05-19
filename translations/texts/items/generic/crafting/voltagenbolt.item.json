@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/voltagenbolt.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dangerously electrically charged metal shaped into a bolt. ^green;Can be used to craft Electrified weapons^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/voltagenbolt.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Voltagen Bolt"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/ruinseedmission.aimission": [
+        "/speciesText/default/selectSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "一个被祸感染的世界。必须摧毁它的源头。",
+      "Eng": "A world in the process of being infected by the Ruin. The source must be destroyed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/ruinseedmission.aimission": [
+        "/speciesText/default/buttonText"
+      ]
+    },
+    "Texts": {
+      "Chs": "被感染之地",
+      "Eng": "Infected World"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/ruinseedmission.aimission": [
+        "/speciesText/default/repeatButtonText"
+      ]
+    },
+    "Texts": {
+      "Chs": "重新挑战 被感染之地",
+      "Eng": "Infected World - Revisit"
+    }
+  }
+]

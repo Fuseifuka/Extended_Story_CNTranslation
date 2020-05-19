@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/multijump4_es.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"可以在空中额外跳跃九次。您怎么这么牛逼？",
+      "Eng": "10 full jumps. What an impressive talent!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/multijump4_es.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"空中连跳MK IV",
+      "Eng": "Multi Jump Mk IV"
+    }
+  }
+]

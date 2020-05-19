@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/destroysupervoideye.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"所有神器都已经收集完毕。^green;超虚空之眼^reset;是这宇宙中最为恐怖的存在，因为祂苏醒时将会吸收这宇宙中的任何能量。你最好小心行事，争取在祂完全苏醒之前消灭祂。你可以通过遍布在超虚空星球上的^orange;超虚空节点^reset;到达祂的所在之处。",
+      "Eng": "All of the artifacts have been collected. The ^green;Supervoid Eye^reset; is a terrorizer of all universes, as it will absorb the energy of any universe in its wake. It is best that you proceed with caution and kill it on sight. You can get to it by locating a ^orange;Supervoid Node^reset;, which should be easy because of Supervoid Worlds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/destroysupervoideye.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Chs":"想办法回到^orange;方舟前哨站^reset;",
+      "Eng": "Find a way back to the ^orange;outpost^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/destroysupervoideye.questtemplate": [
+        "/scriptConfig/descriptions/destroyRuin"
+      ]
+    },
+    "Texts": {
+      "Chs":"进入^orange;超虚空节点^reset;并^green;毁灭^orange；超虚空之眼^reset;",
+      "Eng": "Go through a ^orange;Supervoid Node^reset; and ^green;destroy ^orange;the Supervoid Eye^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/destroysupervoideye.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs":"^magenta;超虚空^black;之眼^white;",
+      "Eng": "The ^magenta;Supervoid^black; Eye^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/destroysupervoideye.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Chs":"宇宙再次被拯救了。对多元宇宙的最大威胁已被毁灭。",
+      "Eng": "The universe has been saved again. The biggest threat to the multiverse has been destroyed!"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/armormodule_es.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slate of durasteel with a piece of armor etched into it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/armormodule_es.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Armor Module"
+    }
+  }
+]

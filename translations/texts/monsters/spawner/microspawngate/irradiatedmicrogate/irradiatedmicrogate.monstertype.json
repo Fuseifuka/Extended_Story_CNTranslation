@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/spawner/microspawngate/irradiatedmicrogate/irradiatedmicrogate.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irradiated Microgate Energy"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/minions/supervoidorbshield1/supervoidorbshield1.monstertype": [
+        "/description"
+      ],
+      "monsters/minions/supervoidorbshield2/supervoidorbshield2.monstertype": [
+        "/description"
+      ],
+      "monsters/minions/supervoidorbshield3/supervoidorbshield3.monstertype": [
+        "/description"
+      ],
+      "monsters/minions/supervoidorbshield4/supervoidorbshield4.monstertype": [
+        "/description"
+      ],
+      "monsters/minions/supervoidorbshield5/supervoidorbshield5.monstertype": [
+        "/description"
+      ],
+      "monsters/minions/supervoidorbshield6/supervoidorbshield6.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "!!!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/minions/supervoidorbshield1/supervoidorbshield1.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/minions/supervoidorbshield2/supervoidorbshield2.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/minions/supervoidorbshield3/supervoidorbshield3.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/minions/supervoidorbshield4/supervoidorbshield4.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/minions/supervoidorbshield5/supervoidorbshield5.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/minions/supervoidorbshield6/supervoidorbshield6.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Supervoid Orb"
+    }
+  }
+]

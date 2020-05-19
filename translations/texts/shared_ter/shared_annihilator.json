@@ -1,0 +1,18 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/annihilatormission.config": [
+        "/destinations/0/name",
+        "/destinations/0/planetName"
+      ],
+      "monsters/boss/annihilator/annihilator.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"歼灭者",
+      "Eng": "The Annihilator"
+    }
+  }
+]

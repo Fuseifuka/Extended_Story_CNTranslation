@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/collectelectricartifact.questtemplate": [
+        "/scriptConfig/descriptions/artifact"
+      ]
+    },
+    "Texts": {
+      "Chs":"在^green;雷霆界^reset;中寻找^orange;神器^reset;",
+      "Eng": "Find the ^orange;artifact^reset; in ^green;the Voltage Dimension^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/collectelectricartifact.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Chs":"到^green;方舟前哨站^reset;的^orange;神秘商人^reset;那里",
+      "Eng": "Go to ^orange;the Trader^reset; at ^green;the Outpost^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/collectelectricartifact.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"^orange;雷霆神器^reset;位于^green;雷霆界^reset;中，你需要做好充分的准备。通往那个空间的入口位于^#a083df;雷霆^reset;星球。",
+      "Eng": "The ^orange;electric artifact^reset; is located in the ^green;Voltage Dimension^reset;. You need to be more prepared than before for this one. Portals for this dimension are located in ^#a083df;voltage^reset; worlds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/collectelectricartifact.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs":"^#896bb3;雷霆神器^reset;",
+      "Eng": "^#896bb3;The Electric Artifact^reset;"
+    }
+  }
+]

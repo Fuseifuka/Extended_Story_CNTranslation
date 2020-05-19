@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/abysseye/abysseye.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abyss Eye"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/abysseye/abysseye.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An eye created by a powerful creature."
+    }
+  }
+]

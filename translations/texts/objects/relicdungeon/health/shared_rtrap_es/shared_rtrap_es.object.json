@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductortrap_es/healthdeductortrap_es.object": [
+        "/description"
+      ],
+      "objects/relicdungeon/health/healthgivertrap_es/healthgivertrap_es.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mechanism that fires projectiles to change the amount of health a Health Orb has."
+    }
+  }
+]

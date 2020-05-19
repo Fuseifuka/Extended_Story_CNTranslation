@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/bronzebar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alloy of copper and tin, it is useful for crafting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/bronzebar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bronze Bar"
+    }
+  }
+]

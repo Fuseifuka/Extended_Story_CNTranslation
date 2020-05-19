@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/infernium/infernium.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very protective helmet made of infernal rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/infernium/infernium.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Infernium Helmet"
+    }
+  }
+]

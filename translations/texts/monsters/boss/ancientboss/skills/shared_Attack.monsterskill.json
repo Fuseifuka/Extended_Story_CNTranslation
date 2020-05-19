@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/ancientboss/skills/ancientbossLaserAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/boss/ancientboss/skills/ancientbossSineBeamAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "BEAMS OF PERIL"
+    }
+  }
+]

@@ -1,0 +1,375 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/ancientsphere07/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"所有关于^magenta;古代球^reset;的使用方法已经讲解完毕。 请通过最后的^orange;传送门^reset;退出本关。",
+      "Eng": "All basics for the Ancient Sphere have been covered. Please exit through the ^orange;conveniently-placed teleporter^reset; at the end."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/ancientsphere02/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"首先，按^green;[F]^reset;激活你的^magenta;古代球^reset;。 默认的移动键为^orange;[W A S D]^reset;。 到达你上方的隧道以继续。",
+      "Eng": "First, press ^green;[F]^reset; to activate your Ancient Sphere. Default movement keys are ^orange;[W A S D]^reset;. Reach the tunnel above you to proceed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/ancientsphere03/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"按住^yellow;[Shift]^reset;以进入\"绝对模式\" - 任何动作在按住^yellow;[Shift]^reset;键时都将全速移动或者不动。",
+      "Eng": "Hold ^yellow;[Shift]^reset; to enter \"Absolute Mode\" - Any and all movements while holding shift will either be moving at full speed or no movement at all."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/isolatedvault06/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"如果你要往下挖，我建议你继续但是务必小心。\n^red;注意：你的下方有一个深不可测的断层。",
+      "Eng": "If you're going to dig to this area, I advise that you proceed to do so with caution.\n^red;Please note that there is an extremely deep chasm below you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/spheredeactivater/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"请注意，你刚刚进入一个古代球完全停止工作的区域，现在不要尝试使用古代球。",
+      "Eng": "It should be noted that you just entered an area where your Ancient Sphere has completely stopped working. Do not attempt to use the Ancient Sphere at this moment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/ancientsphere01/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"在你身上强行装备古代球本应该毫无价值。但是不要慌，跟着说明走。",
+      "Eng": "It should be worth nothing that an Ancient Sphere has been forcibly equipped on your person. Please don't panic and follow the instructions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/chaoticvoid/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"值得注意的是，这个世界一片混沌，你正在迅速成为这混沌虚空的一部分。如果没有^orange;暗物质EPP^reset;请勿尝试进一步探索。",
+      "Eng": "It's worth noting that this world is very chaotic and you are quickly becoming part of this chaotic void. Do not attempt further exploration without a ^orange;Dark Matter EPP^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/putridair/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"请注意，这颗特殊星球上的空气使你腐烂。 我建议你在保护自己免受这种影响的情况下进行探索。^green;你可能需要治愈之水一类的东西。^reset;",
+      "Eng": "Please note that the air on this particular planet is causing you to rot. I recommend that you explore this planet with protection against this effect. ^green;Possibly something that requires healing water.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/ancientsphere06/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"按住^green;[第二开火键]^reset;激活球体的射击功能，这是战斗和探索中的实用武器。",
+      "Eng": "Press and hold ^green;[Alt Fire]^reset; to activate a globe-firing mechanism, a useful weapon in combat and exploration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/ancientsphere04/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"按住^green;[开火键]^reset;激活能够破坏所有附近方块的挖掘力场。",
+      "Eng": "Press and hold ^green;[Fire]^reset; to activate a mining field, which will destroy all nearby blocks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/isolatedvault02/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"读数显示地下有异常现象。 我建议你谨慎探索。",
+      "Eng": "Readings show an anomaly in the underground; I would advise you explore the area with caution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/robotfacility05/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"读数显示，一架巨大的类似无人机的飞行物潜伏在你下方的房间中。 最好带上自己最强的武器前去战斗。",
+      "Eng": "Readings show that a massive, ship-like aircraft lurks in the chamber below you. It is best that you prepare yourself to fight it with your strongest weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/isolatedvault01/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"扫描显示，这颗星球上的生命曾经蓬勃发展。 由于未知的原因，它现在是一片贫瘠的焦土荒地。",
+      "Eng": "Scans show that life on this planet thrived. For unknown reasons, it is now a barren, scorched wasteland."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/robotfacility03/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"某种奇怪的金属物质正在阻碍你前进。最好用上任何可能的工具突破。",
+      "Eng": "Some kind of strange, metallic substance is blocking your way. It is best that you break through using any tool."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/robotfacility02/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"这里几乎没有生命读数，因为似乎每个人在被锁定后都逃脱了，或者可能死了。",
+      "Eng": "There are almost no life readings, as it seems that everyone escaped after lockdown, or probably died."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/robotfacility04/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"这些房间非常危险，到处都是陷阱。 如果你对尝试探索其中的任何一间都没有信心，则一旦感到有信心，就可以随时离开并返回。",
+      "Eng": "These rooms are quite dangerous and are riddled with traps. If you don't feel confident trying any of these, feel free to leave and return once you feel confident."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/limbodoor/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"这扇门会将您带到异常危险的维度。 我建议不要在没有适当装备的情况下探索。",
+      "Eng": "This door will take you to a dimension that is abnormally dangerous. I would recommend not exploring the dimension without proper gear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/robotfacility01/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"这颗行星是黑夜行星的稀有种类，就像^#666666;黑暗深渊^reset;那样。",
+      "Eng": "This planet is a rare form of the midnight planet, known as the ^#666666;dark abyss^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/isolatedvault03/senderName",
+        "/isolatedvault05/senderName"
+      ]
+    },
+    "Texts": {
+      "Chs":"未知",
+      "Eng": "Unknown"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/supervoidsickness/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"^red;警告！^reset; 一个致命的实体出现在您附近！\n它将追捕你，直到你死亡或回到飞船。",
+      "Eng": "WARNING! An extremely lethal entity has appeared within your vicinity! \nIt will hunt you down until you die or beam up."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/biomeplutonium/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"^red;警告！^reset;该行星上的辐射水平极高！\n在没有^orange;古代EPP^reset;的情况下探索这颗星球将很快导致死亡！",
+      "Eng": "WARNING! RADIATION LEVELS ON THIS PLANET ARE EXTREMELY LETHAL!\nFurther exploration without an ^orange;Ancient EPP^reset; will result in a quick death!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/biomefreezing/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"^red;警告！^reset;该行星上的温度接近于绝对零度！\n在没有^orange;古代EPP^reset;的情况下探索这颗星球将很快导致死亡！",
+      "Eng": "WARNING! TEMPERATURES ON THIS PLANET ARE NEAR ABSOLUTE ZERO!\nFurther exploration without an ^orange;Ancient EPP^reset; will result in a quick death!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/biomeelectric/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"^red;警告！^reset; 此行星上的空气有极高的电流！\n在没有^orange;古代EPP^reset;的情况下探索这颗星球将很快导致死亡！",
+      "Eng": "WARNING! THE AIR ON THIS PLANET HAS EXTREMELY HIGH ELECTRICAL CURRENT!\nFurther exploration without an ^orange;Ancient EPP^reset; will result in a quick death!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/biomeblaze/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"^red;警告！^reset; 这个星球上的空气正在燃烧！\n在没有^orange;古代EPP^reset;的情况下探索这颗星球将很快导致死亡！",
+      "Eng": "WARNING! THE AIR ON THIS PLANET IS BURNING!\nFurther exploration without an ^orange;Ancient EPP^reset; will result in a quick death!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/isolatedvault04/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"等等！我正在从核心附近获取传输点。",
+      "Eng": "Wait! I'm picking up a transmission from near the core."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/robotfacility06/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"你发现了只有作弊者能进入的区域。牛逼！",
+      "Eng": "You have found an area that can only be accessed by a cheater. Well done!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/ancientsphere05/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"你失去了一部分能量。按住^green;[空格键]^reset;补充你失去的能量。",
+      "Eng": "You have lost some energy. Hold ^green;[Space]^reset; to replenish this energy that you have lost."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/isolatedvault03/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"^green;检测到信号接收器。\n\n^red;错误：目标黑名单无法读取！使用默认目标黑名单。",
+      "Eng": "^green;Signal receiver detected.\n\n^red;ERROR: TARGET BLACKLIST UNREADABLE! Using default target blacklist."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/destroyerspawn/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"^red;警告！\n附近有一个未知且极具破坏性的存在。\n准备好进行艰难的战斗。",
+      "Eng": "^red;!WARNING!\nThere is an unknown and extremely destructive presence nearby. \nBe prepared for a hard fight and a lot of tile destruction."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/isolatedvault07/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"^red;警告：检测到入侵者！ 立即消灭入侵者！",
+      "Eng": "^red;WARNING: INTRUDER DETECTED! EXTERMINATE INTRUDER IMMEDIATELY!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/extendedstory.radiomessages": [
+        "/isolatedvault05/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"^red;警告：温度无法维持\n正在发送SOS信号。\n^orange;01001100 01101111 01100001 01100100 01101001 01101110 01100111 00101110 00101110 00101110",
+      "Eng": "^red;Warning: Temperatures are unsustainable. \nSending SOS signal.\n^orange;01001100 01101111 01100001 01100100 01101001 01101110 01100111 00101110 00101110 00101110"
+    }
+  }
+]

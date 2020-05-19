@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/annihilator/annihilator-plasmahammer/annihilator-plasmahammer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "No Joseph K. This is not another reference to Calamity Mod. I KNOW YOU'RE THINKING IT!!!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/annihilator/annihilator-plasmahammer/annihilator-plasmahammer.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Obliteration"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/annihilator/annihilator-plasmahammer/annihilator-plasmahammer.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ea6a56;Calamity Hammer^reset;"
+    }
+  }
+]

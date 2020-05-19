@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/supervoidsickness/supervoidsickness.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"某种邪恶存在正注视着你。",
+      "Eng": "??? - An evil presence is watching you."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/chargedbrick.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bricks made outta electric stone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/chargedbrick.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bricks are made from electrically charged stone."
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidearmor.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A book covering the armor of the mod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidearmor.codex": [
+        "/contentPages/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Set(IDs - ancienthead, ancientchestplate, and ancientpants)\nTotal Defense - +140\nTotal DMG Multiplier - +400%\nTotal Energy - +250\nTotal Health - +200\nSpecial - Completely blocks elemental damage\n(In total)At Replicator; Recipe -\n65 Durasteel Bars\n110 Ancient Blocks\n5 Leather\n45 Solarium Stars\n1 Silk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidearmor.codex": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extended Story - Armor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidearmor.codex": [
+        "/contentPages/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ocean Guardian's Set - continued\n1 Silk\n45 Solarium Stars"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidearmor.codex": [
+        "/contentPages/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ocean Guardian's Set(IDs - oceanguardianhead, oceanguardianchest, and oceanguardianpants)\nTotal Defense - +62\nTotal DMG Multiplier - +300%\nTotal Energy - +60\nTotal Health - +60\nSpecial - Immune to suffocation, higher swimming mobility; Submitted by ^green;hylotl chef^reset;\n(In total)At Replicator; Recipe -\n55 Durasteel Bars\n400 Water\n5 Leather"
+    }
+  }
+]

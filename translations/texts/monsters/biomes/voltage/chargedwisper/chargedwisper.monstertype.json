@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/voltage/chargedwisper/chargedwisper.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Charged Wisper"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/voltage/chargedwisper/chargedwisper.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wispers that have been electrically charged."
+    }
+  }
+]

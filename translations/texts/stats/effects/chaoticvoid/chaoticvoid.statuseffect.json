@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/chaoticvoid/chaoticvoid.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"混沌虚空-你被黑暗吞噬",
+      "Eng": "Chaotic Void - You are being consumed by darkness"
+    }
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/casette.cinematic": [
+        "/panels/9/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "（从远处）好，全体注意！从这建筑出去！这鬼地方再过一会就要塌了——*安静*",
+      "Eng": "(from a distance) Okay, everyone! Out of the building! This darn place will fall apart in a few moments--*static*"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/casette.cinematic": [
+        "/panels/11/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "（某人）我们和站点B失联了！",
+      "Eng": "(someone else) We've lost contact with station B!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/casette.cinematic": [
+        "/panels/6/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "...别担心，我们很快就会派出救援飞船到那个星球上。",
+      "Eng": "...Don't worry, we're sending a rescue ship to the planet in a few moments."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/casette.cinematic": [
+        "/panels/1/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "你……你好？这里是站点B。我们正被^orange;恐怖机器人^reset;攻击。",
+      "Eng": "H-hello, this is station B. We're being attacked by project ^orange;Bot of Terror^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/casette.cinematic": [
+        "/panels/2/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "对不起，再说一遍？",
+      "Eng": "I'm sorry. What?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/casette.cinematic": [
+        "/panels/5/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "并不！基本上半数的科学家都^red;死^reset;了！其他的都被困住了！",
+      "Eng": "No! Already like half of the scientists are ^red;dead^reset;! The rest are trapped!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/casette.cinematic": [
+        "/panels/4/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "哦，不！大家都还好吗！？",
+      "Eng": "Oh no! Is everyone okay?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/casette.cinematic": [
+        "/panels/7/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "好的……啊啊啊啊啊啊！！！过道塌了！！！啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！",
+      "Eng": "Okay...AAAH!!! THE HALLWAY IS CAVING IN!!! AAAAAAAAAH!!!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/casette.cinematic": [
+        "/panels/8/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "长官！长官你还好吗？！",
+      "Eng": "Sir! Sir, are you alright?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/casette.cinematic": [
+        "/panels/10/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "站点B！站点B你在听吗？！",
+      "Eng": "Station B! Station B, do you read?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/casette.cinematic": [
+        "/panels/3/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "我们正被恐怖机器人攻击，我……我们快要被困在这个设施里了！",
+      "Eng": "We're being attacked by project Bot of Terror, a-and we've already initiated lockdown on the facility."
+    }
+  }
+]

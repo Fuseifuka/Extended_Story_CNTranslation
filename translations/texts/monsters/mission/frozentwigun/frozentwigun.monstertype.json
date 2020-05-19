@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/frozentwigun/frozentwigun.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "<insert Frozen joke here>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/frozentwigun/frozentwigun.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen Twigun"
+    }
+  }
+]

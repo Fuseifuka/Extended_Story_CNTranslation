@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/minibiomes/ancientmess/ancientturret_es/ancientturret_es.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An extremely hostile automation."
+    }
+  }
+]

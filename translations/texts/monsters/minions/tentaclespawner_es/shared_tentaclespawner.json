@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/minions/tentaclespawner_es/tentaclespawner2_es.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/minions/tentaclespawner_es/tentaclespawner_es.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "tentaclespawner_es"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chargedstone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/chargedstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An electrically charged cobblestone block."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chargedstone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/chargedstone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electrically Charged Stone"
+    }
+  }
+]

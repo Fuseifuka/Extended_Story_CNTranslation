@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/meteoricsteelbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Meteoric Steel Bar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/meteoricsteelbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Steel mixed with meteorite rock. Can be used for crafting."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmancientcannon.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient cannon that shoots explosive orbs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmancientcannon.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Cannon Mech Arm"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/cryoniumore.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"霜冻锭",
+      "Eng": "Cryonium"
+    }
+  }
+]

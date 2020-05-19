@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssvortextrap_es/abyssvortextrap_es.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hole shoots more holess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssvortextrap_es/abyssvortextrap_es.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large destructive vortexes are deployed out of this hole."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssvortextrap_es/abyssvortextrap_es.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of trap that shoots dangerous swirling holes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssvortextrap_es/abyssvortextrap_es.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This 'ere vortex trap seems dangerous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssvortextrap_es/abyssvortextrap_es.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hole is shooting large destructive vortexes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssvortextrap_es/abyssvortextrap_es.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hole shoots large vortexes that destroy anything in their paths."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssvortextrap_es/abyssvortextrap_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This trap could potentially be lethal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssvortextrap_es/abyssvortextrap_es.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This trap fires vortexes to deter invaders."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssvortextrap_es/abyssvortextrap_es.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vortex Trap"
+    }
+  }
+]

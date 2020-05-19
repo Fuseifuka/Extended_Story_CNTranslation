@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/microformer/supervoid/microformersupervoid.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"超虚空地形转换器",
+      "Eng": "Supervoid Microformer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/microformer/supervoid/microformersupervoid.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"将星球改造为超虚空。^red;无法获得^reset;",
+      "Eng": "Transforms an area of a planet into supervoid essence. ^red;Unobtainable^reset;"
+    }
+  }
+]

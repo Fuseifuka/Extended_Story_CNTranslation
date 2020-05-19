@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/lunariteore.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"月神石矿",
+      "Eng": "Lunarite Ore."
+    }
+  }
+]

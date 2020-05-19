@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/halloweengrass.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"茂盛的幽灵草在这里生长。",
+      "Eng": "Lush, spooky grass is growing here."
+    }
+  }
+]

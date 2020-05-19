@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/chaingun/titaniumchaingun/titaniumchaingun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple titanium chain gun. Turn your foes into minced meat!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/chaingun/titaniumchaingun/titaniumchaingun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titanium Chain Gun"
+    }
+  }
+]

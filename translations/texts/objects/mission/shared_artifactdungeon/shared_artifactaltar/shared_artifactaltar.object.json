@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/abyssartifactdungeon/abyssartifactaltar/abyssartifactaltar.object": [
+        "/description"
+      ],
+      "objects/mission/electricartifactdungeon/electricartifactaltar/electricartifactaltar.object": [
+        "/description"
+      ],
+      "objects/mission/fireartifactdungeon/fireartifactaltar/fireartifactaltar.object": [
+        "/description"
+      ],
+      "objects/mission/iceartifactdungeon/iceartifactaltar/iceartifactaltar.object": [
+        "/description"
+      ],
+      "objects/mission/poisonartifactdungeon/poisonartifactaltar/poisonartifactaltar.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"看起来像是存放什么重要物品的东西",
+      "Eng": "It looks like it was made to hold something important."
+    }
+  }
+]

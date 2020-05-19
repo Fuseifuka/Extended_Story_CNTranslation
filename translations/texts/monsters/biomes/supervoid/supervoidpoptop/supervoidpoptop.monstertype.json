@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/supervoid/supervoidpoptop/supervoidpoptop.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An infected variant of a poptop. It is completely blind, lacking any eyes, but its blindness has been replaced with incredible hearing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/supervoid/supervoidpoptop/supervoidpoptop.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poptop Seeker"
+    }
+  }
+]

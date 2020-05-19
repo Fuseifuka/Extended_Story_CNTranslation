@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/energitecrystal.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crystal fragment infused with stamina-based energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/energitecrystal.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energite Crystal"
+    }
+  }
+]

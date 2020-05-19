@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ioncell.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A container of active uranium."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ioncell.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ion Cell"
+    }
+  }
+]

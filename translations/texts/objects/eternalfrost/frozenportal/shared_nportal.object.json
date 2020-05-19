@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frozenportal/frozenportal.object": [
+        "/apexDescription"
+      ],
+      "objects/eternalfrost/frozenportal/frozenreturnportal.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A frozen portal that leads to a random dimension"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frozenportal/frozenportal.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/eternalfrost/frozenportal/frozenreturnportal.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A frozen portal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frozenportal/frozenportal.object": [
+        "/floranDescription"
+      ],
+      "objects/eternalfrost/frozenportal/frozenreturnportal.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstrange frozen portal."
+    }
+  }
+]

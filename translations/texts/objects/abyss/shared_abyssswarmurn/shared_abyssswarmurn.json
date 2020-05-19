@@ -1,0 +1,184 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssswarmurnlarge1_es/abyssswarmurnlarge1_es.object": [
+        "/floranDescription"
+      ],
+      "objects/abyss/abyssswarmurnlarge2_es/abyssswarmurnlarge2_es.object": [
+        "/floranDescription"
+      ],
+      "objects/abyss/abyssswarmurnmedium1_es/abyssswarmurnmedium1_es.object": [
+        "/floranDescription"
+      ],
+      "objects/abyss/abyssswarmurnmedium2_es/abyssswarmurnmedium2_es.object": [
+        "/floranDescription"
+      ],
+      "objects/abyss/abyssswarmurnsmall1_es/abyssswarmurnsmall1_es.object": [
+        "/floranDescription"
+      ],
+      "objects/abyss/abyssswarmurnsmall2_es/abyssswarmurnsmall2_es.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hearss living things inssside it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssswarmurnlarge1_es/abyssswarmurnlarge1_es.object": [
+        "/apexDescription"
+      ],
+      "objects/abyss/abyssswarmurnlarge2_es/abyssswarmurnlarge2_es.object": [
+        "/apexDescription"
+      ],
+      "objects/abyss/abyssswarmurnmedium1_es/abyssswarmurnmedium1_es.object": [
+        "/apexDescription"
+      ],
+      "objects/abyss/abyssswarmurnmedium2_es/abyssswarmurnmedium2_es.object": [
+        "/apexDescription"
+      ],
+      "objects/abyss/abyssswarmurnsmall1_es/abyssswarmurnsmall1_es.object": [
+        "/apexDescription"
+      ],
+      "objects/abyss/abyssswarmurnsmall2_es/abyssswarmurnsmall2_es.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think I hear something inside...It sounds like it's alive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssswarmurnlarge1_es/abyssswarmurnlarge1_es.object": [
+        "/humanDescription"
+      ],
+      "objects/abyss/abyssswarmurnlarge2_es/abyssswarmurnlarge2_es.object": [
+        "/humanDescription"
+      ],
+      "objects/abyss/abyssswarmurnmedium1_es/abyssswarmurnmedium1_es.object": [
+        "/humanDescription"
+      ],
+      "objects/abyss/abyssswarmurnmedium2_es/abyssswarmurnmedium2_es.object": [
+        "/humanDescription"
+      ],
+      "objects/abyss/abyssswarmurnsmall1_es/abyssswarmurnsmall1_es.object": [
+        "/humanDescription"
+      ],
+      "objects/abyss/abyssswarmurnsmall2_es/abyssswarmurnsmall2_es.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This creepy urn contains something terrible."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssswarmurnlarge1_es/abyssswarmurnlarge1_es.object": [
+        "/avianDescription"
+      ],
+      "objects/abyss/abyssswarmurnlarge2_es/abyssswarmurnlarge2_es.object": [
+        "/avianDescription"
+      ],
+      "objects/abyss/abyssswarmurnmedium1_es/abyssswarmurnmedium1_es.object": [
+        "/avianDescription"
+      ],
+      "objects/abyss/abyssswarmurnmedium2_es/abyssswarmurnmedium2_es.object": [
+        "/avianDescription"
+      ],
+      "objects/abyss/abyssswarmurnsmall1_es/abyssswarmurnsmall1_es.object": [
+        "/avianDescription"
+      ],
+      "objects/abyss/abyssswarmurnsmall2_es/abyssswarmurnsmall2_es.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This urn looks cursed...It contains something terrible."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssswarmurnlarge1_es/abyssswarmurnlarge1_es.object": [
+        "/hylotlDescription"
+      ],
+      "objects/abyss/abyssswarmurnlarge2_es/abyssswarmurnlarge2_es.object": [
+        "/hylotlDescription"
+      ],
+      "objects/abyss/abyssswarmurnmedium1_es/abyssswarmurnmedium1_es.object": [
+        "/hylotlDescription"
+      ],
+      "objects/abyss/abyssswarmurnmedium2_es/abyssswarmurnmedium2_es.object": [
+        "/hylotlDescription"
+      ],
+      "objects/abyss/abyssswarmurnsmall1_es/abyssswarmurnsmall1_es.object": [
+        "/hylotlDescription"
+      ],
+      "objects/abyss/abyssswarmurnsmall2_es/abyssswarmurnsmall2_es.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vase is infested with a horrifying swarm of eyes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssswarmurnlarge1_es/abyssswarmurnlarge1_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/abyss/abyssswarmurnlarge2_es/abyssswarmurnlarge2_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/abyss/abyssswarmurnmedium1_es/abyssswarmurnmedium1_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/abyss/abyssswarmurnmedium2_es/abyssswarmurnmedium2_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/abyss/abyssswarmurnsmall1_es/abyssswarmurnsmall1_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/abyss/abyssswarmurnsmall2_es/abyssswarmurnsmall2_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vase is infested with something deadly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssswarmurnlarge1_es/abyssswarmurnlarge1_es.object": [
+        "/novakidDescription"
+      ],
+      "objects/abyss/abyssswarmurnlarge2_es/abyssswarmurnlarge2_es.object": [
+        "/novakidDescription"
+      ],
+      "objects/abyss/abyssswarmurnmedium1_es/abyssswarmurnmedium1_es.object": [
+        "/novakidDescription"
+      ],
+      "objects/abyss/abyssswarmurnmedium2_es/abyssswarmurnmedium2_es.object": [
+        "/novakidDescription"
+      ],
+      "objects/abyss/abyssswarmurnsmall1_es/abyssswarmurnsmall1_es.object": [
+        "/novakidDescription"
+      ],
+      "objects/abyss/abyssswarmurnsmall2_es/abyssswarmurnsmall2_es.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Urns like that are best left alone. Seems to have many eyes inside."
+    }
+  }
+]

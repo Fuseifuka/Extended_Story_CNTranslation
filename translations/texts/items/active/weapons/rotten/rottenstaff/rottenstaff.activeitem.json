@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/rotten/rottenstaff/rottenstaff.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A staff capable of causing decay in anything that touches its projectiles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/rotten/rottenstaff/rottenstaff.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acidic Mine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/rotten/rottenstaff/rottenstaff.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rod of Decay"
+    }
+  }
+]

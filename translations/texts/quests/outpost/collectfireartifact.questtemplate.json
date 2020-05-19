@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/collectfireartifact.questtemplate": [
+        "/scriptConfig/descriptions/artifact"
+      ]
+    },
+    "Texts": {
+      "Chs":"在^green;焱狱界^reset;中寻找^orange;神器^reset;",
+      "Eng": "Find the ^orange;artifact^reset; in ^green;the Burning Dimension^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/collectfireartifact.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"^orange;火焱神器^reset;位于^green;焱狱界^reset;中，我建议你在探索中使用任何一种变形球。通往那个空间的入口位于^#c96c28;火焱地狱^reset;",
+      "Eng": "The ^orange;fire artifact^reset; is found in the ^green;Burning Dimension^reset;. I advise that you get any kind of distortion sphere for this one. Portals for this dimension are located in ^#c96c28;raging infernos^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/collectfireartifact.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs":"^orange;火焱神器^reset;",
+      "Eng": "^orange;The Fire Artifact^reset;"
+    }
+  }
+]

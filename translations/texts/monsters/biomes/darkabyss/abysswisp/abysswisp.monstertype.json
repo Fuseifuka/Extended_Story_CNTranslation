@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/abysswisp/abysswisp.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abyss Wisp"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/darkabyss/abysswisp/abysswisp.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The dark variant of the Wisper."
+    }
+  }
+]

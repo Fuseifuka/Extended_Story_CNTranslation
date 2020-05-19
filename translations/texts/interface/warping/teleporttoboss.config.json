@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/teleporttoboss.config": [
+        "/destinations/0/planetName"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Center | No Return"
+    }
+  }
+]

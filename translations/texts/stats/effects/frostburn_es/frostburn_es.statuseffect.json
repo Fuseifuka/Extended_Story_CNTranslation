@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/frostburn_es/frostburn_es.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"霜灼-你正在燃烧并冻结。啥玩意儿？",
+      "Eng": "Frostburn - You are burning and freezing. Wait what?"
+    }
+  }
+]

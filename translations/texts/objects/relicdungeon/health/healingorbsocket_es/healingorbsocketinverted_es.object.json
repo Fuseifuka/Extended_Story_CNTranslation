@@ -1,0 +1,102 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocketinverted_es.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A healing orb socket that is inverted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocketinverted_es.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needss to usse drain on orb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocketinverted_es.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"治愈宝珠插槽（不可用）",
+      "Eng": "Healing Orb Socket (NOT)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocketinverted_es.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need to drain the health of this orb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocketinverted_es.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like I need to make it have no health."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocketinverted_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The red marks on this healing orb socket implies I need to drain the orb of its health."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocketinverted_es.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This does the opposite of a normal healing orb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocketinverted_es.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This socket is inverted, meaning I should drain its health rather than heal it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healingorbsocket_es/healingorbsocketinverted_es.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Using the health drain mode on my healing gun will allow me to continue."
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/minions/mazeminiboss3minion/mazeminiboss3minion.monstertype": [
+        "/description"
+      ],
+      "monsters/minions/tentaclespawner_es/tentaclespawner2_es.monstertype": [
+        "/description"
+      ],
+      "monsters/minions/tentaclespawner_es/tentaclespawner_es.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "-todo-"
+    }
+  }
+]

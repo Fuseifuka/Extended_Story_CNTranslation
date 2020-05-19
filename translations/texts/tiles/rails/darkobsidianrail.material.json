@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/darkobsidianrail.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"一条黑暗的黑曜石轨道",
+      "Eng": "A dark obsidian rail."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/darkobsidianrail.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"好黑的轨轨轨道！",
+      "Eng": "Dark railss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/darkobsidianrail.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"又黑又坚固的轨道。",
+      "Eng": "Some real sturdy and dark rails."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/darkobsidianrail.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Chs":"几乎是黑色的轨道。",
+      "Eng": "These rails are almost pitch black."
+    }
+  }
+]

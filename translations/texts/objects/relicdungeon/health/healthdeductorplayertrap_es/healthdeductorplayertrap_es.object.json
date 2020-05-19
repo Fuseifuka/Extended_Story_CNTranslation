@@ -1,0 +1,102 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductorplayertrap_es/healthdeductorplayertrap_es.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mechanism that fires harmful projectiles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductorplayertrap_es/healthdeductorplayertrap_es.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "By itself, this trap is easy to recover from, but combining with the low health I have, I might not make it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductorplayertrap_es/healthdeductorplayertrap_es.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hatess trap. Lookss like fire. Floran iss also weak."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductorplayertrap_es/healthdeductorplayertrap_es.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"Health Duductor（玩家用）",
+      "Eng": "Health Deductor (Player)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductorplayertrap_es/healthdeductorplayertrap_es.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I definitely want to stay away from that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductorplayertrap_es/healthdeductorplayertrap_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I must stay away from that trap. I'm so weak."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductorplayertrap_es/healthdeductorplayertrap_es.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I pray to Kluex that I do not die in here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductorplayertrap_es/healthdeductorplayertrap_es.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "One-hit wonders aren't pretty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/relicdungeon/health/healthdeductorplayertrap_es/healthdeductorplayertrap_es.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The field I went through put me into a weakened state, allowing me to die in one hit."
+    }
+  }
+]

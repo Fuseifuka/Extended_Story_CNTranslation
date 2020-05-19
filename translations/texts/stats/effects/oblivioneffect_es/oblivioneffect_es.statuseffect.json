@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/oblivioneffect_es/oblivioneffect_es.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs":"歼灭-狗带吧少年。",
+      "Eng": "Annihilated - You're going to die."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/destructium/destructium.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A helmet made of destructium.\n^cyan;Lower defense, higher damage!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/destructium/destructium.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Destructium Helmet"
+    }
+  }
+]

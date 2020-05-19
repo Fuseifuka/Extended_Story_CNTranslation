@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/collectabyssartifact.questtemplate": [
+        "/scriptConfig/descriptions/artifact"
+      ]
+    },
+    "Texts": {
+      "Chs":"在^green;暗渊界^reset;中寻找^orange;神器^reset;",
+      "Eng": "Find the ^orange;artifact^reset; in ^green;the Dark Abyss Dimension^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/collectabyssartifact.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Chs":"在令人不安的^green;暗渊界^reset;中发现了^orange;深渊神器^reset;。通往那个空间的入口位于^#666666;黑暗深渊^reset;星球。",
+      "Eng": "The ^orange;abyss artifact^reset; is found in the ^green;Dark Abyss Dimension^reset;, which is known for being extremely unsettling. Portals to this dimension are located in ^#666666;dark abyss^reset; worlds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/collectabyssartifact.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs":"^#666666;深渊神器^reset;",
+      "Eng": "^#666666;The Abyss Artifact^reset;"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/frostburnmushroomfood.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frostburn Mushroom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/frostburnmushroomfood.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mushroom provides some helpful effects but is also harmful."
+    }
+  }
+]

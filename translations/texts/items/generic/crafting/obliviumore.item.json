@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/obliviumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fragment of oblivium. Used for smelting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/obliviumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oblivium Fragment"
+    }
+  }
+]

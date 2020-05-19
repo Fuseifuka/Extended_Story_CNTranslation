@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/destructium/destructium.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Destructium Chestplate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/destructium/destructium.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Destructium shaped into a chestplate.\n^cyan;Lower defense, higher damage!"
+    }
+  }
+]

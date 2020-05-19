@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/darkmattereppback/darkmatterepp.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Completely resistant to every element."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/darkmattereppback/darkmatterepp.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Matter EPP"
+    }
+  }
+]

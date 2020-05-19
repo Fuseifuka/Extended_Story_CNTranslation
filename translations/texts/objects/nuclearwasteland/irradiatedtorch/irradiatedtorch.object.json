@@ -1,0 +1,103 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedtorch/irradiatedtorch.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A creepy lookin' torch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedtorch/irradiatedtorch.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A radioactive and eerie-looking torch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedtorch/irradiatedtorch.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eerie and radioactive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedtorch/irradiatedtorch.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I feel cursed and unpure around this torch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedtorch/irradiatedtorch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"辐射火把",
+      "Eng": "Irradiated Torch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedtorch/irradiatedtorch.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This appears to be quite evil and eerie."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedtorch/irradiatedtorch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"这种辐射火把散发着令人毛骨悚然的感觉，而且确确实实会让你得上辐射病。",
+      "Eng": "This irradiated torch gives off an eerie feeling and radiation sickness."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedtorch/irradiatedtorch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This torch gives off an evil aura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/nuclearwasteland/irradiatedtorch/irradiatedtorch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Torch isss creepy and evil."
+    }
+  }
+]

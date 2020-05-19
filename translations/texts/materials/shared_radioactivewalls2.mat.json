@@ -1,0 +1,72 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/radioactivewalls2.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/radioactivewalls2.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glowing brickss are ssmall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/radioactivewalls2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/radioactivewalls2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irradiated Stone Brick"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/radioactivewalls2.matitem": [
+        "/description"
+      ],
+      "tiles/materials/radioactivewalls2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small stone bricks that are severely irradiated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/radioactivewalls2.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/radioactivewalls2.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bricks are made outta some irradiated material."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/radioactivewalls2.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/radioactivewalls2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These small stone bricks remain intact even if they are irradiated."
+    }
+  }
+]

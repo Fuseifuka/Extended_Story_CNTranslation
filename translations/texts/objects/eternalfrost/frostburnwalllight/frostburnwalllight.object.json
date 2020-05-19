@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnwalllight/frostburnwalllight.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A frozen flame in the wall. Doesn't make no sense to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnwalllight/frostburnwalllight.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light that burns brightly with frostburn energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnwalllight/frostburnwalllight.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall light that is primitive but effective."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnwalllight/frostburnwalllight.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall light with a frostburn flame burning brightly inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnwalllight/frostburnwalllight.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cold and burning. Floran iss confusssed and sscared."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnwalllight/frostburnwalllight.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cold and hot didn't mix last time I checked."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnwalllight/frostburnwalllight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frostburn Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnwalllight/frostburnwalllight.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's surprising how this flame doesn't melt its support."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/frostburnwalllight/frostburnwalllight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The flame in this light burns brightly."
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/ancientboss2/ancientboss2.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/boss/ancientboss2/leftfist/leftfist.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/boss/ancientboss2/rightfist/rightfist.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Galactic Golem"
+    }
+  }
+]

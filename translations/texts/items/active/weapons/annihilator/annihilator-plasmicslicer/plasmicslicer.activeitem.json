@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/annihilator/annihilator-plasmicslicer/plasmicslicer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hilt with an extremely powerful blade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/annihilator/annihilator-plasmicslicer/plasmicslicer.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chaotic Blink"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/annihilator/annihilator-plasmicslicer/plasmicslicer.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ea6a56;Destructive Slicer^reset;"
+    }
+  }
+]

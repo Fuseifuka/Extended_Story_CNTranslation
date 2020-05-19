@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/directionalforceregion_es/directionalforceregionup_es.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"定向力区（向上）",
+      "Eng": "Directional Force Region (Up)"
+    }
+  }
+]

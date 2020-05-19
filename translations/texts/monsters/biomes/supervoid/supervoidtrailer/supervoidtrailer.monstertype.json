@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/supervoid/supervoidtrailer/supervoidtrailer.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A creature formed from raw supervoid essence. It will attack its target by shooting projectiles."
+    }
+  }
+]

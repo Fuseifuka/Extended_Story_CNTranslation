@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ultimatiumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A drop exclusive to any boss, and the quantity depends on the level of the boss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ultimatiumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ultimatium Ore"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/healingpistol_es/healingpistol_es.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A type of tool that emits a continuous healing beam or damaging beam."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/healingpistol_es/healingpistol_es.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Healing Gun"
+    }
+  }
+]

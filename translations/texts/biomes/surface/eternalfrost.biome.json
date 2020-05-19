@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/eternalfrost.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eternal Frost"
+    }
+  }
+]

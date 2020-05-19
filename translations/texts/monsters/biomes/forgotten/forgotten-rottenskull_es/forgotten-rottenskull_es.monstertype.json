@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/forgotten/forgotten-rottenskull_es/forgotten-rottenskull_es.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fallen Skull"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/forgotten/forgotten-rottenskull_es/forgotten-rottenskull_es.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The skull of an explorer who has fallen while on this rotting planet."
+    }
+  }
+]

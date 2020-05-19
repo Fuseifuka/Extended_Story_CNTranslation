@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/chargedsand.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pile of glowin' sand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/chargedsand.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An electrically charged pile of sand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/chargedsand.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dussty and glowing ssand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/chargedsand.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sand is electrified, yet it is not conductive."
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/ionrailgun_es/ionrailgun_es.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sniper rifle that shoots super high velocity beams. Energy Projectile Cannon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/ionrailgun_es/ionrailgun_es.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ion Gust"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/ionrailgun_es/ionrailgun_es.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Ion E.P.C.^reset;"
+    }
+  }
+]

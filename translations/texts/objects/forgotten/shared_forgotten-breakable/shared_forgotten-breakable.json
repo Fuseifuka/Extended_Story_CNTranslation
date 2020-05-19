@@ -1,0 +1,228 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable3_es/forgotten-breakable3_es.object": [
+        "/humanDescription"
+      ],
+      "objects/forgotten/forgotten-breakable4_es/forgotten-breakable4_es.object": [
+        "/humanDescription"
+      ],
+      "objects/forgotten/forgotten-breakable5_es/forgotten-breakable5_es.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A huge glob of jelly. I kind of want to poke it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable3_es/forgotten-breakable3_es.object": [
+        "/avianDescription"
+      ],
+      "objects/forgotten/forgotten-breakable4_es/forgotten-breakable4_es.object": [
+        "/avianDescription"
+      ],
+      "objects/forgotten/forgotten-breakable5_es/forgotten-breakable5_es.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large blob of slime. Why does this exist?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable3_es/forgotten-breakable3_es.object": [
+        "/apexDescription"
+      ],
+      "objects/forgotten/forgotten-breakable4_es/forgotten-breakable4_es.object": [
+        "/apexDescription"
+      ],
+      "objects/forgotten/forgotten-breakable5_es/forgotten-breakable5_es.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A putrid mound of slime. How am I meant to store this?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable1_es/forgotten-breakable1_es.object": [
+        "/hylotlDescription"
+      ],
+      "objects/forgotten/forgotten-breakable2_es/forgotten-breakable2_es.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rock with a potent odor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable1_es/forgotten-breakable1_es.object": [
+        "/description"
+      ],
+      "objects/forgotten/forgotten-breakable2_es/forgotten-breakable2_es.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"一种腐烂物质，具有类似岩石的性质。",
+      "Eng": "A rotting substance that has rock-like properties."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable1_es/forgotten-breakable1_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/forgotten/forgotten-breakable2_es/forgotten-breakable2_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rotting substance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable3_es/forgotten-breakable3_es.object": [
+        "/description"
+      ],
+      "objects/forgotten/forgotten-breakable4_es/forgotten-breakable4_es.object": [
+        "/description"
+      ],
+      "objects/forgotten/forgotten-breakable5_es/forgotten-breakable5_es.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"黏糊糊的泡沫。恶。",
+      "Eng": "A vile bubble of slime. Yuck."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable3_es/forgotten-breakable3_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/forgotten/forgotten-breakable4_es/forgotten-breakable4_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/forgotten/forgotten-breakable5_es/forgotten-breakable5_es.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vile mound of slime!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable3_es/forgotten-breakable3_es.object": [
+        "/shortdescription"
+      ],
+      "objects/forgotten/forgotten-breakable4_es/forgotten-breakable4_es.object": [
+        "/shortdescription"
+      ],
+      "objects/forgotten/forgotten-breakable5_es/forgotten-breakable5_es.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"溶解斑点",
+      "Eng": "Dissolved Blob"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable3_es/forgotten-breakable3_es.object": [
+        "/novakidDescription"
+      ],
+      "objects/forgotten/forgotten-breakable4_es/forgotten-breakable4_es.object": [
+        "/novakidDescription"
+      ],
+      "objects/forgotten/forgotten-breakable5_es/forgotten-breakable5_es.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I reckon this'll come in handy for something."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable3_es/forgotten-breakable3_es.object": [
+        "/floranDescription"
+      ],
+      "objects/forgotten/forgotten-breakable4_es/forgotten-breakable4_es.object": [
+        "/floranDescription"
+      ],
+      "objects/forgotten/forgotten-breakable5_es/forgotten-breakable5_es.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Like sssap."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable3_es/forgotten-breakable3_es.object": [
+        "/hylotlDescription"
+      ],
+      "objects/forgotten/forgotten-breakable4_es/forgotten-breakable4_es.object": [
+        "/hylotlDescription"
+      ],
+      "objects/forgotten/forgotten-breakable5_es/forgotten-breakable5_es.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slime blobs are not unpleasant to handle when you have amphibian skin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable1_es/forgotten-breakable1_es.object": [
+        "/floranDescription"
+      ],
+      "objects/forgotten/forgotten-breakable2_es/forgotten-breakable2_es.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmelly rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/forgotten/forgotten-breakable1_es/forgotten-breakable1_es.object": [
+        "/apexDescription"
+      ],
+      "objects/forgotten/forgotten-breakable2_es/forgotten-breakable2_es.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rock is rotting away!"
+    }
+  }
+]

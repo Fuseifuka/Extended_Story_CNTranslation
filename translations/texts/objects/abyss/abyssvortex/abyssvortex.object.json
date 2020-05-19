@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssvortex/abyssvortex.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abyss Vortex"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssvortex/abyssvortex.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creates a vortex that sucks in anything nearby."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/abyss/abyssvortex/abyssvortex.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Createss a vortex that suckss in anything nearby."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/abyssbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Umbrium Bar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/abyssbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Umbrium shards are primarily found on ^#666666;dark abyss^reset; planets."
+    }
+  }
+]

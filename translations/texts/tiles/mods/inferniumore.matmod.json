@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/inferniumore.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"地狱矿",
+      "Eng": "Infernium Ore."
+    }
+  }
+]

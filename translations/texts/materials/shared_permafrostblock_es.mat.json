@@ -1,0 +1,72 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/permafrostblock_es.matitem": [
+        "/description"
+      ],
+      "tiles/materials/permafrostblock_es.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mix of stone and water that is significantly harder."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/permafrostblock_es.matitem": [
+        "/floranDescription"
+      ],
+      "tiles/materials/permafrostblock_es.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cold sstone. Floran can't break sstone with ssspear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/permafrostblock_es.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/permafrostblock_es.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Permafrost Stone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/permafrostblock_es.matitem": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/permafrostblock_es.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surely hard as a rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/permafrostblock_es.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/permafrostblock_es.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ice-like material is much harder than standard ice."
+    }
+  }
+]

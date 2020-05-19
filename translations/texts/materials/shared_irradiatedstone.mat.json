@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/irradiatedstone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/irradiatedstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A piece of stone that is radioactive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/irradiatedstone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/irradiatedstone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irradiated Stone"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/rotten/rotten.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pair of rotting pants. It smells awful.\n^cyan;Causes nearby monsters to decay after taking damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/rotten/rotten.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rotten Pants"
+    }
+  }
+]

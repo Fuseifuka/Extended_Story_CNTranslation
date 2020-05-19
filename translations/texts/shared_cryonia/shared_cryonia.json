@@ -1,0 +1,23 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/miniboss/cryoniatotem/cryoniatotem.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/mission/cryoniatotemlesser/cryoniatotemlesser.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/mission/cryoniatotempuzzle/cryoniatotempuzzle.monstertype": [
+        "/shortdescription"
+      ],
+      "objects/eternalfrost/cryoniastatue/cryoniastatue.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"“冰雕”",
+      "Eng": "Cryonia Statue"
+    }
+  }
+]

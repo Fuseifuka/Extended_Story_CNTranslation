@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/cyberfacility.aimission": [
+        "/speciesText/default/selectSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "一个由机器人（不是星之子机器人）建造的极其先进的设施。",
+      "Eng": "A facility where extremely advanced robots are built(not Novakid robots)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/cyberfacility.aimission": [
+        "/speciesText/default/repeatButtonText"
+      ]
+    },
+    "Texts": {
+      "Chs": "重新挑战 星械设施",
+      "Eng": "Revisit the Novabot Facility"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/cyberfacility.aimission": [
+        "/speciesText/default/buttonText"
+      ]
+    },
+    "Texts": {
+      "Chs": "星械设施",
+      "Eng": "The Novabot Facility"
+    }
+  }
+]

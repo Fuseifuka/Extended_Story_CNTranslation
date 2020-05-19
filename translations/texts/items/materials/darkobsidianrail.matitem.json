@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkobsidianrail.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rail carved from dark obsidian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkobsidianrail.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny metal rails."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkobsidianrail.matitem": [
+        "/novakiddescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sturdy lookin' rails, gettin' the itch to ride 'em."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkobsidianrail.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The material this rail is made from makes it very strong."
+    }
+  }
+]

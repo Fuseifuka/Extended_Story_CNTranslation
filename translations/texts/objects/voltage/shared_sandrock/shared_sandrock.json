@@ -1,0 +1,146 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/voltage/sandrock1/sandrock1.object": [
+        "/description"
+      ],
+      "objects/voltage/sandrock2/sandrock2.object": [
+        "/description"
+      ],
+      "objects/voltage/sandrock3/sandrock3.object": [
+        "/description"
+      ],
+      "objects/voltage/sandrock4/sandrock4.object": [
+        "/description"
+      ],
+      "objects/voltage/sandrock5/sandrock5.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"压缩的砂岩。",
+      "Eng": "A compressed sand rock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/voltage/sandrock1/sandrock1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/voltage/sandrock2/sandrock2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/voltage/sandrock3/sandrock3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/voltage/sandrock4/sandrock4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/voltage/sandrock5/sandrock5.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"由沉积物形成的新的岩石沉积物。",
+      "Eng": "A new rock deposit formed from sediment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/voltage/sandrock1/sandrock1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/voltage/sandrock2/sandrock2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/voltage/sandrock3/sandrock3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/voltage/sandrock4/sandrock4.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/voltage/sandrock5/sandrock5.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Chs":"沉积岩。",
+      "Eng": "A sediment rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/voltage/sandrock1/sandrock1.object": [
+        "/shortdescription"
+      ],
+      "objects/voltage/sandrock2/sandrock2.object": [
+        "/shortdescription"
+      ],
+      "objects/voltage/sandrock3/sandrock3.object": [
+        "/shortdescription"
+      ],
+      "objects/voltage/sandrock4/sandrock4.object": [
+        "/shortdescription"
+      ],
+      "objects/voltage/sandrock5/sandrock5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"压缩的砂岩。",
+      "Eng": "Compressed Sand Rock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/voltage/sandrock1/sandrock1.object": [
+        "/floranDescription"
+      ],
+      "objects/voltage/sandrock2/sandrock2.object": [
+        "/floranDescription"
+      ],
+      "objects/voltage/sandrock3/sandrock3.object": [
+        "/floranDescription"
+      ],
+      "objects/voltage/sandrock4/sandrock4.object": [
+        "/floranDescription"
+      ],
+      "objects/voltage/sandrock5/sandrock5.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"沉沉沉积岩。",
+      "Eng": "Sssediment rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/voltage/sandrock1/sandrock1.object": [
+        "/apexDescription"
+      ],
+      "objects/voltage/sandrock2/sandrock2.object": [
+        "/apexDescription"
+      ],
+      "objects/voltage/sandrock3/sandrock3.object": [
+        "/apexDescription"
+      ],
+      "objects/voltage/sandrock4/sandrock4.object": [
+        "/apexDescription"
+      ],
+      "objects/voltage/sandrock5/sandrock5.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"这块岩石看起来像压缩的沉积物",
+      "Eng": "This rock looks like compressed sediment"
+    }
+  }
+]

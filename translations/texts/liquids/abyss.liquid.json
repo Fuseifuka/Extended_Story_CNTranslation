@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/abyss.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A liquid filled with eyes that are staring back at me."
+    }
+  }
+]

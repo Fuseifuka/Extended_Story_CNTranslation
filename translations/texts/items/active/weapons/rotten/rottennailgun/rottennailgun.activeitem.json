@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/rotten/rottennailgun/rottennailgun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A weapon that shoots a lot of tooth-like formations."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/rotten/rottennailgun/rottennailgun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rotten Tooth Rifle"
+    }
+  }
+]

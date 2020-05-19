@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/abyssswarmeye_es/abyssswarmeye_es.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't get excited. It's just a reskin of a Tentagnat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/abyssswarmeye_es/abyssswarmeye_es.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Swarm Eye"
+    }
+  }
+]

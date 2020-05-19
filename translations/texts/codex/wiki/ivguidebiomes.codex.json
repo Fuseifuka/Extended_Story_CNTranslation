@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidebiomes.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A book covering the biomes of the mod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidebiomes.codex": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extended Story - Biomes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidebiomes.codex": [
+        "/contentPages/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#02da06;Nuclear Wasteland^reset;\nThe ^#02da06;nuclear wasteland^reset; is a planet that is ^red;severely irradiated^reset;. These planets were polluted with nuclear radiation after many uses of nuclear power plants. No matter how deep you go, there will always be strong levels of radiation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidebiomes.codex": [
+        "/contentPages/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#666666;Dark Abyss^reset;\nThe ^#666666;dark abyss^reset; is a biome that is darker than midnight. The surface seems normal enough, until you dig deep underground, where fog becomes so common that there are literally blocks of it. It is said that you can hear the lost souls of explorers occasionally screaming. Who knows if it's true? The surface is ^red;deathly cold^reset;, and you shouldn't explore the place without the Ancient set. Can be found orbiting ^blue;frozen stars^reset; or ^red;fiery stars^reset;. Portals that lead to abyss dimension are found underground."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidebiomes.codex": [
+        "/contentPages/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#a6ceff;Permafrost^reset;\nThe ^#a6ceff;permafrost^reset; biome is a world chilled to the core(literally). These planets are very much equally as cold as ^#666666;dark abyss^reset; planets, but much worse. These planets are so cold, in fact, that the core has liquid nitrogen. Be prepared to look at ^blue;frozen stars^reset; or ^red;fiery stars^reset;, as those have this planet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidebiomes.codex": [
+        "/contentPages/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#c96c28;Eternally Burning^reset;\nThe ^#c96c28;burning^reset; biome is a planet that burns forever. Everything from the surface to the core is really, really hot! Even the AIR is ^red;burning^reset;! If the burning air doesn't kill you, then its inhabitants might. These planets are most commonly found orbiting ^red;fiery stars^reset;."
+    }
+  }
+]

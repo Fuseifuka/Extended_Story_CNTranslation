@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/supervoid.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chaotic void energy."
+    }
+  }
+]

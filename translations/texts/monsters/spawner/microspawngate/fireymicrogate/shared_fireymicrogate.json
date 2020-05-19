@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/spawner/microspawngate/fireymicrogate/fireymicrogate.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/spawner/microspawngate/fireymicrogate/fireymicrogate2.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Firey Microgate Energy"
+    }
+  }
+]

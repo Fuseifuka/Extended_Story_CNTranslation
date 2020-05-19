@@ -1,0 +1,332 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A book covering the monsters of the mod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abyss Wisp(ID - abysswisp)\nThe abyss wisp is the dark variant of the wisper, and near players, it will shoot abyss shots. They are normally encountered in the ^#666666;dark abyss^reset; planet. Currently, there is no collection associated with this monster.\nHealth - 30\nResistant to - Abyss\nWeakened by - Ion"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abysspod(ID - abysspod)\nThe abysspod is the dark variant of the pteropod, and near players, it will shoot special projectiles that shoot more projectiles. They are normally encountered in the ^#666666;dark abyss^reset; planet. Currently, there is no collection associated with this monster.\nHealth - 48\nResistant to - Abyss\nWeakened by - Ion"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Avatar - continued\ninto more lightning bolts.\nDrops -\n^orange;Ancient Blaze^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Avatar(ID - ancientavatarstatue and/or ancientavatar)\nThe Ancient Avatar is essentially a reskin of the Kluex Avatar. It has the exact same attacks except for some new ones.\nHealth - 148500\nNew Attacks -\nAncient - Shoots ancient plasma balls a the player.\nPoison - Spawns poison clouds that rain down poison.\nElectric - Shoots lightning bolts downwards that eventually explode"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Drone(ID - ancientdrone)\nThe ancient drone is a minion created by the Ancient One. They will attempt to swoop down at the player.\nHealth - 48\nResistant to - None\nWeakened by - None"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Fragment(monster)(ID - ancientfragment)\nThe ancient fragment, not to be confused with the item, is a minion created by the Ancient One that orbits around the boss shooting projectiles at the player.\nHealth - 48\nResistant to - None\nWeakened by - None"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Sentry(ID - ancientsentry)\nThe ancient sentry is a minion created by the Ancient One. They behave exactly like the kluex sentry.\nHealth - 60\nResistant to - None\nWeakened by - None"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Totem(ID - ancienttotem)\nThe ancient totem is a minion created by the Ancient One. They behave exactly like the kluex totem.\nHealth - 250\nResistant to - None\nWeakened by - None"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bot of Terror - continued\nfast projectiles that bounce around the arena.\nTesla Attack - Rapidly shoots lightning at the player.\nDrops -\nTons of pixels(100%)\n^blue;Super Tesla^reset;(100%)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bot of Terror(ID - cyberboss)\nThe Bot of Terror or B.O.T. is the current final boss of this mod. It can be encountered in the Robot Facility.\nHealth - 59400\nResistant to - Mega Damage\nWeakened by - None\nAttacks -\nMissile Attack - Shoots homing missiles at the player.\nLaser Attack - Shoots two laser beams that sweep the arena.\nMinion Attack - Summons Drones of Terror.\nRichochet Attack - Shoots 1 to 2 really"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Batong(ID - darkbatong)\nThe dark batong is the dark variant of the batong, behaving exactly like a batong. They are normally encountered in the ^#666666;dark abyss^reset; planet. Currently, there is no collection associated with this monster.\nHealth - 50\nResistant to - Abyss\nWeakened by - Ion"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Fennix(ID - darkfennix)\nThe dark fennix is the dark variant of the fennix, and it shoots abyss fire near the player. They are normally encountered in the ^#666666;dark abyss^reset; planet. Currently, there is no collection associated with this monster.\nHealth - 50\nResistant to - Abyss\nWeakened by - Ion"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Ignome(ID - darkignome)\nThe dark ignome is the dark variant of the ignome, and it attempts to ram at the player when hostile. They are normally encountered in the ^#666666;dark abyss^reset; planet. Currently, there is no collection associated with this monster.\nHealth - 50\nResistant to - Abyss\nWeakened by - Ion"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Darkoise(ID - darkoise)\nThe darkoise is the dark variant of the crustoise, and it attempts to ram at the player when hostile. They are normally encountered in the ^#666666;dark abyss^reset; planet. Currently, there is no collection associated with this monster.\nHealth - 50\nResistant to - Abyss\nWeakened by - Ion"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Darkpin(ID - darkpin)\nThe darkpin is the dark variant of the pulpin, and it rapidly shoots abyss fire at the player when hostile. They are normally encountered in the ^#666666;dark abyss^reset; planet. Currently, there is no collection associated with this monster.\nHealth - 40\nResistant to - Abyss\nWeakened by - Ion"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drone of Terror(ID - cybermini)\nThe drone of terror is a minion created by the Bot of Terror that will fly at the player.\nHealth - 80\nResistant to - None\nWeakened by - None"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explosive Quantum Minion(ID - explosivedestroyerminion)\nThe explosive quantum minion is a minion created by the Quantum Sentry. It will shoot explosive projectiles at the player.\nHealth - 3\nResistant to - None\nWeakened by - None"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extended Story - Monsters"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eye of the Supervoid(ID - error)\ncodex.ivguidemonsters.supervoidboss.entrydescription\nResistant to - (null)\nWeakened by - (null)\nAttacks -\ncodex.ivguidemonsters.supervoidboss.attacks\nDrops -\ncodex.ivguidemonsters.supervoidboss.loot"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flying Golem(ID - golemflying)\nNot what you think they are. These monsters will initially take on the appearance of a pile of rocks. It will then transform into its attack form and will try to kill you. They can be found in the ^#666666;dark abyss^reset; planet. Currently, there is no collection associated with this monster.\nHealth - 80\nResistant to - Fire\nWeakened by - Poison"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lost Soul(IDs - apexlostsoul, avianlostsoul, floranlostsoul, humanlostsoul, and hylotllostsoul)\nYou know what I said earlier about the screaming in the ^#666666;dark abyss^reset;? Yep! They exist. Their behavior is exactly like the Spookit, and they appear in 5 variants. They are encountered in the ^#666666;dark abyss^reset; planet. Currently, there is no collection associated with this monster.\nHealth - 45\nResistant to - Physical\nWeakened by - None"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Melee Quantum Minion(ID - meleedestroyerminion)\nThe melee quantum minion is a minion created by the Quantum Sentry. It will swoop down at the player.\nHealth - 48\nResistant to - None\nWeakened by - None"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Omega the Quantum Sentry - continued\nMinion.\nTeleport - Teleports around.\nMega Laser - Shoots a giant laser.\nSwoop Volley - Performs three swoops in quick succession.\nPlasma - Similar to the delayed plasma, but with different projectiles.\nDrops -\n^green;Super Redeemer^reset;(100%)\n^red;Black Hole Cannon^reset;(rare)\nCyber Core(100%)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Omega the Quantum Sentry(ID - truedestroyer)\nOmega the Quantum Sentry is a boss monster that is tier 10 and is encountered in the Limbo Dimension.\nHealth - 29700\nResistant to - None\nWeakened by - None\nAttacks -\nDelayed Plasma - Rapidly shoots balls of plasma at the player.\nSwoop - Swoops down at the player.\nMinions - Explosive Quantum Minion, Melee Quantum Minion, Ranged Quantum Minion, and Orbital Quantum"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Orbital Quantum Minion(ID - orbitaldestroyerminion)\nThe orbital quantum minion is a minion created by the Quantum Sentry. It will orbit around the Quantum Sentry and shoot projectiles at the player.\nHealth - 48\nResistant to - None\nWeakened by - None"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ranged Quantum Minion(ID - rangeddestroyerminion)\nThe ranged quantum minion is a minion created by the Quantum Sentry. It will shoot projectiles at the player.\nHealth - 3\nResistant to - None\nWeakened by - None"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Ancient One - cont. 2\nLaser Attack - Shoots laser beams at the player in different patterns similar to the Erchius Horror.\nDrops -\nFusion Core(100%)\nDark Matter Core(rare)\nAncient Fragment(many)\nAncient Essence(100%)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Ancient One - continued\ntotem(that's what they're literally called)\nSlam - Moves above the player before slamming into the ground. Again like how Dreadwing does it.\nTeleport - Teleports randomly around the arena.\nAncient Pulse - Sweeps across the arena and shoots ancient pulses downwards\nRapid Delayed Plasma - Shoots plasma at the player rapidly for 10 seconds.\nRainbow Shots - Shoots a lot of cell blast projectiles at the player."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguidemonsters.codex": [
+        "/contentPages/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Ancient One(ID - ancientboss)\nThe Ancient One is a boss monster that is tier 10 and can be encountered in the Limbo Dimension.\nHealth - 12375\nResistant to - None\nWeakened by - None\nAttacks -\nDelayed Plasma - Circles around the player, spawning auto-targeting plasma shots for 5 seconds.\nSwoop - Swoops down at the player like how Dreadwing does it.\nMinions - Spawns an ancient drone, ancient sentry, or ancient"
+    }
+  }
+]

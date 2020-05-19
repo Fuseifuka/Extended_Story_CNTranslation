@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/halloweencobblestone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Halloween Cobblestone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/halloweencobblestone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard and spooky cobblestone, smooth to the touch."
+    }
+  }
+]

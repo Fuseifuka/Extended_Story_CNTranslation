@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fogblockpacked.matitem": [
+        "/floranDescription"
+      ],
+      "tiles/materials/fogblockpacked.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess ssstrange block."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fogblockpacked.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/fogblockpacked.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Packed Fog Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fogblockpacked.matitem": [
+        "/description"
+      ],
+      "tiles/materials/fogblockpacked.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Packed fog blocks. These blocks are very dense."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fogblockpacked.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/fogblockpacked.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This block is very dense."
+    }
+  }
+]

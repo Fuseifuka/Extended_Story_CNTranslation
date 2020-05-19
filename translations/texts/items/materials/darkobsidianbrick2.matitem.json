@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkobsidianbrick2.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A piece of brick carved from dark obsidian"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkobsidianbrick2.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Obsidian Brick"
+    }
+  }
+]

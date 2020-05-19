@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/halloweencobblestone.matitem": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/halloweencobblestone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cobble that is sorta uncommon to see."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/halloweencobblestone.matitem": [
+        "/floranDescription"
+      ],
+      "tiles/materials/halloweencobblestone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmooth and sspooky cobblessstone rockss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/halloweencobblestone.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/halloweencobblestone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These cobblestones are naturally smooth and spooky."
+    }
+  }
+]

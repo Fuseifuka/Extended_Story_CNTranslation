@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/rottenjelly.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mass of dissolved material. It has a horrible smell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/rottenjelly.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mess 'o slimy lookin' jelly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/rottenjelly.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dissolved Material"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/rottenjelly.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I dislike the way this jelly jiggles; it has a foul odor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/rottenjelly.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jiggly wiggly jelly."
+    }
+  }
+]

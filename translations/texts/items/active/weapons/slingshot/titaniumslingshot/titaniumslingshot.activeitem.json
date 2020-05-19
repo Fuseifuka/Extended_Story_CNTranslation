@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/slingshot/titaniumslingshot/titaniumslingshot.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slingshot forged with titanium and copper."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/slingshot/titaniumslingshot/titaniumslingshot.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titanium Slingshot"
+    }
+  }
+]

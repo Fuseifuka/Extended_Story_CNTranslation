@@ -1,0 +1,103 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter/fdimteleporter.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cave entrance surrounded by permafrost stone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter/fdimteleporter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs":"通入一个洞穴的巨大洞口。",
+      "Eng": "A giant hole that leads to a cave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter/fdimteleporter.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple cave entrance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter/fdimteleporter.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what will be inside of this cave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter/fdimteleporter.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not particularly a cool-lookin' entrance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter/fdimteleporter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"永恒冰封洞穴入口",
+      "Eng": "Permafrost Cave Entrance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter/fdimteleporter.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssimple cave entrancce."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter/fdimteleporter.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This massive hole will lead to a cave. What's in it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/eternalfrost/fdimteleporter/fdimteleporter.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Whoever made this entrance was very unoriginal."
+    }
+  }
+]

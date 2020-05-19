@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkobsidianrail.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/rails/darkobsidianrail.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs":"黑暗黑曜石轨道",
+      "Eng": "Dark Obsidian Rail"
+    }
+  }
+]

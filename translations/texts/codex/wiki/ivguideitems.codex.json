@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideitems.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A book covering the materials and general items of the mod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideitems.codex": [
+        "/contentPages/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abyss Bar(ID - abyssbar)\nCrafted from -\n2 Abyss Shards\n1 Liquid Abyss\nCrafted at - Tier 3 Furnace\nUsed for - Fabric Bar Alloy\nLiquid Fabric(ID - liquidfabric)\nFound near the core of the ^#666666;dark abyss^reset;.\nUsed for - Fabric Bar Alloy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideitems.codex": [
+        "/contentPages/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Fragments(ID - ancientfragment)\nDropped by The Ancient One\nUsed for -\nAncient Blocks\nAncient Grenade\nDark Matter Ore(ID - darkmatterore)\nFound deep in any vanilla planet(not found on FU-type planets).\nUsed for - Dark Matter Bars\nDark Matter Bars(ID - darkmatterbar)\nCrafted from - 2 Dark Matter Ore\nUsed for -\nDark Matter Core\nDark Matter Pickaxe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideitems.codex": [
+        "/contentPages/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crafted at - Ancient Furnace\nDark Matter Core(ID - darkmattercore)\nRare drop from The Ancient One\n-OR-\nCrafted from - 20 Dark Matter Bars and a Fusion Core\nCrafted at - Tier 3 Furnace\nUsed for - Black Hole Cannon\nFusion Core(ID - fusioncore)\nDropped by The Ancient One\nUsed for - Dark Matter Core\nAbyss Shard(ID - abyssshard)\nFound in the ^#666666;dark abyss^reset; biome.\nUsed for - Abyss Bar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideitems.codex": [
+        "/contentPages/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cyber Core(ID - cybercore)\nDropped by - Omega the Quantum Sentry\n^red;Dark Matter Pickaxe^reset;(ID - darkmatterpickaxe)\nAt Architect's Table; Recipe -\n10 Dark Matter Bars\n20 Iron Bars\n5 Solarium Stars"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideitems.codex": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extended Story - Items"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/wiki/ivguideitems.codex": [
+        "/contentPages/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Liquid Abyss(ID - liquidabyss)\nFound deep in the ^#666666;dark abyss^reset;.\nUsed for - Abyss Bar\nFabric Bar Alloy\nCrafted from -\n2 Liquid Fabric\n1 Abyss Bar\nUsed for - ^#151325;The ^#2c1919;F^#361e1e;a^#402424;br^#361e1e;i^#2b1919;c ^#291f40;R^#3b2c5b;i^#50446e;pp^#3b2c5b;e^#291f40;r^reset;\nAncient Core(ID - ancientcore)\nCrafted from -\n500 Ancient Essence\n1 Refined Violium\nCrafted at - Tier 3 Furnace\nUsed for - ^orange;The Gamma-Ray Burst^reset;"
+    }
+  }
+]

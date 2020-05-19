@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/ancientforge.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/ancientfurnace.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^white;BLUEPRINTS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/ancientforge.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/ancientfurnace.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^white;PRODUCT"
+    }
+  }
+]

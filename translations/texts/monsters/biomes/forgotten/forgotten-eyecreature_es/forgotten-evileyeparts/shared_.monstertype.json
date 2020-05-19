@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/forgotten/forgotten-eyecreature_es/forgotten-evileyeparts/forgotten-evileyepart1.monstertype": [
+        "/description"
+      ],
+      "monsters/biomes/forgotten/forgotten-eyecreature_es/forgotten-evileyeparts/forgotten-evileyepart2.monstertype": [
+        "/description"
+      ],
+      "monsters/biomes/forgotten/forgotten-eyecreature_es/forgotten-evileyeparts/forgotten-eyecreature2_es.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's horrific!"
+    }
+  }
+]

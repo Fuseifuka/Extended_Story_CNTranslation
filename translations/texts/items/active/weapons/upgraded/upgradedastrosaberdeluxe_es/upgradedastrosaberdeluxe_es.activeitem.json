@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/upgraded/upgradedastrosaberdeluxe_es/upgradedastrosaberdeluxe_es.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Asuterosaberu DX ^cyan;^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/upgraded/upgradedastrosaberdeluxe_es/upgradedastrosaberdeluxe_es.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Really pretty colors. ^cyan;Upgraded"
+    }
+  }
+]

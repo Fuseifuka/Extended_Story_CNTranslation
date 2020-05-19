@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/burningbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Infernium Bar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/burningbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This bar is unusually hot and is in a permanent state of burning.^green; Used for crafting Infernium weapons^reset;."
+    }
+  }
+]

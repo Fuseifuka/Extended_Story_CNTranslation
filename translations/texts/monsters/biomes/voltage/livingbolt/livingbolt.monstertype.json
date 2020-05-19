@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/voltage/livingbolt/livingbolt.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lightning-shaped creature with a glowing outer shell. It attacks by ramming into its target."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/biomes/voltage/livingbolt/livingbolt.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Living Bolt"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/rotten/rotten.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chestplate made entirely of bacteria and rotting goo. Gross.\n^cyan;Causes nearby monsters to decay after taking damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/rotten/rotten.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rotten Chestplate"
+    }
+  }
+]
